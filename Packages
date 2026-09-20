@@ -188,7 +188,6 @@ Name: A狗动态岛激活码生成器
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Description: A狗动态岛（ios16dao）激活码生成器。生成 18 位激活码，纯本地计算、不联网。
- 
  使用说明：
  1. 打开 A狗动态岛 的授权弹窗，记下 12 位十六进制设备码（如 B67E31825990）；
  2. 用 Filza 进入 /var/jb/Library/，打开「A狗动态岛激活码生成器.html」；
