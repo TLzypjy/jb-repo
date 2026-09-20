@@ -8,14 +8,9 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "熊猫助手微信插件",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 10,
-                    "itemSize": "{700, 1200}",
+                    "itemSize": "{700, 1100}",
                     "screenshots": [
                         {
                             "accessibilityText": "熊猫助手",
