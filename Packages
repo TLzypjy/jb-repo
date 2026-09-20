@@ -973,3 +973,26 @@ Size: 2346244
 MD5sum: 56642de3ee9db576e9edd8901d636003
 SHA1: a15b8c146b7aa7a5a59f946526450afc7e5ce00d
 SHA256: 73e07737f7de25ff5c52407138e7e52d13a614e2b99640dd9de3108d1868a6a4
+
+Author: Netskao
+Maintainer: BigBoss
+Name: 微信净化 2026.04
+Package: netskao.wechatpurifications
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Section: 微信插件
+Installed-Size: 23256
+Version: 2026.04
+Architecture: iphoneos-arm64e
+Description: 微信净化 2026.04 版本
+ * 还原聊天本质，干净的微信给你
+ * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
+ * 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解
+Conflicts: netskao.wechatpurification
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
+Size: 7996412
+MD5sum: 0c1d1ae9cddaefd45b517ed4c8737468
+SHA1: 4a3f0c4477120e4123b8afa510b9e2c7399d27e7
+SHA256: 10a8ead9bf54dff054d00304f233037f2bb1c79ee01b77cab267a2541a397c76
