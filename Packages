@@ -627,6 +627,7 @@ Author: SHTM
 Section: 微信插件
 Depends: mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/AmpLifySettings.bundle/icon.png
+SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.shtm.amplify.json
 Architecture: iphoneos-arm64
 Version: 1.1-0beta2
 Installed-Size: 2008
