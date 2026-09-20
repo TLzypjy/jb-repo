@@ -402,17 +402,17 @@ Name: 乌贼本地离线授权
 Description: 乌贼三件套通杀插件，内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）
 Maintainer: BVN
 Author: BVN
-Section: Tweaks
+Section: 工具
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64e
 Version: 1.0.1-1
 Installed-Size: 328
 Icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
 Filename: debs/com.bvm.wuzeililiang_1.0.1-1_iphoneos-arm64e.deb
-Size: 38100
-MD5sum: 04a86be5dacc7b092396fad0149d354a
-SHA1: 0d3bae08a3d9b5f513e194124fdfc45438385d2b
-SHA256: d74a79f75baae62cf7514a781c9884e5c980c2b5187ca30da3319315710d03be
+Size: 38092
+MD5sum: edbdb03513b16f3880b7acd7cd0554d9
+SHA1: c5f46ce1816793ee2fc7ca995cb98b92e6e61289
+SHA256: 8026c0829fe9c7b5febe958a962814756ff9bd35ac0c2ff6b706e8e210400960
 
 Package: com.bvn.copyvault.rl
 Name: CopyVault（免授权）
