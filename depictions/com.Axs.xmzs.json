@@ -1,0 +1,29 @@
+{
+    "class": "DepictionTabView",
+    "tintColor": "#007AFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "熊猫助手微信插件",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 10,
+                    "itemSize": "{700, 1200}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "熊猫助手",
+                            "url": "https://tlzypjy.github.io/jb-repo/screenshots/xmzs.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
