@@ -4,12 +4,12 @@ Suite: stable
 Codename: ios16
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Description: jb-repo
-Date: Sun, 20 Sep 2026 14:18:12 GMT
+Date: Sun, 20 Sep 2026 14:21:03 GMT
 MD5Sum:
- e22a7af838a43b98a26131f0c850d9ee 41187 Packages
- 5bb7084c3357daf4358d718f0086cf31 13438 Packages.bz2
- 92e7a3d6037a7abdaf9c0a08ef166e4f 13484 Packages.xz
+ d6bdb4361bb61f1af75dcebd132ee764 41187 Packages
+ c73b9c04d576a2370ba6071c13c7a0b7 13399 Packages.bz2
+ 9a95c282d48c8ef7046165f33fbdd4e2 13484 Packages.xz
 SHA256:
- c704fb095d86377a7fce1cbd1cf58b7ef5375365c5a4f043b6419fed3ffdf758 41187 Packages
- eb07648235f2cecd59d8e19efcd8fd9c570268a94fbe8978a604d4d9761233a7 13438 Packages.bz2
- 6ede63ce25be1277c2b83452bf5ab7b073a8c10f140e9ee7cc4cd9182f1e34af 13484 Packages.xz
+ d8d394d11713314dc27a34783fb0b6339ad23c462f8782ff290c871b5b39a8bc 41187 Packages
+ 2676340d6ac8ee3b56c2bd6ab3f34c4cb64a1f191cbcb4a939f0e8afdb1eea10 13399 Packages.bz2
+ 832703fa2c2456bc375d550ea0492c81b5c5092a2e623d283a573546ecfc96c0 13484 Packages.xz
