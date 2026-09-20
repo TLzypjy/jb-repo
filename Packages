@@ -5,14 +5,14 @@ Maintainer: JJ
 Author: JJ
 Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Version: 1.0.0
 Installed-Size: 296
-Filename: debs/axssb666_1.0.0_iphoneos-arm64e.deb
-Size: 40692
-MD5sum: c73d0c29e44e6065060cd9f550904e7b
-SHA1: 85aecb90be019322f0ac381f984969929ffaf30b
-SHA256: b4ad77e42bb8661fa7e2d3a9b8d729c7f4c731cc15a8c62d2aea2f443913f17d
+Filename: debs/axssb666_1.0.0_iphoneos-arm64.deb
+Size: 40690
+MD5sum: 1fec19e11cec7ac8e1211e8d0d2a2f90
+SHA1: 0627c90e13be282a80f745d2309f458ea57819c1
+SHA256: 493879b30298a28541b9b6d2b9eee2b8838a7f2ee4ef7097787c8c91fe3dc232
 
 Package: byg.iosios.net.mango
 Version: 1.0-Beta4-2
