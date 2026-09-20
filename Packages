@@ -619,6 +619,23 @@ MD5sum: 707ae0dab77f536abe8116282fac0081
 SHA1: 7d7a873a10d1b7d14a1b4abe9483f4ba8d71cd99
 SHA256: 175368bd12cc68b2f8b66ade87f9e5a0f712168f17bdd7dc291951c905e5494b
 
+Package: com.shtm.amplify
+Name: AmpLify
+Description: 微信美化插件
+Maintainer: SHTM
+Author: SHTM
+Section: 微信插件
+Depends: mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/AmpLifySettings.bundle/icon.png
+Architecture: iphoneos-arm64
+Version: 1.1-0beta2
+Installed-Size: 2008
+Filename: debs/com.shtm.amplify_1.1-0beta2_iphoneos-arm64.deb
+Size: 514264
+MD5sum: 697790000817f82f91f8a9e2deeeaaa3
+SHA1: 64f9c18cf695dba55ac6a5b5cc4551415a55e2bf
+SHA256: 443bc677961ba570bbe229e97fb555bfcba962eea2ea37a8981bebeb7bc3b222
+
 Package: com.siwenjiajia.tweak.comm
 Name: 抖音优化（免授权）
 Version: 28.35
