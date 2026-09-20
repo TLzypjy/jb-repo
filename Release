@@ -1,23 +1,7 @@
-Origin: personal-jb-repo
-Label: 自用插件源
+Origin: jb-repo
+Label: jb-repo
 Suite: stable
-Version: 1.0
-Codename: personal-jb-repo
+Codename: ios16
 Architectures: iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: 自用插件源（个人自用，插件由本人维护）
-
-MD5Sum:
- d5698da28507f950168e11686ce6643a 41258 Packages
- eb2ae7b637e8617b991028917af003db 13453 Packages.bz2
- 99137b3de7bc74464634fd049f610964 13524 Packages.xz
-
-SHA1:
- 06e1470a0204c161ef9435f006c8742c476b3f28 41258 Packages
- e432634cf05b0cfb02d495efa537c80556bf20c0 13453 Packages.bz2
- eae87217ffa54ea24f000197234d65e06d393e3e 13524 Packages.xz
-
-SHA256:
- 93f4d301830a9e5c52abcc1d878adbac5031b91495dc92b54390a2efb1626971 41258 Packages
- 354f13d5cb9012a3e6787a9057a1bb0213a093db54aea944e656d2ae9d5685a3 13453 Packages.bz2
- de12c09379a9371b2f3e76cab26ad28bfe34bd0d7c654f169229cf67e4ea021d 13524 Packages.xz
+Description: jb-repo
+Date: 2026-09-20 21:56:08
