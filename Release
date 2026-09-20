@@ -1,15 +1,23 @@
-Origin: jb-repo
-Label: jb-repo
+Origin: personal-jb-repo
+Label: 自用插件源
 Suite: stable
-Codename: ios16
+Version: 1.0
+Codename: personal-jb-repo
 Architectures: iphoneos-arm64 iphoneos-arm64e
-Description: jb-repo
-Date: Sun, 20 Sep 2026 14:21:03 GMT
+Components: main
+Description: 自用插件源（个人自用，插件由本人维护）
+
 MD5Sum:
- d6bdb4361bb61f1af75dcebd132ee764 41187 Packages
- c73b9c04d576a2370ba6071c13c7a0b7 13399 Packages.bz2
- 9a95c282d48c8ef7046165f33fbdd4e2 13484 Packages.xz
+ ae1c0bde9f7c517723fb28f23e574f7d 41592 Packages
+ 43d6cce4ae2df35ccce0af5a0d1c87dd 13308 Packages.bz2
+ 1f66067cad5a09b424ddca4467c4b87a 13328 Packages.xz
+
+SHA1:
+ ea09cf83db7060eb7ab8a97dd907855ee9be2b28 41592 Packages
+ 6e2f5d082f77729307839c472e80bae61f4c0573 13308 Packages.bz2
+ 5877d7bc54e0ec246375bb1a872c856a4e90fdf5 13328 Packages.xz
+
 SHA256:
- d8d394d11713314dc27a34783fb0b6339ad23c462f8782ff290c871b5b39a8bc 41187 Packages
- 2676340d6ac8ee3b56c2bd6ab3f34c4cb64a1f191cbcb4a939f0e8afdb1eea10 13399 Packages.bz2
- 832703fa2c2456bc375d550ea0492c81b5c5092a2e623d283a573546ecfc96c0 13484 Packages.xz
+ 583e181b75441099e3b224950518f5109b8f3b824cc1e8152785616aae44a768 41592 Packages
+ b305d43de8a5d79245533d717afbee2591c23bad081febbbbdce1f5d14dd98bf 13308 Packages.bz2
+ fc4ef81bd5964072ffaabdede5013e602b2d0c35a8f7d95a3b991a407322888c 13328 Packages.xz
