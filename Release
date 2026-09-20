@@ -5,19 +5,19 @@ Version: 1.0
 Codename: personal-jb-repo
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 自用插件源（个人自用，插件由本人维护）
+Description: 自用插件源
 
 MD5Sum:
  ddff527a9af75bff7cd6c78843e48144 43776 Packages
- cd6c6e0ee97458e9a910a42b8ffc599e 13910 Packages.bz2
- 3c7c052343883c8c0b8c6e532c9ea95f 14012 Packages.xz
+ 4cc7c2f896b55f50820d29dcee1b3f0a 13905 Packages.bz2
+ ee857708ffd2ef068e37e85cfc4a22a6 14048 Packages.xz
 
 SHA1:
  ae52d1524e92662d1b008b77976a3196d370cbfe 43776 Packages
- 00f877cd190758e1577e0267d91cfd56ae39e133 13910 Packages.bz2
- 5dd81505a9b9ed554c915a59e853e23aaf7959c4 14012 Packages.xz
+ 058020c0605dacc78b9d9b0da66d45288f39929a 13905 Packages.bz2
+ 7cdc7c469c568689bb13e68fea35f2537a460c6f 14048 Packages.xz
 
 SHA256:
  e023ee599781af1b498bd1d314d6cfbc9adf751b9f227a2a97b342d69a609746 43776 Packages
- a9c14b2ae632911ad171069d17a5450efe834f8b7e35b4a8d41d2b61c97127dd 13910 Packages.bz2
- 582b4cc95eb41939be7b4397abd6beaa4ef05062d5e1374d061774f3c02adcbb 14012 Packages.xz
+ 9bc494ce3c9755f79de9b7c306191afeccd0de0ed695d25926b1d4e16c57d694 13905 Packages.bz2
+ f7316779331b91881b98874a6d4935538a9d16be767a34f25477809659f0d65a 14048 Packages.xz
