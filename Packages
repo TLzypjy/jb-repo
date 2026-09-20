@@ -349,13 +349,13 @@ MD5sum: bf9bed1ad5d4b4e6be4a36259084b00c
 SHA1: af49e9e108361c8f1d7eb2c8d4772b2058b20f61
 SHA256: 08363d1172528f11b9050d61492715b0878d1f3c6578abc542101b5587345330
 
-Maintainer: 冰蓝
-Section: 系统美化
+Package: com.binglan.dynamicfx
 Name: 冰蓝灵动岛背景（免授权）
 Version: 1.0.7
-Package: com.binglan.dynamicfx
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Section: 系统美化
+Maintainer: 冰蓝
 Author: 冰蓝
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Installed-Size: 772
 Description: 灵动岛背景？
 Architecture: iphoneos-arm64
