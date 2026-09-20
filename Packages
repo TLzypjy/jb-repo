@@ -192,7 +192,7 @@ Architecture: iphoneos-arm64
 Version: 1.1-4C
 Installed-Size: 3728
 Icon: https://axs66.github.io/pro/icon/wechat.png
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/xmzs/js.json
+Sileodepiction: https://tlzypjy.github.io/jb-repo/depictions/com.Axs.xmzs.json
 Filename: debs/com.Axs.xmzs_1.1-4C_iphoneos-arm64.deb
 Size: 1091608
 MD5sum: 8349817d3f3e4a0d935c64405f66b67c
