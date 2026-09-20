@@ -9,10 +9,10 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0-1
 Installed-Size: 296
 Filename: debs/axssb666_1.0.0_iphoneos-arm64e.deb
-Size: 40790
-MD5sum: 082fe33f2c7d320c3332a891fa4577f0
-SHA1: 071a6f148f816f658c754146a5e152b9721bdbe4
-SHA256: 46ff9965b69635fb58dc9630c34de7b43f2fa55657a30881d952e2d21f3a0fb3
+Size: 68910
+MD5sum: ce2696aa64d1358bba6f1f968bdbeb9b
+SHA1: a8cf28d614261b8b964b7ae7cd812efd4559e413
+SHA256: 68f862066547ad408a5e7322c7aefa686e06a509739b0be3a5051da02099392f
 
 Package: byg.iosios.net.mango
 Version: 1.0-Beta4-2
@@ -361,10 +361,10 @@ Architecture: iphoneos-arm64e
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 Filename: debs/com.axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 635728
-MD5sum: 98de1e70a539264e1b9943f3db547452
-SHA1: 3d2e8da619083c925fef705412c0ad1bf9eafd8b
-SHA256: 9561520722051295c9413f7886ba1e39cb6c48ac8f533c127b3e4796d5180c48
+Size: 636812
+MD5sum: d667d96469461e143ba9643edc6cb365
+SHA1: 40089e2cb00c2717a85e9b4ecd4258dc6be35f89
+SHA256: a60be028613ec4962057fa8c49098f9298a10fb82c211f75c3639c5d3e3221e1
 
 Maintainer: 冰蓝
 Section: 系统美化
