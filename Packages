@@ -4,15 +4,15 @@ Description: 微信全局圆角破解组件，需要同时装上全局圆角生�
 Maintainer: JJ
 Author: JJ
 Section: 微信插件
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), com.Axs.yuanjiao
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Installed-Size: 296
 Filename: debs/axssb666_1.0.0_iphoneos-arm64.deb
-Size: 40678
-MD5sum: d1c7b049249cbb9283d29a8cc29fda6b
-SHA1: bc3c62bb9afda807fb39da60afe914e690e1fd7c
-SHA256: 875e8a60107f0de2d24e7753e9e52e610365f5cb893dc100c2c0ced6413ccf8b
+Size: 40700
+MD5sum: 74648525b18d37be3914874ea69ee221
+SHA1: 8290497db9bec904a2a9cca1bfc9dbc2cf7a64fc
+SHA256: 0d216c2b95ed10f554ff52fc94e6973b6aa98237a45b4c05304114c89fa95c33
 
 Package: byg.iosios.net.mango
 Version: 1.0-Beta4-2
