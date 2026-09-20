@@ -10,7 +10,7 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 10,
-                    "itemSize": "{700, 800}",
+                    "itemSize": "{690, 904}",
                     "screenshots": [
                         {
                             "accessibilityText": "熊猫助手",
