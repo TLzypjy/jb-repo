@@ -4,7 +4,7 @@ Suite: stable
 Codename: ios16
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Description: jb-repo
-Date: 周日, 20 9月 2026 14:08:25 GMT
+Date: Sun, 20 Sep 2026 14:09:36 GMT
 MD5Sum:
  6c95bc74dfcfb4439130144425876125 41189 Packages
  6312642e8c8a7c0da859734191a56415 13405 Packages.bz2
