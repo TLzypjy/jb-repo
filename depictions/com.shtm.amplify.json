@@ -1,17 +1,27 @@
 {
-    "class": "Depiction",
-    "version": "0.1",
-    "name": "AmpLify",
+    "class": "DepictionTabView",
     "tintColor": "#007AFF",
-    "sections": [
+    "minVersion": "0.3",
+    "tabs": [
         {
-            "class": "DepictionScreenshotsSection",
-            "screenshots": [
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
                 {
-                    "url": "https://tlzypjy.github.io/jb-repo/screenshots/amplify.jpg",
-                    "width": 750,
-                    "height": 1624,
-                    "accessibilityLabel": "AmpLify"
+                    "markdown": "微信美化插件",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 10,
+                    "itemSize": "{750, 1624}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "AmpLify",
+                            "url": "https://tlzypjy.github.io/jb-repo/screenshots/amplify.jpg"
+                        }
+                    ]
                 }
             ]
         }
