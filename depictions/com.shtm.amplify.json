@@ -1,12 +1,19 @@
 {
-    "screenshots":  [
-                        {
-                            "url":  "https://tlzypjy.github.io/jb-repo/screenshots/amplify.jpg",
-                            "width":  750,
-                            "height":  1624
-                        }
-                    ],
-    "name":  "AmpLify",
-    "version":  "0.1",
-    "class":  "Depiction"
+    "class": "Depiction",
+    "version": "0.1",
+    "name": "AmpLify",
+    "tintColor": "#007AFF",
+    "sections": [
+        {
+            "class": "DepictionScreenshotsSection",
+            "screenshots": [
+                {
+                    "url": "https://tlzypjy.github.io/jb-repo/screenshots/amplify.jpg",
+                    "width": 750,
+                    "height": 1624,
+                    "accessibilityLabel": "AmpLify"
+                }
+            ]
+        }
+    ]
 }
