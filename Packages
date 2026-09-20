@@ -183,6 +183,23 @@ MD5sum: 8349817d3f3e4a0d935c64405f66b67c
 SHA1: bcc6b9659cde00cbe4eaa8b058ddbecebab51f81
 SHA256: ec9fda06272a8af6478dfdc3db90ee05e4a34fc664b5ae89b013e5867fcc6a19
 
+Package: com.Axs.yuanjiao
+Name: 微信全局圆角
+Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Section: 微信插件
+Maintainer: Axs
+Author: A
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.8.6
+Architecture: iphoneos-arm64e
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+Filename: debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Size: 635628
+MD5sum: 3581a62cbf3c3a6543843c7de72e501a
+SHA1: 7606dad0e67c6ac497bb6d2b28bfd3990feee4ec
+SHA256: 3a62c078555b3b72b88fd66d115edf368fd7e64480433aaff559f0b13b9cf36f
+
 Package: com.axs.ios16dao.keygen
 Name: A狗动态岛激活码生成器
 Version: 1.0.0
