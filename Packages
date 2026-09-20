@@ -6,13 +6,13 @@ Author: JJ
 Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000), com.axs.yuanjiao
 Architecture: iphoneos-arm64e
-Version: 1.0.0
+Version: 1.0.0-1
 Installed-Size: 296
 Filename: debs/axssb666_1.0.0_iphoneos-arm64e.deb
-Size: 40788
-MD5sum: dcaea96314c79a79929e73d08993113c
-SHA1: fea2dc5c3f606affb51b78247250479df17be73c
-SHA256: 8d7a6511da94e5f0cfe2db1c8853622f6f5b231a9a156d63f16613fa9c96f06c
+Size: 40790
+MD5sum: 082fe33f2c7d320c3332a891fa4577f0
+SHA1: 071a6f148f816f658c754146a5e152b9721bdbe4
+SHA256: 46ff9965b69635fb58dc9630c34de7b43f2fa55657a30881d952e2d21f3a0fb3
 
 Package: byg.iosios.net.mango
 Version: 1.0-Beta4-2
@@ -356,15 +356,15 @@ Section: 微信插件
 Maintainer: Axs
 Author: A
 Depends: mobilesubstrate (>= 0.9.5000)
-Version: 1.8.6
+Version: 1.8.6-1
 Architecture: iphoneos-arm64e
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 Filename: debs/com.axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 635724
-MD5sum: d1d18b2c2e7f075ab765c4cee9bd5368
-SHA1: 50b04eb2ba46209e3a1bee6d776358157045ac8b
-SHA256: c4d538c5b20708833dcc37612c7edf7bd024198ecb3d3e3b78e461ac07b3b4ec
+Size: 635728
+MD5sum: 98de1e70a539264e1b9943f3db547452
+SHA1: 3d2e8da619083c925fef705412c0ad1bf9eafd8b
+SHA256: 9561520722051295c9413f7886ba1e39cb6c48ac8f533c127b3e4796d5180c48
 
 Maintainer: 冰蓝
 Section: 系统美化
