@@ -1,18 +1,18 @@
 Package: axssb666
-Name: axssb666
-Description: axssb666
+Name: 微信全局圆角（免授权）
+Description: 微信全局圆角破解组件，需要同时装上全局圆角生效
 Maintainer: JJ
 Author: JJ
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
+Section: 微信插件
+Depends: mobilesubstrate (>= 0.9.5000), com.axs.yuanjiao
+Architecture: iphoneos-arm64e
 Version: 1.0.0
 Installed-Size: 296
 Filename: debs/axssb666_1.0.0_iphoneos-arm64.deb
-Size: 40574
-MD5sum: c3c7d432a2f1aef12ee9abf0f8a8236d
-SHA1: d3347cd72f103315168b0f13052f2ab61daca6fc
-SHA256: e7eb60f8eec1f3eee72b9d2f790dec8cd68002114284fe139e48e73dd751c891
+Size: 68906
+MD5sum: 9b27d7f317304691d034b49a97a6b9c6
+SHA1: ffa76f3bc255060b7b81e14bbc7ea4b6d8af2c9f
+SHA256: 954d639760f7b2db29b119e1ec4d79eb832e07ad5ee66bac9abc3d599701f25b
 
 Package: byg.iosios.net.mango
 Version: 1.0-Beta4-2
@@ -200,7 +200,7 @@ SHA1: bcc6b9659cde00cbe4eaa8b058ddbecebab51f81
 SHA256: ec9fda06272a8af6478dfdc3db90ee05e4a34fc664b5ae89b013e5867fcc6a19
 
 Package: com.Axs.yuanjiao
-Name: 全局圆角
+Name: 微信全局圆角
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Section: 微信插件
 Maintainer: Axs
@@ -211,10 +211,10 @@ Architecture: iphoneos-arm64e
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 Filename: debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 635644
-MD5sum: 1684fbbc02b2f738e73576c8ea19778c
-SHA1: d01713775961794f811bc9469bae3fab938ef80f
-SHA256: af31bf1ecbe358fa86e7199e075ad1b866a9230a7e1cf7709376d747b7f72c1f
+Size: 634680
+MD5sum: 56a0590883b2c933bf68dce8836599ed
+SHA1: 2adf3a288bb187d7bf78a7a3701e678eaf68b98a
+SHA256: 312984fb20ee4e7ff6fb840775759692cbcf0a260ac80f950d746d4bb5e0d7b2
 
 Package: com.axs.ios16dao.keygen
 Name: A狗动态岛激活码生成器
