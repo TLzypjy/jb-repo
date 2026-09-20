@@ -188,6 +188,7 @@ Name: A狗动态岛激活码生成器
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Description: A狗动态岛（ios16dao）激活码生成器。生成 18 位激活码，纯本地计算、不联网。
+ 
  使用说明：
  1. 打开 A狗动态岛 的授权弹窗，记下 12 位十六进制设备码（如 B67E31825990）；
  2. 用 Filza 进入 /var/jb/Library/，打开「A狗动态岛激活码生成器.html」；
@@ -349,13 +350,13 @@ MD5sum: bf9bed1ad5d4b4e6be4a36259084b00c
 SHA1: af49e9e108361c8f1d7eb2c8d4772b2058b20f61
 SHA256: 08363d1172528f11b9050d61492715b0878d1f3c6578abc542101b5587345330
 
-Package: com.binglan.dynamicfx
+Maintainer: 冰蓝
+Section: 系统美化
 Name: 冰蓝灵动岛背景（免授权）
 Version: 1.0.7
-Section: 系统美化
-Maintainer: 冰蓝
-Author: 冰蓝
+Package: com.binglan.dynamicfx
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Author: 冰蓝
 Installed-Size: 772
 Description: 灵动岛背景？
 Architecture: iphoneos-arm64
@@ -803,7 +804,7 @@ SHA256: 0a3835b016ee58d275a1a732e23e5cdaa8f97a6dd493eeec335f59ff11306a63
 
 Package: com.wkk.copylogx
 Name: CopylogX（wkk）
-Description: 一款可以拷贝文件/图片/文本/屏蔽越狱使用且支持 iOS15-17 Dopamine/relaxin 越狱的剪贴板
+Description: cool！
 Maintainer: wkk
 Author: wkk
 Section: 工具
@@ -813,10 +814,10 @@ Architecture: iphoneos-arm64
 Version: 1.1-9
 Installed-Size: 1828
 Filename: debs/com.wkk.copylogx_1.1-9_iphoneos-arm64.deb
-Size: 273144
-MD5sum: 0a3d961db75db39ce6631916fbc549c0
-SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
-SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
+Size: 273136
+MD5sum: 257634ba3d61b3916d16238923d54d24
+SHA1: 44425af08268cc4eaa52e1c25e6bbbaf7ba256a9
+SHA256: a2bbc0bc150ebf3f9b88f4771f82e2c9f3cc537e72efdbdf7ba5ec204149ade7
 
 Package: com.wkk.installedpackages
 Name: InstalledPackages（wkk）
@@ -939,16 +940,3 @@ Size: 2346244
 MD5sum: 56642de3ee9db576e9edd8901d636003
 SHA1: a15b8c146b7aa7a5a59f946526450afc7e5ce00d
 SHA256: 73e07737f7de25ff5c52407138e7e52d13a614e2b99640dd9de3108d1868a6a4
-Package: axssb666
-Name: 微信全局圆角（免授权）
-Description: A狗微信全局圆角破解组件 安装此组件即可解锁授权 需要配合全局圆角主插件使用
-Maintainer: JJ
-Author: JJ
-Section: 微信插件
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Installed-Size: 296
-Filename: debs/axssb666_1.0.0_iphoneos-arm64e.deb
-Size: 40689
-MD5sum: 4725a0dc5d3dccc4dddd84068c41e152
