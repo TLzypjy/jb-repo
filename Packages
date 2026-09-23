@@ -997,3 +997,21 @@ Size: 7996412
 MD5sum: 0c1d1ae9cddaefd45b517ed4c8737468
 SHA1: 4a3f0c4477120e4123b8afa510b9e2c7399d27e7
 SHA256: 10a8ead9bf54dff054d00304f233037f2bb1c79ee01b77cab267a2541a397c76
+
+Package: com.crctdd.stayalivelite
+Name: 后台运行
+Description: 为指定App开启守护后台，将任务角色注册为Inactive(非活跃)，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Section: 工具
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader
+Priority: optional
+Maintainer: crctdd
+Author: crctdd
+Architecture: iphoneos-arm64e
+Version: 0.1.7
+Installed-Size: 300
+Filename: debs/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
+Size: 65844
+MD5sum: 31b9e4ab8764f3f7c5d1d4425c5e24f8
+SHA1: 9856c32cad99eecce342bba71b4cb53c2a7b0b03
+SHA256: 7a3e44919a3083f0b15c05b2e9d1b60796468ba254eb20bc3e2e5b5ff7dac78a
+
