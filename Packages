@@ -366,11 +366,11 @@ MD5sum: bf9bed1ad5d4b4e6be4a36259084b00c
 SHA1: af49e9e108361c8f1d7eb2c8d4772b2058b20f61
 SHA256: 08363d1172528f11b9050d61492715b0878d1f3c6578abc542101b5587345330
 
+Package: com.binglan.dynamicfx
 Maintainer: 冰蓝
 Section: 系统美化
 Name: 冰蓝灵动岛背景（免授权）
 Version: 1.0.7
-Package: com.binglan.dynamicfx
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Author: 冰蓝
 Installed-Size: 772
@@ -975,15 +975,8 @@ MD5sum: 56642de3ee9db576e9edd8901d636003
 SHA1: a15b8c146b7aa7a5a59f946526450afc7e5ce00d
 SHA256: 73e07737f7de25ff5c52407138e7e52d13a614e2b99640dd9de3108d1868a6a4
 
-Author: Netskao
-Maintainer: BigBoss
-Name: 微信净化 2026.04
 Package: netskao.wechatpurifications
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
-Section: 微信插件
-Installed-Size: 23256
-Version: 2026.04
-Architecture: iphoneos-arm64e
+Name: 微信净化 2026.04
 Description: 微信净化 2026.04 版本
  * 还原聊天本质，干净的微信给你
  * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
@@ -1014,4 +1007,3 @@ Size: 65844
 MD5sum: 31b9e4ab8764f3f7c5d1d4425c5e24f8
 SHA1: 9856c32cad99eecce342bba71b4cb53c2a7b0b03
 SHA256: 7a3e44919a3083f0b15c05b2e9d1b60796468ba254eb20bc3e2e5b5ff7dac78a
-
