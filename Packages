@@ -846,12 +846,12 @@ Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceload
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64
 Version: 1.1-9
-Installed-Size: 1828
+Installed-Size: 273144
 Filename: debs/com.wkk.copylogx_1.1-9_iphoneos-arm64.deb
-Size: 273136
-MD5sum: 257634ba3d61b3916d16238923d54d24
-SHA1: 44425af08268cc4eaa52e1c25e6bbbaf7ba256a9
-SHA256: a2bbc0bc150ebf3f9b88f4771f82e2c9f3cc537e72efdbdf7ba5ec204149ade7
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.wkk.installedpackages
 Name: InstalledPackages（wkk）
@@ -867,12 +867,12 @@ Tag: purpose::application, compatible_min::ios15
 Icon: file:///Applications/InstalledPackages.app/icon_large.png
 Architecture: iphoneos-arm64
 Version: 1.0-1
-Installed-Size: 912
+Installed-Size: 273144
 Filename: debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64.deb
-Size: 431928
-MD5sum: a8375463f23edef27aa6989f592d963b
-SHA1: ba9bd4e2cbc28aad8ab40cf9d7934c84f947d9d7
-SHA256: 9a90461dfa409e3e4b815bb0522799497c984d33be46c68cec8086f3b38dc4f2
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.wkk.keyboardx
 Name: keyboardX（wkk）
@@ -884,12 +884,12 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.0-6
-Installed-Size: 516
+Installed-Size: 273144
 Filename: debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64.deb
-Size: 64140
-MD5sum: 0e5eb8009b0fe227712648f91f8dc935
-SHA1: ed21a267b90d9b90c898cf7954729855a1906578
-SHA256: 815cd97ed2472352e486e7aaf211d90a6558e10219c59cc033dd3080beb9da7f
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.wkk.keyboardx
 Name: KeyboardX（wkk）
@@ -901,12 +901,12 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.1-6
-Installed-Size: 616
+Installed-Size: 273144
 Filename: debs/com.wkk.keyboardx_1.1-6_iphoneos-arm64.deb
-Size: 80056
-MD5sum: 7f08c48602b60c8473c738247fe71bd2
-SHA1: afc77b3387c645ed2352921f1f4eb70a8138fe31
-SHA256: c1dbb513eae9695fc79f064df00bdfc7fc9963502f09bbff728b841a866230e9
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.wkk.onestepx
 Name: OneStepX（wkk）
@@ -918,12 +918,12 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 17.0)
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64e
 Version: 1.1-0
-Installed-Size: 516
+Installed-Size: 273144
 Filename: debs/com.wkk.onestepx_1.1-0_iphoneos-arm64e.deb
-Size: 111816
-MD5sum: d16ac13e352b02bbb93e44798bff05c0
-SHA1: 3ec2ae580adcbea3c30da251620317daed8cd883
-SHA256: eebc660432e9af8a7e62ee520569387eefd1edd4ac248102449ea0ce14e3a338
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.wkk.systembox
 Name: SystemX（wkk）
@@ -935,12 +935,12 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.4-7
-Installed-Size: 1572
+Installed-Size: 273144
 Filename: debs/com.wkk.systembox_1.4-7_iphoneos-arm64.deb
-Size: 316342
-MD5sum: 5c4336f7239dd8596647d83ab1a3a390
-SHA1: ae5eed60b6667cc0081f298882b8dc4d8091b885
-SHA256: 6d03a689be4241fdd4e07141e5ae0120ce699a571684bfed2df457a32fddfa0d
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.wkk.wechatx
 Name: WeChatX（wkk）
@@ -952,12 +952,12 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 2.3-2
-Installed-Size: 8376
+Installed-Size: 273144
 Filename: debs/com.wkk.wechatx_2.3-2_iphoneos-arm64.deb
-Size: 2974286
-MD5sum: 730d38bfc5beef26b708b5e7d4921b44
-SHA1: 08398883b4b85476e041c33d6209336cec7df53c
-SHA256: bad828aac1303d8a376657c3727f1c53831eb19f86ed1970cff38cc87d5dcdd4
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.ylr.wcfloatsplit
 Name: WeChatOrbit（免授权）
@@ -968,12 +968,12 @@ Section: 微信插件
 Depends: firmware (>= 15.0)
 Architecture: iphoneos-arm64
 Version: 3.0-5
-Installed-Size: 6236
+Installed-Size: 273144
 Filename: debs/com.ylr.wcfloatsplit_3.0-5_iphoneos-arm64.deb
-Size: 2346244
-MD5sum: 56642de3ee9db576e9edd8901d636003
-SHA1: a15b8c146b7aa7a5a59f946526450afc7e5ce00d
-SHA256: 73e07737f7de25ff5c52407138e7e52d13a614e2b99640dd9de3108d1868a6a4
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Author: Netskao
 Maintainer: BigBoss
@@ -984,7 +984,7 @@ Author: Netskao
 Maintainer: BigBoss
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
 Section: 微信插件
-Installed-Size: 23256
+Installed-Size: 273144
 Version: 2026.04
 Architecture: iphoneos-arm64e
 Description: 微信净化 2026.04 版本
@@ -996,10 +996,10 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
-Size: 7996412
-MD5sum: 0c1d1ae9cddaefd45b517ed4c8737468
-SHA1: 4a3f0c4477120e4123b8afa510b9e2c7399d27e7
-SHA256: 10a8ead9bf54dff054d00304f233037f2bb1c79ee01b77cab267a2541a397c76
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 Package: com.crctdd.stayalivelite
 Name: 后台运行
@@ -1011,11 +1011,11 @@ Maintainer: crctdd
 Author: crctdd
 Architecture: iphoneos-arm64e
 Version: 0.1.7
-Installed-Size: 300
+Installed-Size: 273144
 Filename: debs/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
-Size: 65844
-MD5sum: 31b9e4ab8764f3f7c5d1d4425c5e24f8
-SHA1: 9856c32cad99eecce342bba71b4cb53c2a7b0b03
-SHA256: 7a3e44919a3083f0b15c05b2e9d1b60796468ba254eb20bc3e2e5b5ff7dac78a
+Size: 273144
+MD5sum: 0a3d961db75db39ce6631916fbc549c0
+SHA1: 08b0dc495ee3e9b6a5679d88d03186fc9d0ed316
+SHA256: b35c442e19048b282aae09826fc56b036e77588133bddcf463fbcd11881bd3bd
 
 
