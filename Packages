@@ -1015,3 +1015,20 @@ MD5sum: 31b9e4ab8764f3f7c5d1d4425c5e24f8
 SHA1: 9856c32cad99eecce342bba71b4cb53c2a7b0b03
 SHA256: 7a3e44919a3083f0b15c05b2e9d1b60796468ba254eb20bc3e2e5b5ff7dac78a
 
+Package: com.liuf.wxyj
+Name: 德发素材仓（免授权）
+Description: 微信美化插件
+ 德发素材仓 微信美化插件：支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。
+Maintainer: TLzypjy
+Author: 德发
+Section: 微信插件
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 612
+SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.liuf.wxyj.json
+Filename: debs/com.liuf.wxyj_1.0_iphoneos-arm64.deb
+Size: 185864
+MD5sum: 083ae1d6c43c0b7139ac6ce4c97e2fec
+SHA1: 3ca77e87bff3b8963c2b69b177410116f610a697
+SHA256: e057f535dcd8b61edd60a4126fef0dabdf47506c37ff5f1cd9af6fc03ee61e7e
