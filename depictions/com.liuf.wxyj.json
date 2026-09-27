@@ -1,0 +1,59 @@
+{
+    "minVersion":  "0.1",
+    "title":  "德发素材仓（免授权）",
+    "description":  "微信美化插件",
+    "author":  "德发",
+    "maintainer":  "TLzypjy",
+    "tintColor":  "#0A84FF",
+    "packages":  {
+                     "com.liuf.wxyj":  [
+                                           "1.0"
+                                       ]
+                 },
+    "changelog":  [
+                      {
+                          "version":  "1.0",
+                          "changes":  [
+                                          "首次发布：微信美化插件，全量素材自定义。"
+                                      ]
+                      }
+                  ],
+    "sections":  [
+                     {
+                         "title":  "功能预览",
+                         "items":  [
+                                       {
+                                           "accessibilityLabel":  "德发素材仓设置界面 1",
+                                           "url":  "https://tlzypjy.github.io/jb-repo/screenshots/defasc_1.jpg"
+                                       },
+                                       {
+                                           "accessibilityLabel":  "德发素材仓设置界面 2",
+                                           "url":  "https://tlzypjy.github.io/jb-repo/screenshots/defasc_2.jpg"
+                                       },
+                                       {
+                                           "accessibilityLabel":  "德发素材仓设置界面 3",
+                                           "url":  "https://tlzypjy.github.io/jb-repo/screenshots/defasc_3.jpg"
+                                       }
+                                   ],
+                         "type":  "screenshots"
+                     },
+                     {
+                         "title":  "说明",
+                         "items":  [
+                                       {
+                                           "value":  "微信美化插件",
+                                           "label":  "类型"
+                                       },
+                                       {
+                                           "value":  "微信 (com.tencent.xin)",
+                                           "label":  "注入目标"
+                                       },
+                                       {
+                                           "value":  "rootless / RootHide 越狱，iOS 15+",
+                                           "label":  "适用环境"
+                                       }
+                                   ],
+                         "type":  "info-list"
+                     }
+                 ]
+}
