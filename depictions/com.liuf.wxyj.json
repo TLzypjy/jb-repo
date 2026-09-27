@@ -1,59 +1,37 @@
 {
-    "minVersion":  "0.1",
-    "title":  "德发素材仓（免授权）",
-    "description":  "微信美化插件",
-    "author":  "德发",
-    "maintainer":  "TLzypjy",
-    "tintColor":  "#0A84FF",
-    "packages":  {
-                     "com.liuf.wxyj":  [
-                                           "1.0"
-                                       ]
-                 },
-    "changelog":  [
-                      {
-                          "version":  "1.0",
-                          "changes":  [
-                                          "首次发布：微信美化插件，全量素材自定义。"
-                                      ]
-                      }
-                  ],
-    "sections":  [
-                     {
-                         "title":  "功能预览",
-                         "items":  [
-                                       {
-                                           "accessibilityLabel":  "德发素材仓设置界面 1",
-                                           "url":  "https://tlzypjy.github.io/jb-repo/screenshots/defasc_1.jpg"
-                                       },
-                                       {
-                                           "accessibilityLabel":  "德发素材仓设置界面 2",
-                                           "url":  "https://tlzypjy.github.io/jb-repo/screenshots/defasc_2.jpg"
-                                       },
-                                       {
-                                           "accessibilityLabel":  "德发素材仓设置界面 3",
-                                           "url":  "https://tlzypjy.github.io/jb-repo/screenshots/defasc_3.jpg"
-                                       }
-                                   ],
-                         "type":  "screenshots"
-                     },
-                     {
-                         "title":  "说明",
-                         "items":  [
-                                       {
-                                           "value":  "微信美化插件",
-                                           "label":  "类型"
-                                       },
-                                       {
-                                           "value":  "微信 (com.tencent.xin)",
-                                           "label":  "注入目标"
-                                       },
-                                       {
-                                           "value":  "rootless / RootHide 越狱，iOS 15+",
-                                           "label":  "适用环境"
-                                       }
-                                   ],
-                         "type":  "info-list"
-                     }
-                 ]
+  "minVersion": "1.0",
+  "class": "DepictionTabView",
+  "tintColor": "#007AFF",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "详情",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "200x400",
+          "screenshots": [
+            {
+              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot1.jpg",
+              "accessibilityText": "截图1"
+            },
+            {
+              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot2.jpg",
+              "accessibilityText": "截图2"
+            },
+            {
+              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot3.jpg",
+              "accessibilityText": "截图3"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 德发素材仓（免授权）\n\n微信美化素材插件，支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。\n\n安装后重启微信生效。",
+          "useShortDescription": true
+        }
+      ]
+    }
+  ]
 }
