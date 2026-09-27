@@ -8,7 +8,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Installed-Size: 40690
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/axssb666_1.0.0_iphoneos-arm64.deb
+Filename: debs/axssb666_1.0.0_iphoneos-arm64.deb
 Size: 40690
 MD5sum: 1fec19e11cec7ac8e1211e8d0d2a2f90
 SHA1: 0627c90e13be282a80f745d2309f458ea57819c1
@@ -26,7 +26,7 @@ Author: go
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 Description: 一款非常不错的分屏插件，需要授权才能使用，但是免费功能可以液态玻璃 视频壁纸 双击锁屏 音量键锁屏等等，还是可以的，大家可以自行看看是否是自己需要的，觉得不错的可以支持一下！
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/byg.iosios.net.mango_1.0-Beta4-2_iphoneos-arm64.deb
+Filename: debs/byg.iosios.net.mango_1.0-Beta4-2_iphoneos-arm64.deb
 Size: 904644
 MD5sum: 76291513efba709c4110734c7cd15f81
 SHA1: e0c5fe5a15f117f0966eab401c447e9f92d3760d
@@ -44,7 +44,7 @@ SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copy
 Architecture: iphoneos-arm64
 Version: 1.9.0-1
 Installed-Size: 1852780
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/cn.octoforce.copyvault_1.9.0-1_iphoneos-arm64.deb
+Filename: debs/cn.octoforce.copyvault_1.9.0-1_iphoneos-arm64.deb
 Size: 1852780
 MD5sum: a34b23362229f3b5d28b7dd4c334a5cb
 SHA1: 3f5932264b43801edc281ebe2aef4af35b241dfc
@@ -62,7 +62,7 @@ SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 Architecture: iphoneos-arm64e
 Version: 3.7.4+offline.1
 Installed-Size: 2306814
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/cn.octoforce.squidextender.roothide_3.7.4+offline.1_iphoneos-arm64e.deb
+Filename: debs/cn.octoforce.squidextender.roothide_3.7.4+offline.1_iphoneos-arm64e.deb
 Size: 2306814
 MD5sum: d3f1116347f1ab664626eba4cf192776
 SHA1: cdd532c77946b7587f41852fd2835822d8d46a49
@@ -79,7 +79,7 @@ Conflicts: com.squidforce.squidextender
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 Architecture: iphoneos-arm64
 Version: 3.7.4-2
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/cn.octoforce.squidextender_3.7.4-2_iphoneos-arm64.deb
+Filename: debs/cn.octoforce.squidextender_3.7.4-2_iphoneos-arm64.deb
 Size: 2622882
 MD5sum: 25db1858d08741917e52d5a5edf06bf7
 SHA1: 489a1ba69987fbe7e4e71fc0c25f67b0a191efb8
@@ -97,7 +97,7 @@ SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 Architecture: iphoneos-arm64e
 Version: 2.7.6-1
 Installed-Size: 1795552
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/cn.octoforce.squidgesturepro.roothide_2.7.6-1_iphoneos-arm64e.deb
+Filename: debs/cn.octoforce.squidgesturepro.roothide_2.7.6-1_iphoneos-arm64e.deb
 Size: 1795552
 MD5sum: 727a69f71f43ae70cb81ccb0397dcbf0
 SHA1: 15352adbadd25d43535b33a8f1850617650a1f17
@@ -115,7 +115,7 @@ SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squi
 Architecture: iphoneos-arm64
 Version: 2.7.6-2
 Installed-Size: 1930346
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/cn.octoforce.squidgesturepro_2.7.6-2_iphoneos-arm64.deb
+Filename: debs/cn.octoforce.squidgesturepro_2.7.6-2_iphoneos-arm64.deb
 Size: 1930346
 MD5sum: 8331746087c37d5879052f14da48049a
 SHA1: 52f45722be6379fe3494282e3db869937628c76f
@@ -138,7 +138,7 @@ Version: 1.6.0-6
 Installed-Size: 652836
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.Axs.floating-view_1.6.0-6_iphoneos-arm64.deb
+Filename: debs/com.Axs.floating-view_1.6.0-6_iphoneos-arm64.deb
 Size: 652836
 MD5sum: f2921f41a4e0c57639181eb9abd90198
 SHA1: fcb5215bde893a83138a47eb6d513f272c53d486
@@ -156,7 +156,7 @@ Version: 2.3.3-end
 Installed-Size: 674340
 Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/kongzhidiy/js.json
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.Axs.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
+Filename: debs/com.Axs.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
 Size: 674340
 MD5sum: e7807c63d35c8436fd53168ceb8558bd
 SHA1: 120b96eb94f8a3524c37fa1b9cc7c76f1292c57b
@@ -174,7 +174,7 @@ Version: 4.1.6
 Installed-Size: 336980
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.Axs.qjsy_4.1.6_iphoneos-arm64.deb
+Filename: debs/com.Axs.qjsy_4.1.6_iphoneos-arm64.deb
 Size: 336980
 MD5sum: 165846e289de27614390df65340d308f
 SHA1: 016ab93d30fbc01d80acfbbe2df8f182d82f44c4
@@ -193,7 +193,7 @@ Version: 1.1-4C
 Installed-Size: 1091608
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Sileodepiction: https://tlzypjy.github.io/jb-repo/depictions/com.Axs.xmzs.json
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.Axs.xmzs_1.1-4C_iphoneos-arm64.deb
+Filename: debs/com.Axs.xmzs_1.1-4C_iphoneos-arm64.deb
 Size: 1091608
 MD5sum: 8349817d3f3e4a0d935c64405f66b67c
 SHA1: bcc6b9659cde00cbe4eaa8b058ddbecebab51f81
@@ -214,7 +214,7 @@ Description: A狗动态岛（ios16dao）激活码生成器。生成 18 位激活
 Author: personal
 Maintainer: personal
 Section: 工具
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.ios16dao.keygen_1.0.0_iphoneos-arm64.deb
+Filename: debs/com.axs.ios16dao.keygen_1.0.0_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -237,7 +237,7 @@ SileoDepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 Architecture: iphoneos-arm64
 Version: 5.2.0-244
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
+Filename: debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -255,7 +255,7 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenrecording/js.js
 Architecture: iphoneos-arm64
 Version: 5.2.0-35
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.screenrecording_5.2.0-35_iphoneos-arm64.deb
+Filename: debs/com.axs.screenrecording_5.2.0-35_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -314,7 +314,7 @@ Name: Snapper3 Expand
 Author: Axs <qiaozhini000@163.com>
 Icon: https://axs66.github.io/pro/icon/snapper.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.snapper3tag_5.2.0-326_iphoneos-arm64e.deb
+Filename: debs/com.axs.snapper3tag_5.2.0-326_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -343,7 +343,7 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
 Architecture: iphoneos-arm64
 Version: 5.2.0-131
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.switchicon_5.2.0-131_iphoneos-arm64.deb
+Filename: debs/com.axs.switchicon_5.2.0-131_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -360,7 +360,7 @@ Version: 1.8.6
 Architecture: iphoneos-arm64e
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Filename: debs/com.axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -376,7 +376,7 @@ Author: 冰蓝
 Installed-Size: 5502
 Description: 灵动岛背景？
 Architecture: iphoneos-arm64
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
+Filename: debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -393,7 +393,7 @@ Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
 Architecture: iphoneos-arm64
 Version: 2.3.6-end
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
+Filename: debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -409,7 +409,7 @@ Author: 冰蓝
 Architecture: iphoneos-arm64
 Version: 3.0.0
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
+Filename: debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -424,7 +424,7 @@ Description: 微信液态玻璃（免授权）。内置 ECDSA 公钥离线授权
 Author: personal
 Maintainer: personal
 Section: 系统美化
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bolilita.free_2.0.3_iphoneos-arm64.deb
+Filename: debs/com.bolilita.free_2.0.3_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -441,7 +441,7 @@ Architecture: iphoneos-arm64e
 Version: 1.0.1-1
 Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bvm.wuzeililiang_1.0.1-1_iphoneos-arm64e.deb
+Filename: debs/com.bvm.wuzeililiang_1.0.1-1_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -461,7 +461,7 @@ Version: 1.9.0k
 Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/CopyVault@2x.png
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bvn.copyvault.rl_1.9.0k_iphoneos-arm64e.deb
+Filename: debs/com.bvn.copyvault.rl_1.9.0k_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -479,7 +479,7 @@ Version: 1.0.1-1
 Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bvn.squidforcecrack.rl_1.0.1-1_iphoneos-arm64e.deb
+Filename: debs/com.bvn.squidforcecrack.rl_1.0.1-1_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -496,7 +496,7 @@ Architecture: iphoneos-arm64e
 Version: 1.3.7-4
 Installed-Size: 5502
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.charlieleung.liquidify.roothide_1.3.7-4_iphoneos-arm64e.deb
+Filename: debs/com.charlieleung.liquidify.roothide_1.3.7-4_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -512,7 +512,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.3.7-4+dao88.1
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.charlieleung.liquidify_1.3.7-4+dao88.1_iphoneos-arm64.deb
+Filename: debs/com.charlieleung.liquidify_1.3.7-4+dao88.1_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -528,7 +528,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.0-Beta7-6
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.go.mango_1.0-Beta7-6_iphoneos-arm64.deb
+Filename: debs/com.go.mango_1.0-Beta7-6_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -546,7 +546,7 @@ Architecture: iphoneos-arm64
 Version: 1.3.2
 Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/PictureModule.jpg
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.huayuarc.picturemodule16_1.3.2_iphoneos-arm64.deb
+Filename: debs/com.huayuarc.picturemodule16_1.3.2_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -561,7 +561,7 @@ Maintainer: TLzypjy
 Author: TLzypjy
 Section: 微信插件
 Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.liquidui.liquidui_1.78_iphoneos-arm64e.deb
+Filename: debs/com.liquidui.liquidui_1.78_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -576,7 +576,7 @@ Maintainer: TLzypjy
 Author: TLzypjy
 Section: 微信插件
 Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.liquidui.liquidui_1.80_iphoneos-arm64e.deb
+Filename: debs/com.liquidui.liquidui_1.80_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -595,7 +595,7 @@ Replaces: com.h.sthenokb, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.
 Architecture: iphoneos-arm64
 Version: 0.1.23-1
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.nx.stheno_0.1.23-1_iphoneos-arm64.deb
+Filename: debs/com.nx.stheno_0.1.23-1_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -613,7 +613,7 @@ Dev: 君临
 Maintainer: 热心网友
 Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
 Architecture: iphoneos-arm64
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.qimiao.WCRefine_2.1-5beta1_iphoneos-arm64.deb
+Filename: debs/com.qimiao.WCRefine_2.1-5beta1_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -631,7 +631,7 @@ SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.shtm.amplify.js
 Architecture: iphoneos-arm64
 Version: 1.1-0beta2
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.shtm.amplify_1.1-0beta2_iphoneos-arm64.deb
+Filename: debs/com.shtm.amplify_1.1-0beta2_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -647,7 +647,7 @@ Description: 抖音优化 交流版 28.35（免授权·完整版）。玻璃拟�
 Author: siwenjiajia
 Maintainer: personal
 Section: 抖音插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.siwenjiajia.tweak.comm_28.35_iphoneos-arm64.deb
+Filename: debs/com.siwenjiajia.tweak.comm_28.35_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -663,7 +663,7 @@ Description: 抖音优化 破解版 28.17（免授权·精简版）。功能较�
 Author: siwenjiajia
 Maintainer: personal
 Section: 抖音插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.siwenjiajia.tweak.free_28.17_iphoneos-arm64.deb
+Filename: debs/com.siwenjiajia.tweak.free_28.17_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -701,7 +701,7 @@ SileoDepiction: https://jimkanuo.github.io/apt-repo/depiction/com.snapbackup.jso
 Architecture: iphoneos-arm64e
 Version: 3.6.5
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.snapbackup_3.6.5_iphoneos-arm64e.deb
+Filename: debs/com.snapbackup_3.6.5_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -718,7 +718,7 @@ Description: 控制中心播放器视频背景美化
 Name: SuMusicPlayerCC
 Icon: https://www.susubaby.top/images/sumusicplayercc.png
 Author: 苏苏
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.susu.sumusicplayercc_1.0.1_iphoneos-arm64.deb
+Filename: debs/com.susu.sumusicplayercc_1.0.1_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -735,7 +735,7 @@ Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.1.8
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.susudear.screencore_1.1.8_iphoneos-arm64e.deb
+Filename: debs/com.susudear.screencore_1.1.8_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -750,7 +750,7 @@ Author: Mao
 Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.tencent.themebox_2.3.6_iphoneos-arm64.deb
+Filename: debs/com.tencent.themebox_2.3.6_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -769,7 +769,7 @@ Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.
 Architecture: iphoneos-arm64e
 Version: 4.8
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.tsangbaby.kayoko_4.8_iphoneos-arm64e.deb
+Filename: debs/com.tsangbaby.kayoko_4.8_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -785,7 +785,7 @@ Maintainer: Unknown <unknown@none.local>
 Section: 工具
 Priority: optional
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.unknown.wuzeililiang_1.0_iphoneos-arm64e.deb
+Filename: debs/com.unknown.wuzeililiang_1.0_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -800,7 +800,7 @@ Description: WCGlass 微信液态玻璃（免授权·隐根版）。内置统一
 Author: personal
 Maintainer: personal
 Section: 微信插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
+Filename: debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -815,7 +815,7 @@ Maintainer: TLzypjy
 Author: TLzypjy
 Section: 微信插件
 Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcliquidglass.free_2.0.3_iphoneos-arm64e.deb
+Filename: debs/com.wcliquidglass.free_2.0.3_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -830,7 +830,7 @@ Description: WeChatNeo 微信美化全家桶（免授权）。主面板/截图�
 Author: personal
 Maintainer: personal
 Section: 微信插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcneo.free_1.0.8-3_iphoneos-arm64.deb
+Filename: debs/com.wcneo.free_1.0.8-3_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -847,7 +847,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Architecture: iphoneos-arm64
 Version: 1.1-9
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.copylogx_1.1-9_iphoneos-arm64.deb
+Filename: debs/com.wkk.copylogx_1.1-9_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -868,7 +868,7 @@ Icon: file:///Applications/InstalledPackages.app/icon_large.png
 Architecture: iphoneos-arm64
 Version: 1.0-1
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64.deb
+Filename: debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -885,7 +885,7 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.0-6
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64.deb
+Filename: debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -902,7 +902,7 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.1-6
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.keyboardx_1.1-6_iphoneos-arm64.deb
+Filename: debs/com.wkk.keyboardx_1.1-6_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -919,7 +919,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Architecture: iphoneos-arm64e
 Version: 1.1-0
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.onestepx_1.1-0_iphoneos-arm64e.deb
+Filename: debs/com.wkk.onestepx_1.1-0_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -936,7 +936,7 @@ Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.4-7
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.systembox_1.4-7_iphoneos-arm64.deb
+Filename: debs/com.wkk.systembox_1.4-7_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -953,7 +953,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 2.3-2
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.wechatx_2.3-2_iphoneos-arm64.deb
+Filename: debs/com.wkk.wechatx_2.3-2_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -969,7 +969,7 @@ Depends: firmware (>= 15.0)
 Architecture: iphoneos-arm64
 Version: 3.0-5
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.ylr.wcfloatsplit_3.0-5_iphoneos-arm64.deb
+Filename: debs/com.ylr.wcfloatsplit_3.0-5_iphoneos-arm64.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -995,7 +995,7 @@ Conflicts: netskao.wechatpurification
 Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
+Filename: debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
@@ -1012,7 +1012,7 @@ Author: crctdd
 Architecture: iphoneos-arm64e
 Version: 0.1.7
 Installed-Size: 5502
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
+Filename: debs/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
 Size: 5502
 MD5sum: dc7768d2a1fbe086c46a2f910404a687
 SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
