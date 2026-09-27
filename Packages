@@ -215,10 +215,10 @@ Author: personal
 Maintainer: personal
 Section: 工具
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.ios16dao.keygen_1.0.0_iphoneos-arm64.deb
-Size: 5498
-MD5sum: b7c8924634136934273758cb3de89244
-SHA1: 01da0f5d6eb379ac5e82cb29c89b359d82ff16d7
-SHA256: 200979191864fdf881ffb00c2322a41a1fa4e596c145e86b9d8ab0d48d292632
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.axs.ios16dao
 Name: A狗150动态岛（免授权）
@@ -236,12 +236,12 @@ Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
 SileoDepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 Architecture: iphoneos-arm64
 Version: 5.2.0-244
-Installed-Size: 123852
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
-Size: 123852
-MD5sum: 89d00e0bce8f7ec23d2f78116155306a
-SHA1: 4400c694b975535528afd2b7fba4b535397c0c9e
-SHA256: 2e73e5a7eea5f4b85701c815da6c4b00bad11a50cb750b4bdd4881e0bfdb9b9a
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.axs.screenrecording
 Name: A狗截图套壳（免授权）
@@ -254,16 +254,16 @@ Icon: https://axs66.github.io/pro/icon/screenrecording.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenrecording/js.json
 Architecture: iphoneos-arm64
 Version: 5.2.0-35
-Installed-Size: 46368
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.screenrecording_5.2.0-35_iphoneos-arm64.deb
-Size: 46368
-MD5sum: 5adaced470e4de3a3d2d8526ef96c00a
-SHA1: 33a15f3e633e911496b40eff9d0639fc3cc445f0
-SHA256: 83bf4d4f7c9e5ac5e9f4d31d4de1e08cd8f9b13b5f7c4f5c2ec3699bc0e3a1a5
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.axs.snapper3tag
 Section: 工具
-Installed-Size: 607086
+Installed-Size: 5502
 Maintainer: Axs <qiaozhini000@163.com>
 Architecture: iphoneos-arm64e
 Version: 5.2.0-326
@@ -315,10 +315,10 @@ Author: Axs <qiaozhini000@163.com>
 Icon: https://axs66.github.io/pro/icon/snapper.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.snapper3tag_5.2.0-326_iphoneos-arm64e.deb
-Size: 607086
-MD5sum: d9f7044e76071e2c3ab954a112b32d4f
-SHA1: f597c6068b2d02e963b73f3acf94f09ea43b0590
-SHA256: 9efea4b6265d8bf828ca1c7ead86c62dfb8636ef2f0e8c951a6294da178863ab
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.axs.switchicon
 Name: A狗液态开关（免授权）
@@ -342,12 +342,12 @@ Icon: https://axs66.github.io/pro/icon/switchicon.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
 Architecture: iphoneos-arm64
 Version: 5.2.0-131
-Installed-Size: 122512
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.switchicon_5.2.0-131_iphoneos-arm64.deb
-Size: 122512
-MD5sum: 0c27e8141defd28a87ee7ad841c54d23
-SHA1: cddfc68d9b74236c958f4522a5bdb956f78d30e5
-SHA256: dd1b822f326cc6d35a85d32edb492369c97aa03a94eabbfd4db5c418f57ebba0
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.Axs.yuanjiao
 Name: 微信全局圆角
@@ -361,10 +361,10 @@ Architecture: iphoneos-arm64e
 Icon: https://axs66.github.io/repo/icon/wechat.png
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 634908
-MD5sum: bf9bed1ad5d4b4e6be4a36259084b00c
-SHA1: af49e9e108361c8f1d7eb2c8d4772b2058b20f61
-SHA256: 08363d1172528f11b9050d61492715b0878d1f3c6578abc542101b5587345330
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Maintainer: 冰蓝
 Section: 系统美化
@@ -373,14 +373,14 @@ Version: 1.0.7
 Package: com.binglan.dynamicfx
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Author: 冰蓝
-Installed-Size: 115776
+Installed-Size: 5502
 Description: 灵动岛背景？
 Architecture: iphoneos-arm64
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
-Size: 115776
-MD5sum: f49a3dcb658723b8f3dfe0e82727ccac
-SHA1: 15b7f62aed9fc0614ec6206e16125cfaec1ee825
-SHA256: 672995f5094fb955f96f8a3bf3ef6c79c23f83b27086c02c97ded81eab05525c
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.binglan.kongzhidiy
 Name: 冰蓝控制中心2.3.6-end（免授权）
@@ -392,12 +392,12 @@ Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
 Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
 Architecture: iphoneos-arm64
 Version: 2.3.6-end
-Installed-Size: 3740156
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
-Size: 3740156
-MD5sum: 29dbae95039a8cc339b1767d23ed26d9
-SHA1: 8eb7450286485aa2a005d3912429c4f3a0f089cb
-SHA256: 0431994a7a5d35018034ee9929ddc6b4a2d6342c1278d056340f4cde81524a76
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.binglanqjsy.deb
 Name: 冰蓝全局水印套壳（免授权）
@@ -408,12 +408,12 @@ Section: 系统美化
 Author: 冰蓝
 Architecture: iphoneos-arm64
 Version: 3.0.0
-Installed-Size: 164700
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
-Size: 164700
-MD5sum: f3ff4347f4cec716294d6a175d730e16
-SHA1: dc1f8b704d5ff72f3f38800e92d1662c5f90b33e
-SHA256: 895584d802b95ac9759d77b017201138afac2c74f9617ec7aea259db75533a0d
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.bolilita.free
 Name: 玻璃液态（免授权）
@@ -425,10 +425,10 @@ Author: personal
 Maintainer: personal
 Section: 系统美化
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bolilita.free_2.0.3_iphoneos-arm64.deb
-Size: 1316724
-MD5sum: e5bcd8b2cd7153c4d411830af5c6af91
-SHA1: 2be47b4876264b709c991b891d6e225afbda6eb1
-SHA256: bf92c950379c32a5b7589210b6f187173efcfd37473a59e724974eb0a05d3880
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.bvm.wuzeililiang
 Name: 乌贼本地离线授权
@@ -439,13 +439,13 @@ Section: 工具
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64e
 Version: 1.0.1-1
-Installed-Size: 38092
+Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bvm.wuzeililiang_1.0.1-1_iphoneos-arm64e.deb
-Size: 38092
-MD5sum: edbdb03513b16f3880b7acd7cd0554d9
-SHA1: c5f46ce1816793ee2fc7ca995cb98b92e6e61289
-SHA256: 8026c0829fe9c7b5febe958a962814756ff9bd35ac0c2ff6b706e8e210400960
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.bvn.copyvault.rl
 Name: CopyVault（免授权）
@@ -458,14 +458,14 @@ Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.bvn.squidfor
 Conflicts: com.squidforce.copyvault
 Architecture: iphoneos-arm64e
 Version: 1.9.0k
-Installed-Size: 1640920
+Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/CopyVault@2x.png
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bvn.copyvault.rl_1.9.0k_iphoneos-arm64e.deb
-Size: 1640920
-MD5sum: 3557e6933f0a85ff3d11e2e1b58f8ed2
-SHA1: fdad90089ef2051c66aa62cfa3df5fcf8548400b
-SHA256: dad91deed84e180c33100abf5b4a74c193e2708e0bf1b0bbe72a94bbf8d078f2
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.bvn.squidforcecrack.rl
 Name: SquidForce VIP
@@ -476,14 +476,14 @@ Section: 工具
 Depends: firmware (>= 15.0), mobilesubstrate
 Architecture: iphoneos-arm64e
 Version: 1.0.1-1
-Installed-Size: 36936
+Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bvn.squidforcecrack.rl_1.0.1-1_iphoneos-arm64e.deb
-Size: 36936
-MD5sum: 3a817babf0231da296be4d9ae76b6573
-SHA1: 553d01b3a65b53821b9088d9bf197f7445565d82
-SHA256: 6a410d9869316a2b141e5dff9d656f71f60cb221e14762bf53c1627e714c390b
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.charlieleung.liquidify.roothide
 Name: 88液态玻璃隐根版（免授权）
@@ -494,13 +494,13 @@ Section: 系统美化
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
 Version: 1.3.7-4
-Installed-Size: 15421002
+Installed-Size: 5502
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.charlieleung.liquidify.roothide_1.3.7-4_iphoneos-arm64e.deb
-Size: 15421002
-MD5sum: 6a873a609434b5b3773bcaa8171c9c81
-SHA1: 806fe4d35c837a4b7f6cf3b77522942ac9502188
-SHA256: 0d1170f8ae5bdc982aa6c3b9b504ae21fa951df8351517b226bd9fba069566dc
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.charlieleung.liquidify
 Name: 88液态玻璃（免授权）
@@ -511,12 +511,12 @@ Section: 系统美化
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.3.7-4+dao88.1
-Installed-Size: 10756064
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.charlieleung.liquidify_1.3.7-4+dao88.1_iphoneos-arm64.deb
-Size: 10756064
-MD5sum: 476311bce98b1e595853fde7cf73cc31
-SHA1: ed2c08e17a4d1a82cd73869b6c62ff3c699e60b1
-SHA256: 410a0cf68816de6fb34d809613a735dd4f621db491ceeda5143a53af6129468c
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.go.mango
 Name: 芒果分屏1.0-Beta7-6（免授权）
@@ -527,12 +527,12 @@ Section: 分屏插件
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.0-Beta7-6
-Installed-Size: 845280
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.go.mango_1.0-Beta7-6_iphoneos-arm64.deb
-Size: 845280
-MD5sum: f4026da9ddd748630a7cfd95c25d0a4f
-SHA1: d9bbffcf89e64ae923258a355e1d21831bec2a54
-SHA256: 9b16f51bea1bf0ed6ba0fabf29d24604c5c93b8e4f0f9bb8ca8433cdaee48a19
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.huayuarc.picturemodule16
 Name: 控制中心视频模块背景
@@ -544,13 +544,13 @@ Depends: firmware (>= 16.0), mobilesubstrate
 Conflicts: com.4nni3.picturemodule
 Architecture: iphoneos-arm64
 Version: 1.3.2
-Installed-Size: 68824
+Installed-Size: 5502
 Icon: https://huayuarc.github.io/icon/PictureModule.jpg
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.huayuarc.picturemodule16_1.3.2_iphoneos-arm64.deb
-Size: 68824
-MD5sum: 32fabccf8ebb4017e835c77a38d95c64
-SHA1: 713070f2b29e4b6adc89a16694303f399b260ea2
-SHA256: fc01a6b7817af066aae2c30339933710aabc652c715e6f82013688177ef83ab6
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.liquidui.liquidui
 Name: LiquidUI（免授权）
@@ -562,10 +562,10 @@ Author: TLzypjy
 Section: 微信插件
 Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.liquidui.liquidui_1.78_iphoneos-arm64e.deb
-Size: 15816600
-MD5sum: 227648cbb27f60782a8b4e61894eda67
-SHA1: f223b08864ff3cf890127d0248d9ad5d2eed8364
-SHA256: c2dd6878b49b60eb767cdeb8f17307b7a3d549665f95341fbfdaeed34320b61d
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.liquidui.liquidui
 Name: LiquidUI（免授权）
@@ -577,10 +577,10 @@ Author: TLzypjy
 Section: 微信插件
 Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.liquidui.liquidui_1.80_iphoneos-arm64e.deb
-Size: 16592608
-MD5sum: c25cdb8e82604d138f7e345b69fc71dc
-SHA1: 385c397f22010d5bd70dbd8d0d4fe9cc6c6426ed
-SHA256: 1aa428f058226b9ec46fdf31fa9b6d8e5f28bd53d91d22b693546d7b76bab591
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.nx.stheno
 Name: Stheno奥利奥分屏
@@ -594,12 +594,12 @@ Conflicts: com.h.sthenokb, com.nx.stheno.splitlastownerprobe, com.nx.stheno.spli
 Replaces: com.h.sthenokb, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.nativereplycompetition1, com.nx.stheno.fix.nativereplydisable1, com.nx.stheno.fix
 Architecture: iphoneos-arm64
 Version: 0.1.23-1
-Installed-Size: 551092
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.nx.stheno_0.1.23-1_iphoneos-arm64.deb
-Size: 551092
-MD5sum: 7ed596f3d35ffb732ee455c276576311
-SHA1: 2bb6756f159d8eb0a365e0ad136082cf3e9f6d17
-SHA256: 9c992726b747363ecb057522dcb6de9f54bcdb0a6471f4f59ec390b59c3ed50a
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.qimiao.WCRefine
 Name: WCRefine内部2.1-5beta1（免授权）
@@ -614,10 +614,10 @@ Maintainer: 热心网友
 Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
 Architecture: iphoneos-arm64
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.qimiao.WCRefine_2.1-5beta1_iphoneos-arm64.deb
-Size: 9312468
-MD5sum: 707ae0dab77f536abe8116282fac0081
-SHA1: 7d7a873a10d1b7d14a1b4abe9483f4ba8d71cd99
-SHA256: 175368bd12cc68b2f8b66ade87f9e5a0f712168f17bdd7dc291951c905e5494b
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.shtm.amplify
 Name: AmpLify
@@ -630,12 +630,12 @@ Icon: file:///Library/PreferenceBundles/AmpLifySettings.bundle/icon.png
 SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.shtm.amplify.json
 Architecture: iphoneos-arm64
 Version: 1.1-0beta2
-Installed-Size: 514264
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.shtm.amplify_1.1-0beta2_iphoneos-arm64.deb
-Size: 514264
-MD5sum: 697790000817f82f91f8a9e2deeeaaa3
-SHA1: 64f9c18cf695dba55ac6a5b5cc4551415a55e2bf
-SHA256: 443bc677961ba570bbe229e97fb555bfcba962eea2ea37a8981bebeb7bc3b222
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.siwenjiajia.tweak.comm
 Name: 抖音优化（免授权）
@@ -648,10 +648,10 @@ Author: siwenjiajia
 Maintainer: personal
 Section: 抖音插件
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.siwenjiajia.tweak.comm_28.35_iphoneos-arm64.deb
-Size: 3587956
-MD5sum: 557cf40277104de011fb729f45380a66
-SHA1: 8f7ed16dc8bb9472035a3f7acadeb17931c3c653
-SHA256: 174c14a2a6b42799a9bcdbe1edb7961d9071e4c649e284d52e5581900b9cfeba
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.siwenjiajia.tweak.free
 Name: 抖音优化（免授权）
@@ -664,10 +664,10 @@ Author: siwenjiajia
 Maintainer: personal
 Section: 抖音插件
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.siwenjiajia.tweak.free_28.17_iphoneos-arm64.deb
-Size: 2894200
-MD5sum: c980747340cf89f3d04cead8f1d00d4e
-SHA1: 850cda4f2c6fadd0aea42e7f80d51991d53f5d69
-SHA256: 429871b1f4d7eed42b38c5e5ea3efc2089dca7d29a1829bdff097702ae4fd598
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.snapbackup
 Name: SnapBackup 备份恢复
@@ -700,16 +700,16 @@ Icon: https://jimkanuo.github.io/apt-repo/icon/snapbackup.png
 SileoDepiction: https://jimkanuo.github.io/apt-repo/depiction/com.snapbackup.json
 Architecture: iphoneos-arm64e
 Version: 3.6.5
-Installed-Size: 1100928
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.snapbackup_3.6.5_iphoneos-arm64e.deb
-Size: 1100928
-MD5sum: 145bbff8491fe3dc444a95a469d73f33
-SHA1: 5bcd16b0e7113ad4de320ac5aa17f7fbff453048
-SHA256: e33edf2f4c3f1faaeacff97ef31ceb11a9af0f1aa70f4725aa6b2af2e177cb36
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.susu.sumusicplayercc
 Section: 控制中心
-Installed-Size: 86752
+Installed-Size: 5502
 Maintainer: 苏苏
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -719,10 +719,10 @@ Name: SuMusicPlayerCC
 Icon: https://www.susubaby.top/images/sumusicplayercc.png
 Author: 苏苏
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.susu.sumusicplayercc_1.0.1_iphoneos-arm64.deb
-Size: 86752
-MD5sum: 139d5083cb7adb124547e4b89f64f7bf
-SHA1: 75cae2282ffc97fbd7b96deadd8f7714932e1b81
-SHA256: ba67757d51a1b7d73e30db031e9bb6e19506eaa1fb4b1770ff35583c390d6cf9
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.susudear.screencore
 Name: ScreenCore分屏
@@ -734,12 +734,12 @@ Section: 分屏插件
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.1.8
-Installed-Size: 440972
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.susudear.screencore_1.1.8_iphoneos-arm64e.deb
-Size: 440972
-MD5sum: 7a4dfacf6651b93c3d128f3dafb7dde6
-SHA1: 73f9d055e59182b305ded260340af5ccff69cbfb
-SHA256: 01333dcf8a0f11f7eca0e653e4e75e11350342e88ef080b0a1f81e929339a4bd
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.tencent.themebox
 Name: 主题盒子（免授权）
@@ -751,10 +751,10 @@ Section: 微信插件
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.tencent.themebox_2.3.6_iphoneos-arm64.deb
-Size: 7803500
-MD5sum: 1cf19643176e38e95a848b81655fd4f0
-SHA1: 7c6ce5b0e629e82e73e34f4f43908ea9d4ca0649
-SHA256: 1f9c90feca801d55295b7ecb817000f84186388efa95bde314a5222a7bb0488d
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.tsangbaby.kayoko
 Name: Kayoko
@@ -768,12 +768,12 @@ Conflicts: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex
 Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.8
-Installed-Size: 670848
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.tsangbaby.kayoko_4.8_iphoneos-arm64e.deb
-Size: 670848
-MD5sum: b5b42792fdb59a7eb302d62b0f5fd100
-SHA1: 7bb6b4bf05e30816c02b57e8ff980905fbf8a95a
-SHA256: 5369546bbdab0f4ed2e3eb7e03bd828fed26bc9da052fd8cd06b52753477f744
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.unknown.wuzeililiang
 Name: 鱿鱼三件套通杀（免授权）
@@ -784,12 +784,12 @@ Architecture: iphoneos-arm64e
 Maintainer: Unknown <unknown@none.local>
 Section: 工具
 Priority: optional
-Installed-Size: 165460
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.unknown.wuzeililiang_1.0_iphoneos-arm64e.deb
-Size: 165460
-MD5sum: 5de2a2be3032a85da4055fd3e6082472
-SHA1: de86786f7ca88cddc7841bbdd112883e66d658af
-SHA256: 30df28579a7bf6335136a24ff90845c2b2fd19292be08e7cb44cff9f24970448
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wcglass.free
 Name: WCGlass（免授权）
@@ -801,10 +801,10 @@ Author: personal
 Maintainer: personal
 Section: 微信插件
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
-Size: 19588328
-MD5sum: 8037c65543a314beb5deee65279592eb
-SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
-SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wcliquidglass.free
 Name: 58微信液态玻璃（免授权）
@@ -816,10 +816,10 @@ Author: TLzypjy
 Section: 微信插件
 Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcliquidglass.free_2.0.3_iphoneos-arm64e.deb
-Size: 731228
-MD5sum: 65ca2e958bb6ff1f440839fe48634dfa
-SHA1: f35a2baf73b052d224984cf929a668c6c2a3de24
-SHA256: f1375dde9d2b32cbd8a36d3b0c3551bc7ebda14fa90f246eedc554a22e933281
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wcneo.free
 Name: WeChatNeo（免授权）
@@ -831,10 +831,10 @@ Author: personal
 Maintainer: personal
 Section: 微信插件
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcneo.free_1.0.8-3_iphoneos-arm64.deb
-Size: 2906668
-MD5sum: d46c034f05628c003c9406741fef7a07
-SHA1: 7148f96d45e0ee70bd6a4cc657a93012bd78b25b
-SHA256: 0a3835b016ee58d275a1a732e23e5cdaa8f97a6dd493eeec335f59ff11306a63
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wkk.copylogx
 Name: CopylogX（wkk）
@@ -846,12 +846,12 @@ Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceload
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64
 Version: 1.1-9
-Installed-Size: 273060
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.copylogx_1.1-9_iphoneos-arm64.deb
-Size: 273060
-MD5sum: 6cbf704c066237b2714c43fab0ab9cc7
-SHA1: 3f0ad43623ae15ec9466ae320d0a4cc835c8b6fd
-SHA256: 0968153d4adb849df9cd015d89faf879af5835fbf64431fee58b865fd3dcc959
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wkk.installedpackages
 Name: InstalledPackages（wkk）
@@ -867,12 +867,12 @@ Tag: purpose::application, compatible_min::ios15
 Icon: file:///Applications/InstalledPackages.app/icon_large.png
 Architecture: iphoneos-arm64
 Version: 1.0-1
-Installed-Size: 431928
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64.deb
-Size: 431928
-MD5sum: a8375463f23edef27aa6989f592d963b
-SHA1: ba9bd4e2cbc28aad8ab40cf9d7934c84f947d9d7
-SHA256: 9a90461dfa409e3e4b815bb0522799497c984d33be46c68cec8086f3b38dc4f2
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wkk.keyboardx
 Name: keyboardX（wkk）
@@ -884,12 +884,12 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.0-6
-Installed-Size: 64140
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64.deb
-Size: 64140
-MD5sum: 0e5eb8009b0fe227712648f91f8dc935
-SHA1: ed21a267b90d9b90c898cf7954729855a1906578
-SHA256: 815cd97ed2472352e486e7aaf211d90a6558e10219c59cc033dd3080beb9da7f
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wkk.keyboardx
 Name: KeyboardX（wkk）
@@ -901,12 +901,12 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.1-6
-Installed-Size: 80056
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.keyboardx_1.1-6_iphoneos-arm64.deb
-Size: 80056
-MD5sum: 7f08c48602b60c8473c738247fe71bd2
-SHA1: afc77b3387c645ed2352921f1f4eb70a8138fe31
-SHA256: c1dbb513eae9695fc79f064df00bdfc7fc9963502f09bbff728b841a866230e9
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wkk.onestepx
 Name: OneStepX（wkk）
@@ -918,12 +918,12 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 17.0)
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64e
 Version: 1.1-0
-Installed-Size: 111816
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.onestepx_1.1-0_iphoneos-arm64e.deb
-Size: 111816
-MD5sum: d16ac13e352b02bbb93e44798bff05c0
-SHA1: 3ec2ae580adcbea3c30da251620317daed8cd883
-SHA256: eebc660432e9af8a7e62ee520569387eefd1edd4ac248102449ea0ce14e3a338
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wkk.systembox
 Name: SystemX（wkk）
@@ -935,12 +935,12 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm64
 Version: 1.4-7
-Installed-Size: 316342
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.systembox_1.4-7_iphoneos-arm64.deb
-Size: 316342
-MD5sum: 5c4336f7239dd8596647d83ab1a3a390
-SHA1: ae5eed60b6667cc0081f298882b8dc4d8091b885
-SHA256: 6d03a689be4241fdd4e07141e5ae0120ce699a571684bfed2df457a32fddfa0d
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.wkk.wechatx
 Name: WeChatX（wkk）
@@ -952,12 +952,12 @@ Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 2.3-2
-Installed-Size: 2974286
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wkk.wechatx_2.3-2_iphoneos-arm64.deb
-Size: 2974286
-MD5sum: 730d38bfc5beef26b708b5e7d4921b44
-SHA1: 08398883b4b85476e041c33d6209336cec7df53c
-SHA256: bad828aac1303d8a376657c3727f1c53831eb19f86ed1970cff38cc87d5dcdd4
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.ylr.wcfloatsplit
 Name: WeChatOrbit（免授权）
@@ -968,12 +968,12 @@ Section: 微信插件
 Depends: firmware (>= 15.0)
 Architecture: iphoneos-arm64
 Version: 3.0-5
-Installed-Size: 2346244
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.ylr.wcfloatsplit_3.0-5_iphoneos-arm64.deb
-Size: 2346244
-MD5sum: 56642de3ee9db576e9edd8901d636003
-SHA1: a15b8c146b7aa7a5a59f946526450afc7e5ce00d
-SHA256: 73e07737f7de25ff5c52407138e7e52d13a614e2b99640dd9de3108d1868a6a4
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Author: Netskao
 Maintainer: BigBoss
@@ -984,7 +984,7 @@ Author: Netskao
 Maintainer: BigBoss
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
 Section: 微信插件
-Installed-Size: 7996412
+Installed-Size: 5502
 Version: 2026.04
 Architecture: iphoneos-arm64e
 Description: 微信净化 2026.04 版本
@@ -996,10 +996,10 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
-Size: 7996412
-MD5sum: 0c1d1ae9cddaefd45b517ed4c8737468
-SHA1: 4a3f0c4477120e4123b8afa510b9e2c7399d27e7
-SHA256: 10a8ead9bf54dff054d00304f233037f2bb1c79ee01b77cab267a2541a397c76
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 Package: com.crctdd.stayalivelite
 Name: 后台运行
@@ -1011,12 +1011,12 @@ Maintainer: crctdd
 Author: crctdd
 Architecture: iphoneos-arm64e
 Version: 0.1.7
-Installed-Size: 65844
+Installed-Size: 5502
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
-Size: 65844
-MD5sum: 31b9e4ab8764f3f7c5d1d4425c5e24f8
-SHA1: 9856c32cad99eecce342bba71b4cb53c2a7b0b03
-SHA256: 7a3e44919a3083f0b15c05b2e9d1b60796468ba254eb20bc3e2e5b5ff7dac78a
+Size: 5502
+MD5sum: dc7768d2a1fbe086c46a2f910404a687
+SHA1: 61ec8c30aa20ac58dac22b68683c9ec15688cdb2
+SHA256: 8cb566debbbc1c1d448c7b2d8a9444a769673deaecebba8c61e10487eba9953d
 
 
 
