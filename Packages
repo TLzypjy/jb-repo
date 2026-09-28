@@ -620,7 +620,7 @@ SHA1: 7d7a873a10d1b7d14a1b4abe9483f4ba8d71cd99
 SHA256: 175368bd12cc68b2f8b66ade87f9e5a0f712168f17bdd7dc291951c905e5494b
 
 Package: com.shtm.amplify
-Name: AmpLify
+Name: AmpLify（免授权）
 Description: 微信美化插件
 Maintainer: SHTM
 Author: SHTM
@@ -629,7 +629,7 @@ Depends: mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/AmpLifySettings.bundle/icon.png
 SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.shtm.amplify.json
 Architecture: iphoneos-arm64
-Version: 1.1-0beta2
+Version: 1.1-0beta2-1
 Installed-Size: 2008
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.shtm.amplify_1.1-0beta2_iphoneos-arm64.deb
 Size: 514264
@@ -1655,7 +1655,7 @@ SHA1: 7d7a873a10d1b7d14a1b4abe9483f4ba8d71cd99
 SHA256: 175368bd12cc68b2f8b66ade87f9e5a0f712168f17bdd7dc291951c905e5494b
 
 Package: com.shtm.amplify
-Name: AmpLify
+Name: AmpLify（免授权）
 Description: 微信美化插件
 Maintainer: SHTM
 Author: SHTM
@@ -1664,7 +1664,7 @@ Depends: mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/AmpLifySettings.bundle/icon.png
 SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.shtm.amplify.json
 Architecture: iphoneos-arm64
-Version: 1.1-0beta2
+Version: 1.1-0beta2-1
 Installed-Size: 2008
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.shtm.amplify_1.1-0beta2_iphoneos-arm64.deb
 Size: 514264
