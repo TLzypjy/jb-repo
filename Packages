@@ -1033,3 +1033,17 @@ MD5sum: 5553261e72cd1f72e88e2da355cf30c9
 SHA1: 65ba3c9fa1fc73e692b933c9ff1fc2df2972ada7
 SHA256: a2cd13acb3cfbd9e1b56ab4538a6458764e33b92997e34adb178ec52d38d8386
 
+Package: com.wcneo.free
+Name: WeChatNeo（免授权）
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WeChatNeo 微信美化全家桶（免授权）。主面板/截图工具/手势截图/头像自定义/主题色等。
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: debs/com.wcneo.free_1.1.0_iphoneos-arm64.deb
+Size: 2713398
+MD5sum: 441bbc12f72838b1bb3edcb46f783121
+SHA1: 6445b54c942396769d424237766eadca10daabee
+SHA256: b12f27b02098dacb0b76fa179d487991dcd938505773455d32c4824fa048e404
