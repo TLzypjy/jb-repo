@@ -2093,7 +2093,7 @@ Author: personal
 Maintainer: personal
 Section: 微信插件
 Filename: debs/com.wcneo.free_1.1.2_iphoneos-arm64.deb
-Size: 2713398
-MD5sum: c8ba7288281514bccb9a37b7fbf0daaf
-SHA1: ca139097e78205e330f881070a32f64506874dff
-SHA256: 0b980796aa116a4db4a63bb2e944cc8a733a65bf102addcbd69c2a0ec0cd520b
+Size: 2713396
+MD5sum: c4253343f543c1240db0b30a1b403f17
+SHA1: c372e38ac5f0d09b43d9bfb9f2493473ae71da90
+SHA256: 7235a9094984c4c38b1b078da9172e7e7a91d5d8e7b2b32190493f6e2b349e5f
