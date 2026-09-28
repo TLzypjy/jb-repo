@@ -2113,3 +2113,18 @@ Size: 463492
 MD5sum: 5a1601d9cb2ada3527b48f09b2da0bf6
 SHA1: 9d2635d5e4cf7643a34a35509fed9bc54f6fe97a
 SHA256: 8a78b2aaf870f494630e444b432750b5362a2ab964ba4fc4e8231e4aec373a9e
+
+Package: com.secretfriend.wechat
+Name: 微信密友
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: 微信密友插件
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.secretfriend.wechat_1.0-1_iphoneos-arm64.deb
+Size: 125462
+MD5sum: c92698491c98dc5e25d63a077dec5512
+SHA1: 7eff8d867bec1ac6119c4e77bfd9a7bac08a0a35
+SHA256: 7ffc60e5e172b9bcfa60e856ee1550090f872f87f6c9b7c9fcafef696522e482
