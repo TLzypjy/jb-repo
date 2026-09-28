@@ -1021,6 +1021,7 @@ Description: 微信美化插件
  德发素材仓 微信美化插件：支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。
 Maintainer: TLzypjy
 Author: 德发
+SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.liuf.wxyj.json
 Section: 微信插件
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
