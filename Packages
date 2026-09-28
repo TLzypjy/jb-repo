@@ -1026,7 +1026,6 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 107618
-SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.liuf.wxyj.json
 Filename: debs/com.liuf.wxyj_1.0_iphoneos-arm64.deb
 Size: 107618
 MD5sum: 5553261e72cd1f72e88e2da355cf30c9
