@@ -1,37 +1,5 @@
 {
-  "minVersion": "1.0",
-  "class": "DepictionTabView",
-  "tintColor": "#007AFF",
-  "tabs": [
-    {
-      "class": "DepictionStackView",
-      "tabname": "详情",
-      "views": [
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 12,
-          "itemSize": "200x400",
-          "screenshots": [
-            {
-              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot1.jpg",
-              "accessibilityText": "截图1"
-            },
-            {
-              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot2.jpg",
-              "accessibilityText": "截图2"
-            },
-            {
-              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot3.jpg",
-              "accessibilityText": "截图3"
-            }
-          ]
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 德发素材仓（免授权）\n\n微信美化素材插件，支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。\n\n安装后重启微信生效。",
-          "useShortDescription": true
-        }
-      ]
-    }
-  ]
+  "class": "DepictionMarkdownView",
+  "markdown": "# 德发素材仓（免授权）\n\n微信美化素材插件，支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。\n\n安装后重启微信生效。\n\n![截图1](https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot1.jpg)\n\n![截图2](https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot2.jpg)\n\n![截图3](https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot3.jpg)",
+  "useShortDescription": false
 }
