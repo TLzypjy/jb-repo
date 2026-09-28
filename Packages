@@ -2111,3 +2111,19 @@ Size: 463472
 MD5sum: 3a60ab93acff5351cf4b5d501b605525
 SHA1: 008cb85b94ff6cc5e9cac7f21dfb089a638e4928
 SHA256: a01ee645b2aa59761d71e874f13e6f6318ca8b2903f1145b8667733294362ef6
+
+Package: byg.iosios.net.native-island
+Name: 原生岛通知
+Version: 1.0.3-1
+Architecture: iphoneos-arm64
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Description: 原生岛通知插件，仅支持iOS16.0+
+Author: sunshinesong
+Maintainer: 搬运工
+Section: 工具
+Icon: https://chinesebuilding.club/pic/cydia.png
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/byg.iosios.net.native-island_1.0.3_iphoneos-arm64.deb
+Size: 259256
+MD5sum: 09a03402c4df36b7ee28158981d9947d
+SHA1: f1854cbc4429b6406e2eea6693df1a5622217009
+SHA256: f850a4d47d73edd98d46830ca35604e62e3cf0d34a308862e3fdb09555aa209d
