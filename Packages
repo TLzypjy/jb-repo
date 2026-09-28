@@ -1033,6 +1033,1041 @@ MD5sum: 5553261e72cd1f72e88e2da355cf30c9
 SHA1: 65ba3c9fa1fc73e692b933c9ff1fc2df2972ada7
 SHA256: a2cd13acb3cfbd9e1b56ab4538a6458764e33b92997e34adb178ec52d38d8386
 
+ackage: axssb666
+Name: 微信全局圆角（免授权）
+Description: A狗微信全局圆角破解组件 安装此组件即可解锁授权 需要配合全局圆角主插件使用
+Maintainer: JJ
+Author: JJ
+Section: 微信插件
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 296
+Filename: debs/axssb666_1.0.0_iphoneos-arm64.deb
+Size: 40690
+MD5sum: 1fec19e11cec7ac8e1211e8d0d2a2f90
+SHA1: 0627c90e13be282a80f745d2309f458ea57819c1
+SHA256: 493879b30298a28541b9b6d2b9eee2b8838a7f2ee4ef7097787c8c91fe3dc232
+
+Package: byg.iosios.net.mango
+Version: 1.0-Beta4-2
+Section: 分屏插件
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Installed-Size: 3548
+Name: 芒果分屏1.0-Beta4-2（免授权）
+Author: go
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+Description: 一款非常不错的分屏插件，需要授权才能使用，但是免费功能可以液态玻璃 视频壁纸 双击锁屏 音量键锁屏等等，还是可以的，大家可以自行看看是否是自己需要的，觉得不错的可以支持一下！
+Filename: debs/byg.iosios.net.mango_1.0-Beta4-2_iphoneos-arm64.deb
+Size: 904644
+MD5sum: 76291513efba709c4110734c7cd15f81
+SHA1: e0c5fe5a15f117f0966eab401c447e9f92d3760d
+SHA256: 9b3a9b38b0f4bcd131d704facfe19acfa84a802a1e2baa6ad3679507ff025d01
+
+Package: cn.octoforce.copyvault
+Name: CopyVault(激活码版)
+Description: 正版乌贼剪贴板
+Maintainer: SquidForce, Backup
+Author: SquidForce, Backup
+Section: 工具
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+Architecture: iphoneos-arm64
+Version: 1.9.0-1
+Installed-Size: 6868
+Filename: debs/cn.octoforce.copyvault_1.9.0-1_iphoneos-arm64.deb
+Size: 1852780
+MD5sum: a34b23362229f3b5d28b7dd4c334a5cb
+SHA1: 3f5932264b43801edc281ebe2aef4af35b241dfc
+SHA256: c55ca5456c95172f3dea96bca075479342bd859cb680881c7747286bf2418b2b
+
+Package: cn.octoforce.squidextender.roothide
+Name: 乌贼键盘隐根（免授权）
+Description: Local device-bound license recovery for SquidExtender 3.7.4. No activation server required. Device validation pending.
+Maintainer: SquidForce, Backup
+Author: SquidForce, Backup
+Section: 手势键盘
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
+Conflicts: cn.octoforce.squidextender, com.squidforce.squidextender
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+Architecture: iphoneos-arm64e
+Version: 3.7.4+offline.1
+Installed-Size: 10254
+Filename: debs/cn.octoforce.squidextender.roothide_3.7.4+offline.1_iphoneos-arm64e.deb
+Size: 2306814
+MD5sum: d3f1116347f1ab664626eba4cf192776
+SHA1: cdd532c77946b7587f41852fd2835822d8d46a49
+SHA256: 244b0395bfb31aecbb2e69f775f0c758c0cbeea839620b67c14deeba3240b14f
+
+Package: cn.octoforce.squidextender
+Name: 乌贼键盘无根（免授权）
+Description: SquidExtender + PCrack 离线授权（本地生成合法授权，不改二进制）
+Maintainer: SquidForce, Backup
+Author: SquidForce, Backup
+Section: 手势键盘
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+Architecture: iphoneos-arm64
+Version: 3.7.4-2
+Filename: debs/cn.octoforce.squidextender_3.7.4-2_iphoneos-arm64.deb
+Size: 2622882
+MD5sum: 25db1858d08741917e52d5a5edf06bf7
+SHA1: 489a1ba69987fbe7e4e71fc0c25f67b0a191efb8
+SHA256: b2f5c878719d0a4510e05928156abd9bc61537ef48a123d671b3961f72cf76cb
+
+Package: cn.octoforce.squidgesturepro.roothide
+Name: 乌贼手势隐根（免授权）
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: cn.octoforce.squidgesturepro, com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Description: Local device-bound license recovery for SquidGesturePro 2.7.6-1. No activation server required. Device validation pending.
+Maintainer: 刀哥
+Author: 刀哥
+Section: 手势键盘
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+Architecture: iphoneos-arm64e
+Version: 2.7.6-1
+Installed-Size: 6762
+Filename: debs/cn.octoforce.squidgesturepro.roothide_2.7.6-1_iphoneos-arm64e.deb
+Size: 1795552
+MD5sum: 727a69f71f43ae70cb81ccb0397dcbf0
+SHA1: 15352adbadd25d43535b33a8f1850617650a1f17
+SHA256: dd30d81acfa4cefcb8d8f1864bb6322dab623c18e71fad4c5ef71bf590fed909
+
+Package: cn.octoforce.squidgesturepro
+Name: 乌贼手势无根（免授权）
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Description: 内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）。
+Maintainer: SquidForce, Backup
+Author: SquidForce, Backup
+Section: 手势键盘
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+Architecture: iphoneos-arm64
+Version: 2.7.6-2
+Installed-Size: 7347
+Filename: debs/cn.octoforce.squidgesturepro_2.7.6-2_iphoneos-arm64.deb
+Size: 1930346
+MD5sum: 8331746087c37d5879052f14da48049a
+SHA1: 52f45722be6379fe3494282e3db869937628c76f
+SHA256: 7b9f31be141c2f6556e92b2cf75e93478b8e42886401d1e898af536a2696799f
+
+Package: com.Axs.floating-view
+Name: FV分屏（免授权）
+Description: 温馨提示:
+  * 1、仅供个人备份与学习研究使用。
+  * 2、本插件未经过大量设备测试，仅在 iPhone 14 Pro iOS 16.2、iPhone 14 Pro Max iOS 16.5 无根越狱环境下测试正常可用。
+  * 3、本版本仅处理授权验证逻辑，插件其他原有逻辑未作修改。若安装后无效、冲突或导致设备/应用异常，请自行卸载。
+  * 4、免责声明：安装和使用本插件所产生的一切风险由使用者自行承担。如因插件本身兼容性、原始代码逻辑或其他未知问题导致设备、系统、应用出现异常，请联系原插件作者处理。本人不承担因此产生的任何责任。
+  * 5、安全预警：鉴于越狱圈内部分特定人员（如Fv作者、苏苏、Wkk等）存在发布恶意格机代码、恶意抹黑及录制栽赃嫁祸视频的前科，需要用户自行甄别，从正确渠道下载插件。
+Maintainer: Axs
+Author: be-huge
+Section: 分屏插件
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Architecture: iphoneos-arm64
+Version: 1.6.0-6
+Installed-Size: 2700
+Icon: https://axs66.github.io/pro/icon/svp.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
+Filename: debs/com.Axs.floating-view_1.6.0-6_iphoneos-arm64.deb
+Size: 652836
+MD5sum: f2921f41a4e0c57639181eb9abd90198
+SHA1: fcb5215bde893a83138a47eb6d513f272c53d486
+SHA256: 641e11be7b374fabf9ff212380975f33c1a2f9bde15867edb5d15a8a4149bd0c
+
+Package: com.Axs.kongzhidiy
+Name: 冰蓝控制中心2.3.3-end（免授权）
+Section: 控制中心
+Maintainer: binglan
+Author: binglan
+Description: 这是一个简单的控制中心美化插件。
+Depends: mobilesubstrate, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 2.3.3-end
+Installed-Size: 3028
+Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kongzhidiy/js.json
+Filename: debs/com.Axs.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
+Size: 674340
+MD5sum: e7807c63d35c8436fd53168ceb8558bd
+SHA1: 120b96eb94f8a3524c37fa1b9cc7c76f1292c57b
+SHA256: 48d68ed09941988e4ff622cb855f3924db7d74fa871e82bce7fb9a57eb62159c
+
+Package: com.Axs.qjsy
+Name: 全局水印Pro（免授权）
+Description: 让简单截图，拥有更多可能。
+Maintainer: 冰蓝
+Depends: mobilesubstrate, preferenceloader
+Section: 系统美化
+Author: 冰蓝
+Architecture: iphoneos-arm64
+Version: 4.1.6
+Installed-Size: 2496
+Icon: https://axs66.github.io/pro/icon/screenshellpro.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+Filename: debs/com.Axs.qjsy_4.1.6_iphoneos-arm64.deb
+Size: 336980
+MD5sum: 165846e289de27614390df65340d308f
+SHA1: 016ab93d30fbc01d80acfbbe2df8f182d82f44c4
+SHA256: 7e2323b3a4a5f5ee8b3b7ffa98370a5de3d091ab9f667475ebdbfcddc758b0a5
+
+Package: com.Axs.xmzs
+Name: 熊猫助手（免授权）
+Description: 微信功能扩展
+Section: 微信插件
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Maintainer: xmmm
+Author: xmmm
+Architecture: iphoneos-arm64
+Version: 1.1-4C
+Installed-Size: 3728
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Sileodepiction: https://tlzypjy.github.io/jb-repo/depictions/com.Axs.xmzs.json
+Filename: debs/com.Axs.xmzs_1.1-4C_iphoneos-arm64.deb
+Size: 1091608
+MD5sum: 8349817d3f3e4a0d935c64405f66b67c
+SHA1: bcc6b9659cde00cbe4eaa8b058ddbecebab51f81
+SHA256: ec9fda06272a8af6478dfdc3db90ee05e4a34fc664b5ae89b013e5867fcc6a19
+
+Package: com.axs.ios16dao.keygen
+Name: A狗动态岛激活码生成器
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: A狗动态岛（ios16dao）激活码生成器。生成 18 位激活码，纯本地计算、不联网。
+ 
+ 使用说明：
+ 1. 打开 A狗动态岛 的授权弹窗，记下 12 位十六进制设备码（如 B67E31825990）；
+ 2. 用 Filza 进入 /var/jb/Library/，打开「A狗动态岛激活码生成器.html」；
+ 3. 输入设备码，自动生成 18 位激活码，点「复制激活码」；
+ 4. 把激活码粘贴回插件弹窗，完成激活；
+ 5. 也可在电脑浏览器打开 https://tlzypjy.github.io/jb-repo/A狗动态岛激活码生成器.html 生成，效果一样。
+Author: personal
+Maintainer: personal
+Section: 工具
+Filename: debs/com.axs.ios16dao.keygen_1.0.0_iphoneos-arm64.deb
+Size: 5498
+MD5sum: b7c8924634136934273758cb3de89244
+SHA1: 01da0f5d6eb379ac5e82cb29c89b359d82ff16d7
+SHA256: 200979191864fdf881ffb00c2322a41a1fa4e596c145e86b9d8ab0d48d292632
+
+Package: com.axs.ios16dao
+Name: A狗150动态岛（免授权）
+Description: 一款市面上最优秀、功能最完整、最稳定的灵动岛插件。付费插件，150缘，授权校验联系:VCR66T
+ * 1. 动态岛自定义背景，支持 PNG/JPG/GIF/MP4。
+ * 2. 录屏的时候，可以隐藏原生岛黑色区域，让效果更美观。
+ * 3. 内置纯代码灵动光圈（如彩虹环、彩虹流星、舞台灯、跑马灯、纯色线框）、漂亮的七彩随机光圈阴影等特效。
+ * 4. 灵动岛左右两侧自定义png图片帧率动画（如写轮眼、跳舞等玩法）。
+ * 5. 本插件无需任何依赖、支持手势录屏触发，已经达到极致水平。
+Maintainer: Axs
+Author: Axs
+Section: 系统美化
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
+SileoDepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+Architecture: iphoneos-arm64
+Version: 5.2.0-244
+Installed-Size: 704
+Filename: debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
+Size: 123852
+MD5sum: 89d00e0bce8f7ec23d2f78116155306a
+SHA1: 4400c694b975535528afd2b7fba4b535397c0c9e
+SHA256: 2e73e5a7eea5f4b85701c815da6c4b00bad11a50cb750b4bdd4881e0bfdb9b9a
+
+Package: com.axs.screenrecording
+Name: A狗截图套壳（免授权）
+Description: 全局录屏自动添加你预先放好的水印和套壳素材，让你的分享更加专业。
+Maintainer: Axs
+Author: Axs
+Section: 系统美化
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: https://axs66.github.io/pro/icon/screenrecording.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenrecording/js.json
+Architecture: iphoneos-arm64
+Version: 5.2.0-35
+Installed-Size: 508
+Filename: debs/com.axs.screenrecording_5.2.0-35_iphoneos-arm64.deb
+Size: 46368
+MD5sum: 5adaced470e4de3a3d2d8526ef96c00a
+SHA1: 33a15f3e633e911496b40eff9d0639fc3cc445f0
+SHA256: 83bf4d4f7c9e5ac5e9f4d31d4de1e08cd8f9b13b5f7c4f5c2ec3699bc0e3a1a5
+
+Package: com.axs.snapper3tag
+Section: 工具
+Installed-Size: 1052
+Maintainer: Axs <qiaozhini000@163.com>
+Architecture: iphoneos-arm64e
+Version: 5.2.0-326
+Depends: mobilesubstrate
+Pre-Depends: rootless-compat (>= 0.9)
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+ * 一、【自定义图标】
+ * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
+ *   标记    ：tag.png   / tag_menu.png
+ *   长截图  ：long.png  / long_menu.png
+ *   ocr识别 ：ocr.png   / ocr_menu.png
+ *   翻译    ：trans.png / trans_menu.png 
+ *   Ai互译  ：huyi.png  / huyi_menu.png
+ *   Ai回答  ：wenda.png / wenda_menu.png
+ * 二、【截图标记】
+ * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
+ * 箭头标记：手指拖拽绘制方向箭头；
+ * 自由画线：手指跟随绘制任意曲线；
+ * 文字标注：点击图片任意位置弹出输入框与键盘，输入文字落点标注，支持字号滑条实时调节；
+ * 矩形图标：点击1次是矩形框选+点击2次是矩形填充；
+ * 圆形图标：点击1次是圆形框选+点击2次是圆形填充；
+ * 高亮图标：点击1次是高亮框选+点击2次是半透明填充；
+ * 马赛克图标：网格分块打码，颗粒固定细腻；
+ * 撤回操作：一键撤销上一步标注；
+ * 删除操作：一键删除所有标注；
+ * 保存相册：渲染并写入系统相册；
+ * 复制剪贴板：一键复制标注后截图；
+ * 三、【长截图 Pro】
+ * 两种模式可选：滚动拼接/ 一键到底；
+ * 智能帧匹配，自动拼接；
+ * 支持保存到相册、复制到剪贴板；
+ * 四、【OCR识别】
+ * 使用 PaddleOCR模型识别截图文字；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备API Token。
+ * 五、【翻译】
+ * 百度翻译 API，自动检测语言双向翻译；
+ * 支持图片翻译和文本翻译两种通道；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备百度开发者信息中的 AppID 和 密钥。
+ * 六、【Ai互译+问答】
+ * 支持中英文互译和中文问答；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备阿里云 API Key。
+ * 七、【长按音量-冻结】
+ * 开启后，长按音量减键约0.2秒即可调出Snapper3冻结模式，适合无手势（不开启悬浮球/手势）的用户，用物理按键直接使用本插件全部标注功能。
+Name: Snapper3 Expand
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
+Filename: debs/com.axs.snapper3tag_5.2.0-326_iphoneos-arm64e.deb
+Size: 607086
+MD5sum: d9f7044e76071e2c3ab954a112b32d4f
+SHA1: f597c6068b2d02e963b73f3acf94f09ea43b0590
+SHA256: 9efea4b6265d8bf828ca1c7ead86c62dfb8636ef2f0e8c951a6294da178863ab
+
+Package: com.axs.switchicon
+Name: A狗液态开关（免授权）
+Description: 一个强大的全局 UISwitch 开关控件，让原生开关显示更有个性；付费插件，需要请联系微信：VCR66T
+ * 一、纯代码开关组
+ * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
+ * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
+ * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
+ * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
+ * 二、素材开关组
+ * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
+ * 2. 支持创建多套，在插件面板自由切换。
+ * 三、温馨提示
+ * 1. 早买早享受，后续免费更新；
+ * 2. 后续增加新样式，新用户可能面临涨价。
+Maintainer: Axs
+Author: Axs
+Section: 系统美化
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Icon: https://axs66.github.io/pro/icon/switchicon.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
+Architecture: iphoneos-arm64
+Version: 5.2.0-131
+Installed-Size: 836
+Filename: debs/com.axs.switchicon_5.2.0-131_iphoneos-arm64.deb
+Size: 122512
+MD5sum: 0c27e8141defd28a87ee7ad841c54d23
+SHA1: cddfc68d9b74236c958f4522a5bdb956f78d30e5
+SHA256: dd1b822f326cc6d35a85d32edb492369c97aa03a94eabbfd4db5c418f57ebba0
+
+Package: com.Axs.yuanjiao
+Name: 微信全局圆角
+Description: A狗的微信全局圆角插件原版 1.8.6-END 下载源里全局圆角（免授权）插件即可解锁授权
+Section: 微信插件
+Maintainer: Axs
+Author: A
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.8.6
+Architecture: iphoneos-arm64e
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
+Filename: debs/com.axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Size: 634908
+MD5sum: bf9bed1ad5d4b4e6be4a36259084b00c
+SHA1: af49e9e108361c8f1d7eb2c8d4772b2058b20f61
+SHA256: 08363d1172528f11b9050d61492715b0878d1f3c6578abc542101b5587345330
+
+Maintainer: 冰蓝
+Section: 系统美化
+Name: 冰蓝灵动岛背景（免授权）
+Version: 1.0.7
+Package: com.binglan.dynamicfx
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Author: 冰蓝
+Installed-Size: 772
+Description: 灵动岛背景？
+Architecture: iphoneos-arm64
+Filename: debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
+Size: 115776
+MD5sum: f49a3dcb658723b8f3dfe0e82727ccac
+SHA1: 15b7f62aed9fc0614ec6206e16125cfaec1ee825
+SHA256: 672995f5094fb955f96f8a3bf3ef6c79c23f83b27086c02c97ded81eab05525c
+
+Package: com.binglan.kongzhidiy
+Name: 冰蓝控制中心2.3.6-end（免授权）
+Section: 控制中心
+Maintainer: binglan
+Author: binglan
+Description: 控制中心中心美化？
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
+Architecture: iphoneos-arm64
+Version: 2.3.6-end
+Installed-Size: 8024
+Filename: debs/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
+Size: 3740156
+MD5sum: 29dbae95039a8cc339b1767d23ed26d9
+SHA1: 8eb7450286485aa2a005d3912429c4f3a0f089cb
+SHA256: 0431994a7a5d35018034ee9929ddc6b4a2d6342c1278d056340f4cde81524a76
+
+Package: com.binglanqjsy.deb
+Name: 冰蓝全局水印套壳（免授权）
+Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
+Maintainer: 冰蓝
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Section: 系统美化
+Author: 冰蓝
+Architecture: iphoneos-arm64
+Version: 3.0.0
+Installed-Size: 908
+Filename: debs/com.binglanqjsy.deb_3.0.0_iphoneos-arm64.deb
+Size: 164700
+MD5sum: f3ff4347f4cec716294d6a175d730e16
+SHA1: dc1f8b704d5ff72f3f38800e92d1662c5f90b33e
+SHA256: 895584d802b95ac9759d77b017201138afac2c74f9617ec7aea259db75533a0d
+
+Package: com.bolilita.free
+Name: 玻璃液态（免授权）
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: 微信液态玻璃（免授权）。内置 ECDSA 公钥离线授权校验，无联网端点，仅自用。
+Author: personal
+Maintainer: personal
+Section: 系统美化
+Filename: debs/com.bolilita.free_2.0.3_iphoneos-arm64.deb
+Size: 1316724
+MD5sum: e5bcd8b2cd7153c4d411830af5c6af91
+SHA1: 2be47b4876264b709c991b891d6e225afbda6eb1
+SHA256: bf92c950379c32a5b7589210b6f187173efcfd37473a59e724974eb0a05d3880
+
+Package: com.bvm.wuzeililiang
+Name: 乌贼本地离线授权
+Description: 乌贼三件套通杀插件，内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）
+Maintainer: BVN
+Author: BVN
+Section: 工具
+Depends: firmware (>= 15.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.0.1-1
+Installed-Size: 328
+Icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
+Filename: debs/com.bvm.wuzeililiang_1.0.1-1_iphoneos-arm64e.deb
+Size: 38092
+MD5sum: edbdb03513b16f3880b7acd7cd0554d9
+SHA1: c5f46ce1816793ee2fc7ca995cb98b92e6e61289
+SHA256: 8026c0829fe9c7b5febe958a962814756ff9bd35ac0c2ff6b706e8e210400960
+
+Package: com.bvn.copyvault.rl
+Name: CopyVault（免授权）
+Description: 乌贼剪贴板
+ 先下载这个版本本地激活一下授权，授权激活成功卸载这个版本和依赖，再去源里下载 CopyVault（激活码版），即可免费使用正版乌贼剪贴板。
+Maintainer: SquidForce, Backup
+Author: SquidForce, Backup
+Section: 工具
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.bvn.squidforcecrack.rl
+Conflicts: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.9.0k
+Installed-Size: 6220
+Icon: https://huayuarc.github.io/icon/CopyVault@2x.png
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.bvn.copyvault.rl_1.9.0k_iphoneos-arm64e.deb
+Size: 1640920
+MD5sum: 3557e6933f0a85ff3d11e2e1b58f8ed2
+SHA1: fdad90089ef2051c66aa62cfa3df5fcf8548400b
+SHA256: dad91deed84e180c33100abf5b4a74c193e2708e0bf1b0bbe72a94bbf8d078f2
+
+Package: com.bvn.squidforcecrack.rl
+Name: SquidForce VIP
+Description: 乌贼系列VIP解锁无弹窗（CopyVault（免授权）依赖包）
+Maintainer: BVN
+Author: BVN
+Section: 工具
+Depends: firmware (>= 15.0), mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.0.1-1
+Installed-Size: 328
+Icon: https://huayuarc.github.io/icon/squidforcecrack.jpg
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.bvn.squidforcecrack.rl_1.0.1-1_iphoneos-arm64e.deb
+Size: 36936
+MD5sum: 3a817babf0231da296be4d9ae76b6573
+SHA1: 553d01b3a65b53821b9088d9bf197f7445565d82
+SHA256: 6a410d9869316a2b141e5dff9d656f71f60cb221e14762bf53c1627e714c390b
+
+Package: com.charlieleung.liquidify.roothide
+Name: 88液态玻璃隐根版（免授权）
+Description: 88液态玻璃隐根版（免授权）。修复键盘模糊。液态玻璃美化，RootHide 隐根兼容。内置本地票据验证，无联网，仅自用。
+Maintainer: 一刀
+Author: 一刀
+Section: 系统美化
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Version: 1.3.7-4
+Installed-Size: 40967
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/com.charlieleung.liquidify.roothide_1.3.7-4_iphoneos-arm64e.deb
+Size: 15421002
+MD5sum: 6a873a609434b5b3773bcaa8171c9c81
+SHA1: 806fe4d35c837a4b7f6cf3b77522942ac9502188
+SHA256: 0d1170f8ae5bdc982aa6c3b9b504ae21fa951df8351517b226bd9fba069566dc
+
+Package: com.charlieleung.liquidify
+Name: 88液态玻璃（免授权）
+Description: 液态玻璃
+Maintainer: 一刀
+Author: 一刀
+Section: 系统美化
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.3.7-4+dao88.1
+Installed-Size: 40597
+Filename: debs/com.charlieleung.liquidify_1.3.7-4+dao88.1_iphoneos-arm64.deb
+Size: 10756064
+MD5sum: 476311bce98b1e595853fde7cf73cc31
+SHA1: ed2c08e17a4d1a82cd73869b6c62ff3c699e60b1
+SHA256: 410a0cf68816de6fb34d809613a735dd4f621db491ceeda5143a53af6129468c
+
+Package: com.go.mango
+Name: 芒果分屏1.0-Beta7-6（免授权）
+Description: V6 = V5全功能解锁+弹窗屏蔽 + 修复OS27样式不生效：原生Beta7的mangoos.plist/MangoOSRendering.plist漏写com.apple.Preferences，导致设置App不注入dylib、OS27样式开关无效。V6补上设置App注入Filter，OS27样式正常生效。已排除微信玻璃组件。
+Maintainer: go
+Author: go
+Section: 分屏插件
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0-Beta7-6
+Installed-Size: 3284
+Filename: debs/com.go.mango_1.0-Beta7-6_iphoneos-arm64.deb
+Size: 845280
+MD5sum: f4026da9ddd748630a7cfd95c25d0a4f
+SHA1: d9bbffcf89e64ae923258a355e1d21831bec2a54
+SHA256: 9b16f51bea1bf0ed6ba0fabf29d24604c5c93b8e4f0f9bb8ca8433cdaee48a19
+
+Package: com.huayuarc.picturemodule16
+Name: 控制中心视频模块背景
+Description: 适配 iOS 16 的原版风格图片与视频控制中心模块，内置自动互斥注册桥。
+Maintainer: Huayuarc
+Author: Huayuarc
+Section: 控制中心
+Depends: firmware (>= 16.0), mobilesubstrate
+Conflicts: com.4nni3.picturemodule
+Architecture: iphoneos-arm64
+Version: 1.3.2
+Installed-Size: 1868
+Icon: https://huayuarc.github.io/icon/PictureModule.jpg
+Filename: debs/com.huayuarc.picturemodule16_1.3.2_iphoneos-arm64.deb
+Size: 68824
+MD5sum: 32fabccf8ebb4017e835c77a38d95c64
+SHA1: 713070f2b29e4b6adc89a16694303f399b260ea2
+SHA256: fc01a6b7817af066aae2c30339933710aabc652c715e6f82013688177ef83ab6
+
+Package: com.liquidui.liquidui
+Name: LiquidUI（免授权）
+Version: 1.78
+Architecture: iphoneos-arm64e
+Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。旧版本，供降级使用。
+Maintainer: TLzypjy
+Author: TLzypjy
+Section: 微信插件
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Filename: debs/com.liquidui.liquidui_1.78_iphoneos-arm64e.deb
+Size: 15816600
+MD5sum: 227648cbb27f60782a8b4e61894eda67
+SHA1: f223b08864ff3cf890127d0248d9ad5d2eed8364
+SHA256: c2dd6878b49b60eb767cdeb8f17307b7a3d549665f95341fbfdaeed34320b61d
+
+Package: com.liquidui.liquidui
+Name: LiquidUI（免授权）
+Version: 1.80
+Architecture: iphoneos-arm64e
+Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。
+Maintainer: TLzypjy
+Author: TLzypjy
+Section: 微信插件
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Filename: debs/com.liquidui.liquidui_1.80_iphoneos-arm64e.deb
+Size: 16592608
+MD5sum: c25cdb8e82604d138f7e345b69fc71dc
+SHA1: 385c397f22010d5bd70dbd8d0d4fe9cc6c6426ed
+SHA256: 1aa428f058226b9ec46fdf31fa9b6d8e5f28bd53d91d22b693546d7b76bab591
+
+Package: com.nx.stheno
+Name: Stheno奥利奥分屏
+Description: Stheno分屏正式版（关闭诊断文件日志） 下拉分屏点击全屏 只支持原生横幅通知。原插件含激活码授权验证，仅自用。
+Maintainer: Crassna
+Author: Crassna
+Section: 分屏插件
+Depends: dev.theos.orion (>= 1.0.0), mobilesubstrate, firmware (>= 16.0)
+Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.23-1~defaultscache1)
+Conflicts: com.h.sthenokb, com.nx.stheno.splitlastownerprobe, com.nx.stheno.splitcycleownerprobe, com.nx.stheno.renderresourceprobe, com.nx.stheno.surfaceownerprobe, com.nx.stheno.splittransitionownerprobe, com.nx.stheno.splitcontextunbindfix, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.nativereplycompetition1, com.nx.stheno.fix.nativereplydisable1, com.nx.stheno.fix
+Replaces: com.h.sthenokb, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.nativereplycompetition1, com.nx.stheno.fix.nativereplydisable1, com.nx.stheno.fix
+Architecture: iphoneos-arm64
+Version: 0.1.23-1
+Installed-Size: 2988
+Filename: debs/com.nx.stheno_0.1.23-1_iphoneos-arm64.deb
+Size: 551092
+MD5sum: 7ed596f3d35ffb732ee455c276576311
+SHA1: 2bb6756f159d8eb0a365e0ad136082cf3e9f6d17
+SHA256: 9c992726b747363ecb057522dcb6de9f54bcdb0a6471f4f59ec390b59c3ed50a
+
+Package: com.qimiao.WCRefine
+Name: WCRefine内部2.1-5beta1（免授权）
+Version: 2.1-5beta1
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Section: 微信插件
+Depends: firmware (>= 14.0), mobilesubstrate
+Priority: optional
+Author: 热心网友
+Dev: 君临
+Maintainer: 热心网友
+Icon: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/eb/b5/a8/ebb5a892-c161-c79f-ba51-2089219fb833/source/512x512bb.jpg
+Architecture: iphoneos-arm64
+Filename: debs/com.qimiao.WCRefine_2.1-5beta1_iphoneos-arm64.deb
+Size: 9312468
+MD5sum: 707ae0dab77f536abe8116282fac0081
+SHA1: 7d7a873a10d1b7d14a1b4abe9483f4ba8d71cd99
+SHA256: 175368bd12cc68b2f8b66ade87f9e5a0f712168f17bdd7dc291951c905e5494b
+
+Package: com.shtm.amplify
+Name: AmpLify
+Description: 微信美化插件
+Maintainer: SHTM
+Author: SHTM
+Section: 微信插件
+Depends: mobilesubstrate, preferenceloader
+Icon: file:///Library/PreferenceBundles/AmpLifySettings.bundle/icon.png
+SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.shtm.amplify.json
+Architecture: iphoneos-arm64
+Version: 1.1-0beta2
+Installed-Size: 2008
+Filename: debs/com.shtm.amplify_1.1-0beta2_iphoneos-arm64.deb
+Size: 514264
+MD5sum: 697790000817f82f91f8a9e2deeeaaa3
+SHA1: 64f9c18cf695dba55ac6a5b5cc4551415a55e2bf
+SHA256: 443bc677961ba570bbe229e97fb555bfcba962eea2ea37a8981bebeb7bc3b222
+
+Package: com.siwenjiajia.tweak.comm
+Name: 抖音优化（免授权）
+Version: 28.35
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Conflicts: com.siwenjiajia.tweak.free
+Description: 抖音优化 交流版 28.35（免授权·完整版）。玻璃拟态、语音朗读、视频统计等，联网功能较多，仅自用。
+Author: siwenjiajia
+Maintainer: personal
+Section: 抖音插件
+Filename: debs/com.siwenjiajia.tweak.comm_28.35_iphoneos-arm64.deb
+Size: 3587956
+MD5sum: 557cf40277104de011fb729f45380a66
+SHA1: 8f7ed16dc8bb9472035a3f7acadeb17931c3c653
+SHA256: 174c14a2a6b42799a9bcdbe1edb7961d9071e4c649e284d52e5581900b9cfeba
+
+Package: com.siwenjiajia.tweak.free
+Name: 抖音优化（免授权）
+Version: 28.17
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Conflicts: com.siwenjiajia.tweak.comm
+Description: 抖音优化 破解版 28.17（免授权·精简版）。功能较少、联网轻，仅自用。
+Author: siwenjiajia
+Maintainer: personal
+Section: 抖音插件
+Filename: debs/com.siwenjiajia.tweak.free_28.17_iphoneos-arm64.deb
+Size: 2894200
+MD5sum: c980747340cf89f3d04cead8f1d00d4e
+SHA1: 850cda4f2c6fadd0aea42e7f80d51991d53f5d69
+SHA256: 429871b1f4d7eed42b38c5e5ea3efc2089dca7d29a1829bdff097702ae4fd598
+
+Package: com.snapbackup
+Name: SnapBackup 备份恢复
+Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐根适配）
+ 轻量、现代 UI 的越狱备份工具，专为解决重装、重越狱、迁移插件与配置的痛点而设计。
+ .
+ 【核心功能】
+ - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
+ - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
+ - 选择性备份：可勾选要备份的插件、配置、本地 deb 与 ipa，自动标记「设置有界面」的插件
+ - 恢复配置一键完成（plist 恢复到 /var/mobile/Library/Preferences，本地执行，无需 root）
+ .
+ 【恢复难易度说明】
+ - 恢复配置：★☆☆ 简单 —— App 内一键恢复，本地执行，无需 root 权限
+ - 恢复插件：★★★ 较难 —— 需 root 权限，通过「Filza 显示」跳转 Filza，手动安装 debs/ 下的 deb（或 dpkg -i），装完注销/重启生效
+ .
+ 【操作流程】
+ ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选内容 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
+ ② 恢复配置：主页 →「恢复配置」→ 选备份包 → 自动恢复 plist（无需 root）
+ ③ 恢复插件：备份包卡片 →「Filza 显示」→ 进入 debs/ 文件夹 → 逐个点 deb 安装 → 注销/重启 SpringBoard 生效
+ .
+ RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
+ 备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
+Author: kanuo
+Maintainer: kanuo
+Dev: kanuo
+Section: 工具
+Depends: firmware (>= 15.0), mobilesubstrate
+Icon: https://jimkanuo.github.io/apt-repo/icon/snapbackup.png
+SileoDepiction: https://jimkanuo.github.io/apt-repo/depiction/com.snapbackup.json
+Architecture: iphoneos-arm64e
+Version: 3.6.5
+Installed-Size: 812
+Filename: debs/com.snapbackup_3.6.5_iphoneos-arm64e.deb
+Size: 1100928
+MD5sum: 145bbff8491fe3dc444a95a469d73f33
+SHA1: 5bcd16b0e7113ad4de320ac5aa17f7fbff453048
+SHA256: e33edf2f4c3f1faaeacff97ef31ceb11a9af0f1aa70f4725aa6b2af2e177cb36
+
+Package: com.susu.sumusicplayercc
+Section: 控制中心
+Installed-Size: 628
+Maintainer: 苏苏
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Depends: com.opa334.ccsupport
+Description: 控制中心播放器视频背景美化
+Name: SuMusicPlayerCC
+Icon: https://www.susubaby.top/images/sumusicplayercc.png
+Author: 苏苏
+Filename: debs/com.susu.sumusicplayercc_1.0.1_iphoneos-arm64.deb
+Size: 86752
+MD5sum: 139d5083cb7adb124547e4b89f64f7bf
+SHA1: 75cae2282ffc97fbd7b96deadd8f7714932e1b81
+SHA256: ba67757d51a1b7d73e30db031e9bb6e19506eaa1fb4b1770ff35583c390d6cf9
+
+Package: com.susudear.screencore
+Name: ScreenCore分屏
+Description: ScreenCore 分屏工具（免授权）。分屏而已。
+Maintainer: SuSu
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Section: 分屏插件
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.1.8
+Installed-Size: 2836
+Filename: debs/com.susudear.screencore_1.1.8_iphoneos-arm64e.deb
+Size: 440972
+MD5sum: 7a4dfacf6651b93c3d128f3dafb7dde6
+SHA1: 73f9d055e59182b305ded260340af5ccff69cbfb
+SHA256: 01333dcf8a0f11f7eca0e653e4e75e11350342e88ef080b0a1f81e929339a4bd
+
+Package: com.tencent.themebox
+Name: 主题盒子（免授权）
+Version: 2.3.6
+Description: 微信主题盒子
+Maintainer: admin@25mao.com
+Author: Mao
+Section: 微信插件
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Filename: debs/com.tencent.themebox_2.3.6_iphoneos-arm64.deb
+Size: 7803500
+MD5sum: 1cf19643176e38e95a848b81655fd4f0
+SHA1: 7c6ce5b0e629e82e73e34f4f43908ea9d4ca0649
+SHA256: 1f9c90feca801d55295b7ecb817000f84186388efa95bde314a5222a7bb0488d
+
+Package: com.tsangbaby.kayoko
+Name: Kayoko
+Description: Kayoko 剪切板，Tsangbaby 基于 mlgm 版进行二次修改
+Maintainer: Tsangbaby
+Author: Tsangbaby
+Section: 工具
+Icon: https://github.com/Tsangbaby/Kayoko/blob/main/Icon/kayoko.png
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.8
+Installed-Size: 3156
+Filename: debs/com.tsangbaby.kayoko_4.8_iphoneos-arm64e.deb
+Size: 670848
+MD5sum: b5b42792fdb59a7eb302d62b0f5fd100
+SHA1: 7bb6b4bf05e30816c02b57e8ff980905fbf8a95a
+SHA256: 5369546bbdab0f4ed2e3eb7e03bd828fed26bc9da052fd8cd06b52753477f744
+
+Package: com.unknown.wuzeililiang
+Name: 鱿鱼三件套通杀（免授权）
+Description: 鱿鱼三件套通杀插件
+ 下载鱿鱼三件套再安装这个插件即可本地激活授权。
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Unknown <unknown@none.local>
+Section: 工具
+Priority: optional
+Installed-Size: 822
+Filename: debs/com.unknown.wuzeililiang_1.0_iphoneos-arm64e.deb
+Size: 165460
+MD5sum: 5de2a2be3032a85da4055fd3e6082472
+SHA1: de86786f7ca88cddc7841bbdd112883e66d658af
+SHA256: 30df28579a7bf6335136a24ff90845c2b2fd19292be08e7cb44cff9f24970448
+
+Package: com.wcglass.free
+Name: WCGlass（免授权）
+Version: 3.2.1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WCGlass 微信液态玻璃（免授权·隐根版）。内置统一授权服务与热更新通道，仅自用。
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
+Size: 19588328
+MD5sum: 8037c65543a314beb5deee65279592eb
+SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
+SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
+
+Package: com.wcliquidglass.free
+Name: 58微信液态玻璃（免授权）
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Description: 58微信液态玻璃（免授权）。微信界面液态玻璃风格美化，rootless 专用。内置本地公钥验签，无联网授权，仅自用。
+Maintainer: TLzypjy
+Author: TLzypjy
+Section: 微信插件
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Filename: debs/com.wcliquidglass.free_2.0.3_iphoneos-arm64e.deb
+Size: 731228
+MD5sum: 65ca2e958bb6ff1f440839fe48634dfa
+SHA1: f35a2baf73b052d224984cf929a668c6c2a3de24
+SHA256: f1375dde9d2b32cbd8a36d3b0c3551bc7ebda14fa90f246eedc554a22e933281
+
+Package: com.wcneo.free
+Name: WeChatNeo（免授权）
+Version: 1.0.8-3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WeChatNeo 微信美化全家桶（免授权）。主面板/截图工具/手势截图/头像自定义/主题色等。内置授权服务器与更新通道，仅自用。
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: debs/com.wcneo.free_1.0.8-3_iphoneos-arm64.deb
+Size: 2906668
+MD5sum: d46c034f05628c003c9406741fef7a07
+SHA1: 7148f96d45e0ee70bd6a4cc657a93012bd78b25b
+SHA256: 0a3835b016ee58d275a1a732e23e5cdaa8f97a6dd493eeec335f59ff11306a63
+
+Package: com.wkk.copylogx
+Name: CopylogX（wkk）
+Description: cool！
+Maintainer: wkk
+Author: wkk
+Section: 工具
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64
+Version: 1.1-9
+Installed-Size: 1828
+Filename: debs/com.wkk.copylogx_1.1-9_iphoneos-arm64.deb
+Size: 273136
+MD5sum: 257634ba3d61b3916d16238923d54d24
+SHA1: 44425af08268cc4eaa52e1c25e6bbbaf7ba256a9
+SHA256: a2bbc0bc150ebf3f9b88f4771f82e2c9f3cc537e72efdbdf7ba5ec204149ade7
+
+Package: com.wkk.installedpackages
+Name: InstalledPackages（wkk）
+Depends: firmware (>= 15.0)
+Priority: optional
+Description: 是否受够了进入Sileo时卸载已安装插件慢如蜗牛般的速度？这是一款独立的越狱插件包管理器，用于快速查看和卸载本机已安装的插件包。
+ 安装后会在桌面显示应用图标。
+Maintainer: wkk
+Author: wkk
+Section: 工具
+Homepage: https://github.com/roothide/Sileo-roothide
+Tag: purpose::application, compatible_min::ios15
+Icon: file:///Applications/InstalledPackages.app/icon_large.png
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Installed-Size: 912
+Filename: debs/com.wkk.installedpackages_1.0-1_iphoneos-arm64.deb
+Size: 431928
+MD5sum: a8375463f23edef27aa6989f592d963b
+SHA1: ba9bd4e2cbc28aad8ab40cf9d7934c84f947d9d7
+SHA256: 9a90461dfa409e3e4b815bb0522799497c984d33be46c68cec8086f3b38dc4f2
+
+Package: com.wkk.keyboardx
+Name: keyboardX（wkk）
+Description: 键盘调整。
+Maintainer: wkk
+Author: wkk
+Section: 手势键盘
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0-6
+Installed-Size: 516
+Filename: debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64.deb
+Size: 64140
+MD5sum: 0e5eb8009b0fe227712648f91f8dc935
+SHA1: ed21a267b90d9b90c898cf7954729855a1906578
+SHA256: 815cd97ed2472352e486e7aaf211d90a6558e10219c59cc033dd3080beb9da7f
+
+Package: com.wkk.keyboardx
+Name: KeyboardX（wkk）
+Description: 键盘调整。
+Maintainer: wkk
+Author: wkk
+Section: 手势键盘
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.1-6
+Installed-Size: 616
+Filename: debs/com.wkk.keyboardx_1.1-6_iphoneos-arm64.deb
+Size: 80056
+MD5sum: 7f08c48602b60c8473c738247fe71bd2
+SHA1: afc77b3387c645ed2352921f1f4eb70a8138fe31
+SHA256: c1dbb513eae9695fc79f064df00bdfc7fc9963502f09bbff728b841a866230e9
+
+Package: com.wkk.onestepx
+Name: OneStepX（wkk）
+Description: 为 iPhone 操作按钮、锁屏按钮、桌面、底部与状态栏提供独立动作。
+Maintainer: wkk
+Author: wkk
+Section: 工具
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 17.0)
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Architecture: iphoneos-arm64e
+Version: 1.1-0
+Installed-Size: 516
+Filename: debs/com.wkk.onestepx_1.1-0_iphoneos-arm64e.deb
+Size: 111816
+MD5sum: d16ac13e352b02bbb93e44798bff05c0
+SHA1: 3ec2ae580adcbea3c30da251620317daed8cd883
+SHA256: eebc660432e9af8a7e62ee520569387eefd1edd4ac248102449ea0ce14e3a338
+
+Package: com.wkk.systembox
+Name: SystemX（wkk）
+Description: cool
+Maintainer: wkk
+Author: wkk
+Section: 系统美化
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.4-7
+Installed-Size: 1572
+Filename: debs/com.wkk.systembox_1.4-7_iphoneos-arm64.deb
+Size: 316342
+MD5sum: 5c4336f7239dd8596647d83ab1a3a390
+SHA1: ae5eed60b6667cc0081f298882b8dc4d8091b885
+SHA256: 6d03a689be4241fdd4e07141e5ae0120ce699a571684bfed2df457a32fddfa0d
+
+Package: com.wkk.wechatx
+Name: WeChatX（wkk）
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Maintainer: wkk
+Author: wkk
+Section: 微信插件
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 2.3-2
+Installed-Size: 8376
+Filename: debs/com.wkk.wechatx_2.3-2_iphoneos-arm64.deb
+Size: 2974286
+MD5sum: 730d38bfc5beef26b708b5e7d4921b44
+SHA1: 08398883b4b85476e041c33d6209336cec7df53c
+SHA256: bad828aac1303d8a376657c3727f1c53831eb19f86ed1970cff38cc87d5dcdd4
+
+Package: com.ylr.wcfloatsplit
+Name: WeChatOrbit（免授权）
+Description: WeChatOrbit
+Maintainer: ylr
+Author: ylr
+Section: 微信插件
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 3.0-5
+Installed-Size: 6236
+Filename: debs/com.ylr.wcfloatsplit_3.0-5_iphoneos-arm64.deb
+Size: 2346244
+MD5sum: 56642de3ee9db576e9edd8901d636003
+SHA1: a15b8c146b7aa7a5a59f946526450afc7e5ce00d
+SHA256: 73e07737f7de25ff5c52407138e7e52d13a614e2b99640dd9de3108d1868a6a4
+
+Author: Netskao
+Maintainer: BigBoss
+Name: 微信净化 2026.04
+Package: netskao.wechatpurifications
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Section: 微信插件
+Installed-Size: 23256
+Version: 2026.04
+Architecture: iphoneos-arm64e
+Description: 微信净化 2026.04 版本
+ * 还原聊天本质，干净的微信给你
+ * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
+ * 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解
+Conflicts: netskao.wechatpurification
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
+Size: 7996412
+MD5sum: 0c1d1ae9cddaefd45b517ed4c8737468
+SHA1: 4a3f0c4477120e4123b8afa510b9e2c7399d27e7
+SHA256: 10a8ead9bf54dff054d00304f233037f2bb1c79ee01b77cab267a2541a397c76
+
+Package: com.crctdd.stayalivelite
+Name: 后台运行
+Description: 为指定App开启守护后台，将任务角色注册为Inactive(非活跃)，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Section: 工具
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader
+Priority: optional
+Maintainer: crctdd
+Author: crctdd
+Architecture: iphoneos-arm64e
+Version: 0.1.7
+Installed-Size: 300
+Filename: debs/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
+Size: 65844
+MD5sum: 31b9e4ab8764f3f7c5d1d4425c5e24f8
+SHA1: 9856c32cad99eecce342bba71b4cb53c2a7b0b03
+SHA256: 7a3e44919a3083f0b15c05b2e9d1b60796468ba254eb20bc3e2e5b5ff7dac78a
+
+Package: com.liuf.wxyj
+Name: 德发素材仓（免授权）
+Description: 微信美化插件
+ 德发素材仓 微信美化插件：支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。
+Maintainer: TLzypjy
+Author: 德发
+SileoDepiction: https://tlzypjy.github.io/jb-repo/depictions/com.liuf.wxyj.json
+Section: 微信插件
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 107618
+Filename: debs/com.liuf.wxyj_1.0_iphoneos-arm64.deb
+Size: 107618
+MD5sum: 5553261e72cd1f72e88e2da355cf30c9
+SHA1: 65ba3c9fa1fc73e692b933c9ff1fc2df2972ada7
+SHA256: a2cd13acb3cfbd9e1b56ab4538a6458764e33b92997e34adb178ec52d38d8386
+
 Package: com.wcneo.free
 Name: WeChatNeo（免授权）
 Version: 1.1.0
@@ -1047,3 +2082,18 @@ Size: 2713398
 MD5sum: 441bbc12f72838b1bb3edcb46f783121
 SHA1: 6445b54c942396769d424237766eadca10daabee
 SHA256: b12f27b02098dacb0b76fa179d487991dcd938505773455d32c4824fa048e404
+
+Package: com.wcneo.free
+Name: WeChatNeo（免授权）
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WeChatNeo 微信美化全家桶（免授权）。主面板/截图工具/手势截图/头像自定义/主题色等。
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: debs/com.wcneo.free_1.1.2_iphoneos-arm64.deb
+Size: 2713398
+MD5sum: c8ba7288281514bccb9a37b7fbf0daaf
+SHA1: ca139097e78205e330f881070a32f64506874dff
+SHA256: 0b980796aa116a4db4a63bb2e944cc8a733a65bf102addcbd69c2a0ec0cd520b
