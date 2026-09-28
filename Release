@@ -1,5 +1,5 @@
 Origin: personal-jb-repo
-Label:                                              TL回收站
+Label: TL回收站
 Suite: stable
 Version: 1.0
 Codename: personal-jb-repo
@@ -8,16 +8,16 @@ Components: main
 Description: 自用插件源
 
 MD5Sum:
- 9f3564d5359d842084e7d61769616528 92383 Packages
- a5b591ea7d06df4d1fabc78124f66805 18759 Packages.bz2
- a930f1ddb59e1e536d63285daba21d25 14916 Packages.xz
+  ac364c1f3b2b5cbb8a4006062dd7c2ab 97875 Packages
+  9d20ef5d7c35e04bff331ea5b8efa056 18860 Packages.bz2
+  5b1e4ad85f325289dc3cda5bd9573401 14988 Packages.xz
 
 SHA1:
- 872d430826607ec73aeaf4c21ff523c7d0ad7599 92383 Packages
- 001053ce43432ff91137cb63dcc52d774297e1f8 18759 Packages.bz2
- 436effb8ad44fe57935d78e8d258c8323461cb16 14916 Packages.xz
+  935e1dd80c0890c3145ec25b7d30c1e83038460a 97875 Packages
+  75f117abf7626c2c743406e7d12eec4705d00f1a 18860 Packages.bz2
+  3a9bc31caa51ab8cc35bce1574c2b12464c606a1 14988 Packages.xz
 
 SHA256:
- f7736e560e7e23e24682ab104350d0bafd8818cf29ccf75810db7de5a45e817d 92383 Packages
- 12a984db8a71244b2dd15c45e027857ef96f00300b4dd1ad4ebf47e5b57b557d 18759 Packages.bz2
- 2d241ed4ebf66af73545a333b47c3f326cba0cfe7bddb81e02f94e34abf7bc0b 14916 Packages.xz
+  b9cc00f531ec17e0236b4b318b9ca7075378e263b714513ccf655f1ca9edffe1 97875 Packages
+  3d24cd28c345b8e9f2193a72e9971a7cc26e6c0729c5e8dea4b8ce661baaaa15 18860 Packages.bz2
+  1b8abf152a368f84301149e50bccd9d9c800507c875a654f0ee2f2ae100bc967 14988 Packages.xz
