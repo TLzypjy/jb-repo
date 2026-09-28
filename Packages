@@ -1759,23 +1759,6 @@ MD5sum: 139d5083cb7adb124547e4b89f64f7bf
 SHA1: 75cae2282ffc97fbd7b96deadd8f7714932e1b81
 SHA256: ba67757d51a1b7d73e30db031e9bb6e19506eaa1fb4b1770ff35583c390d6cf9
 
-Package: com.susudear.screencore
-Name: ScreenCore分屏（wkk）
-Description: ScreenCore 分屏工具（免授权）。分屏而已。
-Maintainer: SuSu
-Author: SuSu
-Icon: https://repo.susubaby.cn/icons/ScreenCore.png
-Section: 分屏插件
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Architecture: iphoneos-arm64e
-Version: 1.1.8
-Installed-Size: 2836
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.susudear.screencore_1.1.8_iphoneos-arm64e.deb
-Size: 440972
-MD5sum: 7a4dfacf6651b93c3d128f3dafb7dde6
-SHA1: 73f9d055e59182b305ded260340af5ccff69cbfb
-SHA256: 01333dcf8a0f11f7eca0e653e4e75e11350342e88ef080b0a1f81e929339a4bd
-
 Package: com.tencent.themebox
 Name: 主题盒子（免授权）
 Version: 2.3.6
