@@ -725,7 +725,7 @@ SHA1: 75cae2282ffc97fbd7b96deadd8f7714932e1b81
 SHA256: ba67757d51a1b7d73e30db031e9bb6e19506eaa1fb4b1770ff35583c390d6cf9
 
 Package: com.susudear.screencore
-Name: ScreenCore分屏
+Name: ScreenCore分屏（wkk）
 Description: ScreenCore 分屏工具（免授权）。分屏而已。
 Maintainer: SuSu
 Author: SuSu
@@ -1760,7 +1760,7 @@ SHA1: 75cae2282ffc97fbd7b96deadd8f7714932e1b81
 SHA256: ba67757d51a1b7d73e30db031e9bb6e19506eaa1fb4b1770ff35583c390d6cf9
 
 Package: com.susudear.screencore
-Name: ScreenCore分屏
+Name: ScreenCore分屏（wkk）
 Description: ScreenCore 分屏工具（免授权）。分屏而已。
 Maintainer: SuSu
 Author: SuSu
@@ -2097,3 +2097,19 @@ Size: 4151998
 MD5sum: 84de78649f33696dfb0673b409fdcb96
 SHA1: 61d2eb1fa6348d4f38f920abc96a9e8997b6d27a
 SHA256: 386c8d30656a1fe0eee9c963b96e9b1ba2afa89a45853c91f1313f84ce3cefc4
+
+
+Package: com.susudear.screencore
+Name: ScreenCore分屏（wkk）
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: 分屏而已
+Author: SuSu
+Maintainer: SuSu
+Section: Tweaks
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.susudear.screencore_2.0.1_iphoneos-arm64.deb
+Size: 463492
+MD5sum: 5a1601d9cb2ada3527b48f09b2da0bf6
+SHA1: 9d2635d5e4cf7643a34a35509fed9bc54f6fe97a
+SHA256: 8a78b2aaf870f494630e444b432750b5362a2ab964ba4fc4e8231e4aec373a9e
