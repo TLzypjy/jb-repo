@@ -2083,7 +2083,7 @@ SHA256: db5c8ee1dd0182730cdd690aae8c14bc2b8159e16df77ef1a0b1d89c8724269e
 
 Package: com.susudear.screencore
 Name: ScreenCore分屏（wkk）
-Version: 2.0.1
+Version: 2.0.1-1
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Description: 分屏而已
