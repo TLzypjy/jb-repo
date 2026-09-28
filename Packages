@@ -2081,16 +2081,15 @@ MD5sum: 57feedd2f68dfe36450422e71b0cbbbe
 SHA1: 78027d609b3ca669a58d0dce2dd57a4d69a3c093
 SHA256: db5c8ee1dd0182730cdd690aae8c14bc2b8159e16df77ef1a0b1d89c8724269e
 
-
 Package: com.susudear.screencore
 Name: ScreenCore分屏（wkk）
 Version: 2.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Description: 分屏而已
 Author: SuSu
 Maintainer: SuSu
-Section: Tweaks
+Section: 分屏插件
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.susudear.screencore_2.0.1_iphoneos-arm64.deb
 Size: 463492
 MD5sum: 5a1601d9cb2ada3527b48f09b2da0bf6
