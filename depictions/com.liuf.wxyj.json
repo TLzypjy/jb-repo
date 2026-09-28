@@ -1,5 +1,37 @@
 {
-  "class": "DepictionMarkdownView",
-  "markdown": "# 德发素材仓（免授权）\n\n微信美化素材插件，支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。\n\n安装后重启微信生效。\n\n![截图1](https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot1.jpg)\n\n![截图2](https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot2.jpg)\n\n![截图3](https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot3.jpg)",
-  "useShortDescription": false
+  "class": "DepictionTabView",
+  "tintColor": "#007AFF",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "markdown": "德发素材仓 微信美化插件：支持角标、背景、底栏、顶栏、输入框、置顶、工具栏、索引、附件、搜索、返回、菜单、头像框、提示音、通知背景、表情、字体、时间背景等素材自定义。\n\n安装后重启微信生效。",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 10,
+          "itemSize": "{750, 1624}",
+          "screenshots": [
+            {
+              "accessibilityText": "德发素材仓1",
+              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot1.jpg"
+            },
+            {
+              "accessibilityText": "德发素材仓2",
+              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot2.jpg"
+            },
+            {
+              "accessibilityText": "德发素材仓3",
+              "url": "https://tlzypjy.github.io/jb-repo/depictions/defa_screenshot3.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
