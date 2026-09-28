@@ -2097,7 +2097,7 @@ SHA1: 7eff8d867bec1ac6119c4e77bfd9a7bac08a0a35
 SHA256: 7ffc60e5e172b9bcfa60e856ee1550090f872f87f6c9b7c9fcafef696522e482
 
 Package: com.susudear.screencore2
-Name: ScreenCore分屏2.0（wkk）
+Name: ScreenCore分屏（wkk）
 Version: 2.0.1-1
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
