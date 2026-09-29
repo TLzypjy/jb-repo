@@ -793,18 +793,18 @@ SHA256: 30df28579a7bf6335136a24ff90845c2b2fd19292be08e7cb44cff9f24970448
 
 Package: com.wcglass.free
 Name: WCGlass（免授权）
-Version: 3.2.1
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
-Description: WCGlass 微信液态玻璃（免授权·隐根版）。内置统一授权服务与热更新通道，仅自用。
+Version: 3.5.8-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WCGlass 微信液态玻璃美化插件
 Author: personal
 Maintainer: personal
 Section: 微信插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
-Size: 19588328
-MD5sum: 8037c65543a314beb5deee65279592eb
-SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
-SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcglass.free_3.5.8-1_iphoneos-arm64.deb
+Size: 37457028
+MD5sum: 8ef6e8dfde586a1d8515d982c271ddb9
+SHA1: 2ded23096048658448dafebfa43fcd36432aab2b
+SHA256: 14d15556d5c3460f30d58fd73431661ee77c367f2b1e747887dad14c7313165d
 
 Package: com.wcliquidglass.free
 Name: 58微信液态玻璃（免授权）
@@ -1811,18 +1811,18 @@ SHA256: 30df28579a7bf6335136a24ff90845c2b2fd19292be08e7cb44cff9f24970448
 
 Package: com.wcglass.free
 Name: WCGlass（免授权）
-Version: 3.2.1
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
-Description: WCGlass 微信液态玻璃（免授权·隐根版）。内置统一授权服务与热更新通道，仅自用。
+Version: 3.5.8-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WCGlass 微信液态玻璃美化插件
 Author: personal
 Maintainer: personal
 Section: 微信插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
-Size: 19588328
-MD5sum: 8037c65543a314beb5deee65279592eb
-SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
-SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcglass.free_3.5.8-1_iphoneos-arm64.deb
+Size: 37457028
+MD5sum: 8ef6e8dfde586a1d8515d982c271ddb9
+SHA1: 2ded23096048658448dafebfa43fcd36432aab2b
+SHA256: 14d15556d5c3460f30d58fd73431661ee77c367f2b1e747887dad14c7313165d
 
 Package: com.wcliquidglass.free
 Name: 58微信液态玻璃（免授权）
