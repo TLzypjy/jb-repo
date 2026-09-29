@@ -2127,3 +2127,18 @@ Size: 19588356
 MD5sum: c10db263e7249d2cf58c25a29cbda5be
 SHA1: 1b83cc79750e13978090bb2bf88731cf4f80db11
 SHA256: cddb83fa7f0fdec73ca9b19daf1a56c9de0d7ad39fc6a9e148e02c335bc85c4b
+
+Package: com.000.themelab
+Name: 000ThemeLab（免授权）
+Version: 1.7.5-1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: 000ThemeLab 主题实验室插件
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.000.themelab_1.7.5_iphoneos-arm64e.deb
+Size: 4537490
+MD5sum: bced314391207efdd8bd094188847858
+SHA1: bd6094fff36d42483f6bfea340d8d32c80fc79ec
+SHA256: 85760e968795177b2898e8c43a9611c5b070be37f2ce2299e350631365c578ab
