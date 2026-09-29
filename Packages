@@ -2130,7 +2130,7 @@ SHA256: cddb83fa7f0fdec73ca9b19daf1a56c9de0d7ad39fc6a9e148e02c335bc85c4b
 
 Package: com.000.themelab
 Name: 000ThemeLab（免授权）
-Version: 1.7.4-1
+Version: 1.7.5-1
 Architecture: iphoneos-arm64e
 Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
 Description: 000ThemeLab 主题实验室插件
