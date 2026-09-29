@@ -800,7 +800,7 @@ Description: WCGlass 微信液态玻璃美化插件
 Author: personal
 Maintainer: personal
 Section: 微信插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.wcglass.free_3.5.8-1_iphoneos-arm64.deb
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.wcglass.free_3.5.8-1_iphoneos-arm64.deb
 Size: 37457028
 MD5sum: 8ef6e8dfde586a1d8515d982c271ddb9
 SHA1: 2ded23096048658448dafebfa43fcd36432aab2b
