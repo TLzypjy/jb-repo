@@ -2152,7 +2152,7 @@ Description: 000ThemeLab 主题实验室插件
 Author: personal
 Maintainer: personal
 Section: 微信插件
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.000.themelab.old_1.7.4_iphoneos-arm64e.deb
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.000.themelab.old_1.7.4_iphoneos-arm64e.deb
 Size: 1933204
 MD5sum: 1539cd17166ba1378bc5a62f068a58a7
 SHA1: 2c01978ed0785e1afdfa94578b496371118d6c2e
