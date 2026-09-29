@@ -2127,3 +2127,18 @@ Size: 259256
 MD5sum: 09a03402c4df36b7ee28158981d9947d
 SHA1: f1854cbc4429b6406e2eea6693df1a5622217009
 SHA256: f850a4d47d73edd98d46830ca35604e62e3cf0d34a308862e3fdb09555aa209d
+
+Package: com.wcglass.free
+Name: WCGlass（免授权）
+Version: 3.2.1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WCGlass 微信液态玻璃美化插件 旧版3.2.1
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
+Size: 19588328
+MD5sum: 8037c65543a314beb5deee65279592eb
+SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
+SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
