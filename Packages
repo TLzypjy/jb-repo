@@ -2142,3 +2142,18 @@ Size: 19588328
 MD5sum: 8037c65543a314beb5deee65279592eb
 SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
 SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
+
+Package: com.wcglass.old
+Name: WCGlass旧版（免授权）
+Version: 3.2.1-1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WCGlass 微信液态玻璃 旧版3.2.1 隐根版
+Author: personal
+Maintainer: personal
+Section: 微信插件
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.wcglass.old_3.2.1_iphoneos-arm64e.deb
+Size: 19588356
+MD5sum: c10db263e7249d2cf58c25a29cbda5be
+SHA1: 1b83cc79750e13978090bb2bf88731cf4f80db11
+SHA256: cddb83fa7f0fdec73ca9b19daf1a56c9de0d7ad39fc6a9e148e02c335bc85c4b
