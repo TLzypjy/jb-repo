@@ -2144,7 +2144,7 @@ SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
 SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
 
 Package: com.wcglass.old
-Name: WCGlass旧版（免授权）
+Name: WCGlass（免授权）
 Version: 3.2.1-1
 Architecture: iphoneos-arm64e
 Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
