@@ -2172,3 +2172,18 @@ Size: 4537690
 MD5sum: 5d2aa3533117b5b47531290429c2c31a
 SHA1: 7f7ef60cfc0898b1b1f3e53fb584e11270b66d58
 SHA256: 18ed579882a96a896d14c055866f2e4e48e23fdcd317431e617081dd6bd81d8f
+
+Package: com.0xkuj.speedads2k26
+Name: SpeedAds2k26（汉化版）
+Version: 1.2.1-1
+Architecture: iphoneos-arm64e
+Depends: com.opa334.altlist, preferenceloader, mobilesubstrate | org.coolstar.libhooker | org.coolstar.ellekit, firmware (>= 15.0)
+Description: 广告加速跳过插件 汉化版
+Author: 0xkuj
+Maintainer: TLzypjy
+Section: 工具
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.0xkuj.speedads2k26_1.2.1-1_iphoneos-arm64e.deb
+Size: 65520
+MD5sum: 927d68d5c075987f5f9d4894e7c4ca61
+SHA1: f6cc85326a9a9d62515db5efe06af58850b7acef
+SHA256: 81e845c1001b6a0393cf6f9d579b739ab3c91577156b8f17275dfa0b4b34c1a6
