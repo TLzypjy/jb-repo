@@ -2197,8 +2197,8 @@ Description: 强制满血120Hz刷新率
 Author: 半生年华
 Maintainer: TLzypjy
 Section: 工具
-Filename: https://tlzypjy.github.io/jb-repo/debs/com.hx.120_2.0_iphoneos-arm64e.deb
-Size: 7518
-MD5sum: 86ab5c4cf425001d18a01d8b1213bc65
-SHA1: 4c1d3b1ff3d255fc83fd6d9eb09e5bd968847b3b
-SHA256: e52f1976b7af0c9c5000685124d00f752766cd49bf6300efe8e9e05bac15d240
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.hx.120_2.0-1_iphoneos-arm64e.deb
+Size: 7520
+MD5sum: b644dbb4ce852804508053eb8965d52e
+SHA1: 97a389a039293c8360d0141817fdb2ce6f0e6b44
+SHA256: 0f540d6c9cfd5dcb955741f9e4e8c7f4117217aaafe4af8aa8399901c03fbe90
