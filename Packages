@@ -2198,7 +2198,7 @@ Author: 半生年华
 Maintainer: TLzypjy
 Section: 工具
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.hx.120_2.0-2_iphoneos-arm64e.deb
-Size: 7504
-MD5sum: 073fa89c47ed07aaeb1172e2b64887fb
-SHA1: 63025e949846fdc46db67722a8e6653a231f7b85
-SHA256: 414ae6ee0197d4a02b876c7f4314aac98c778dbfad9a2d0605705e0f241b0623
+Size: 4974
+MD5sum: 2bd6cf5f77850a8fecb295b2818ee126
+SHA1: cc7ff64594de2bcc12a9d22270b550e834d408b2
+SHA256: 80a945cf69d8c7f2e213f07737cbb1aacc3191b45c5452b617351ac6b1e273ff
