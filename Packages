@@ -2190,7 +2190,7 @@ SHA256: 81e845c1001b6a0393cf6f9d579b739ab3c91577156b8f17275dfa0b4b34c1a6
 
 Package: com.hx.120
 Name: 满血120Hz
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate | org.coolstar.libhooker | org.coolstar.ellekit, firmware (>= 15.0)
 Description: 强制满血120Hz刷新率
