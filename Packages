@@ -2190,15 +2190,15 @@ SHA256: 81e845c1001b6a0393cf6f9d579b739ab3c91577156b8f17275dfa0b4b34c1a6
 
 Package: com.hx.120
 Name: 满血120Hz
-Version: 2.0-1
+Version: 2.0-2
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate | org.coolstar.libhooker | org.coolstar.ellekit, firmware (>= 15.0)
 Description: 强制满血120Hz刷新率
 Author: 半生年华
 Maintainer: TLzypjy
 Section: 工具
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.hx.120_2.0-1_iphoneos-arm64e.deb
-Size: 4970
-MD5sum: cae4ea22bb967a99ab791cba4925efaa
-SHA1: e3c79e88aa205084c123e5ef8ea7553c6946d1d0
-SHA256: fec635eb988948923fe247ad2e05b3cbf5f53310dee7d96e8955fa275d75742f
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.hx.120_2.0-2_iphoneos-arm64e.deb
+Size: 4974
+MD5sum: 2bd6cf5f77850a8fecb295b2818ee126
+SHA1: cc7ff64594de2bcc12a9d22270b550e834d408b2
+SHA256: 80a945cf69d8c7f2e213f07737cbb1aacc3191b45c5452b617351ac6b1e273ff
