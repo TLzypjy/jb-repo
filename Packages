@@ -2213,8 +2213,8 @@ Author: Kernelrw
 Maintainer: TLzypjy
 Section: 工具
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.kernelrw.adytum_1.0-1_iphoneos-arm64e.deb
-Size: 898
-MD5sum: 0a3e82d83a8c53e18fce681d23a84df8
-SHA1: f2d2c1bf5b99242066fe3262b852fce6330cd9d7
-SHA256: 75585b0d780cf05c9a1ccf871b3a63fc5346076850344f01a6bbef1e00f0970b
+Size: 155168
+MD5sum: e9426da5072a9578e1e1b5f12c3fdc22
+SHA1: 336ed90a8ec014890a56e153b4cec4b108af15b4
+SHA256: 71834f065efb26799c126e313826995ef9f472bec5455e783882d229c0714a19
 Depiction: https://tlzypjy.github.io/jb-repo/depictions/com.kernelrw.adytum.json
