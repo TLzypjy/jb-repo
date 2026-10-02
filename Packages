@@ -2202,3 +2202,19 @@ Size: 7520
 MD5sum: b644dbb4ce852804508053eb8965d52e
 SHA1: 97a389a039293c8360d0141817fdb2ce6f0e6b44
 SHA256: 0f540d6c9cfd5dcb955741f9e4e8c7f4117217aaafe4af8aa8399901c03fbe90
+
+Package: com.kernelrw.adytum
+Name: Adytum（后台守护）
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Description: 防杀后台 + 防挂起 + 极速冻结 系统级配置修改 有极速冻结（低功耗）3D Touch菜单快捷切换
+Author: Kernelrw
+Maintainer: TLzypjy
+Section: 工具
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.kernelrw.adytum_1.0-1_iphoneos-arm64e.deb
+Size: 135674
+MD5sum: e8ce6e9d146e9ca0c3db7ae66e256460
+SHA1: f7611e1138322aab87046902ab5d431a407436a1
+SHA256: e3833e18448d9ce9889ef6793a7a663b1eb1ece0fdb5775e8b1158cb95fa7454
+Depiction: https://tlzypjy.github.io/jb-repo/depictions/com.kernelrw.adytum.json
