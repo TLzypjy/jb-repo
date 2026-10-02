@@ -1,0 +1,26 @@
+{
+  "minVersion": "0.3",
+  "class": "DepictionTabView",
+  "tintColor": "#007AFF",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabName": "详情",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemSize": "{750, 2027}",
+          "screenshots": [
+            {
+              "url": "https://tlzypjy.github.io/jb-repo/screenshots/adytum_preview.jpg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Adytum（后台守护）\n\n- 防杀后台\n- 防挂起\n- 极速冻结（低功耗）\n- 3D Touch菜单快捷切换\n- 系统级配置修改"
+        }
+      ]
+    }
+  ]
+}
