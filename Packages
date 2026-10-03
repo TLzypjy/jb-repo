@@ -2218,3 +2218,18 @@ MD5sum: 292738817c26782e77a7dd40bf8dc884
 SHA1: b80089084e9f07d7aedcd6217c8de7ebdea15961
 SHA256: b234015691e5f06d37cc5541ec12f2db653f75b4a63541f5a59ace20211a3d3c
 Depiction: https://tlzypjy.github.io/jb-repo/depictions/com.kernelrw.adytum.json
+
+Package: com.axs.snapper3
+Name: snapper3（免授权）
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Description: 将截图钉在屏幕上，此为破解版，内置透光图标。
+Author: Jonathan Winger-lang
+Maintainer: TLzypjy
+Section: Tweaks
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 1273734
+MD5sum: 89a03ecc73f5f60700b7c9fdd7fe37d4
+SHA1: 8894d787688d29e65fc07f0bdf0144796c64fa9e
+SHA256: 1fa090a837b2c4d059e4e8136275bbfeaafd66d58c981e320ed7893e4ddd2d5d
