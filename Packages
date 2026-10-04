@@ -2285,3 +2285,18 @@ Size: 1903304
 MD5sum: 4d00401ea28a83ab6ef2e1b0caed496c
 SHA1: fe318317b6948b7bb79775686b78b0bf13bd289e
 SHA256: 583e057aa867e4d713026016c38bbbf7a2421fde3d7c65eba6f763d9c1c36eba
+
+Package: dylv.sbliquidglass
+Name: 系统液态玻璃
+Version: 1.8
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: TLzypjy
+Author: MoWang
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Description: iOS 26 风格液态玻璃系统UI美化：通知中心、控制中心、Dock、状态栏等全局生效。
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/dylv.sbliquidglass_1.8_iphoneos-arm64e.deb
+Size: 1489214
+MD5sum: 5b58f5bd75533bfe67f4f9aab8ed67a2
+SHA1: 9055cfd4c4047525aaa1f24b7e93e9f28d2e8781
+SHA256: 8e3f10e15a299f5fd1a2b5faf960820341f6858bc28b9119b5ebf9a60ff69c3c
