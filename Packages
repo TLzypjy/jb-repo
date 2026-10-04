@@ -2300,3 +2300,20 @@ Size: 1489214
 MD5sum: 5b58f5bd75533bfe67f4f9aab8ed67a2
 SHA1: 9055cfd4c4047525aaa1f24b7e93e9f28d2e8781
 SHA256: 8e3f10e15a299f5fd1a2b5faf960820341f6858bc28b9119b5ebf9a60ff69c3c
+
+Package: com.iosdump.appdata
+Name: AppData
+Version: 2.7.5
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: TLzypjy
+Author: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Description: 在主屏幕查看应用数据与管理应用
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.iosdump.appdata_2.7.5_iphoneos-arm64e.deb
+Size: 1810400
+MD5sum: 372e704671b07e14d8d8d664051720a3
+SHA1: 720e59d7ebbf7c8652745c18f18febd1139bd6ef
+SHA256: a76066c2250bbf30b9ca73a0dbaab1b4ca10d512d700c7dc31cb5124cc68d54b
