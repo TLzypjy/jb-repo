@@ -2317,3 +2317,19 @@ Size: 1810400
 MD5sum: 372e704671b07e14d8d8d664051720a3
 SHA1: 720e59d7ebbf7c8652745c18f18febd1139bd6ef
 SHA256: a76066c2250bbf30b9ca73a0dbaab1b4ca10d512d700c7dc31cb5124cc68d54b
+
+Package: com.layii.ccrnd
+Name: 去除录屏延迟
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: TLzypjy
+Author: LaYii
+Depends: firmware (>= 14.0), preferenceloader
+Description: 去除录屏延迟，并可实时配置控制中心收起行为
+Icon: https://huayuarc.github.io/icon/luzhi.jpg
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.layii.ccrnd_0.1.0_iphoneos-arm64e.deb
+Size: 31254
+MD5sum: bba011d3b561725d098d57e276a45793
+SHA1: cf4ba1f92575137579158e72b0da7e21fc9c61f4
+SHA256: 0421be0e86e1e042b49f5988a204ae5d22328667ecb2cce5427f7ca54bd607e1
