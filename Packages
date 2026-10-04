@@ -2233,3 +2233,20 @@ Size: 1273734
 MD5sum: 89a03ecc73f5f60700b7c9fdd7fe37d4
 SHA1: 8894d787688d29e65fc07f0bdf0144796c64fa9e
 SHA256: 1fa090a837b2c4d059e4e8136275bbfeaafd66d58c981e320ed7893e4ddd2d5d
+
+Package: byg.iosios.net.autotouch
+Name: 按键精灵连点器（免授权）
+Version: 8.0.11
+Architecture: iphoneos-arm64e
+Section: 杂七杂八
+Maintainer: TLzypjy
+Author: Kent Krantz
+Depends: firmware (>= 15.0)
+Pre-Depends: rootless-compat (>= 0.9)
+Description: 录制和回放触摸操作，自动连点/脚本。打开闪退的请进系统设置-显示与亮度，关闭粗体显示。
+Icon: https://chinesebuilding.club/pic/cydia.png
+Filename: https://tlzypjy.github.io/jb-repo/debs/byg.iosios.net.autotouch_8.0.11_iphoneos-arm64e.deb
+Size: 23805646
+MD5sum: b48aa7ae9cd55698e001d80d702fb48d
+SHA1: 274d227c23b815dc90f1a4c62c40373d2b5be568
+SHA256: 7d8adc79ce59f35cd3792ac15eca87b17d1ce0d3215915fba7711a6abc702333
