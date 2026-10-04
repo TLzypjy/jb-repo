@@ -2269,3 +2269,19 @@ Size: 281600
 MD5sum: a13045160e5ec71e5d590151d50cd6c1
 SHA1: 484385da2f688a64ad92f55a1aeac58e0829adf2
 SHA256: 1e934623f5aa7b8ed24685e6d9923e8786ec5b09db0248112c99a3f802dec3b4
+
+Package: dylv.deepliquid
+Name: Ai 液态玻璃
+Version: 0.1.93b
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: TLzypjy
+Author: Ai
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Description: 深度优化的液态玻璃效果，智能帧率控制 + 全局数量预算，告别发烫
+Icon: https://huayuarc.github.io/icon/LiquidAss.png
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/dylv.deepliquid_0.1.93b_iphoneos-arm64e.deb
+Size: 1903304
+MD5sum: 4d00401ea28a83ab6ef2e1b0caed496c
+SHA1: fe318317b6948b7bb79775686b78b0bf13bd289e
+SHA256: 583e057aa867e4d713026016c38bbbf7a2421fde3d7c65eba6f763d9c1c36eba
