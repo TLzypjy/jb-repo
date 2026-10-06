@@ -2333,3 +2333,20 @@ Size: 31254
 MD5sum: bba011d3b561725d098d57e276a45793
 SHA1: cf4ba1f92575137579158e72b0da7e21fc9c61f4
 SHA256: 0421be0e86e1e042b49f5988a204ae5d22328667ecb2cce5427f7ca54bd607e1
+
+Package: com.mlgm.actra
+Name: Actra
+Version: 1.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: TLzypjy
+Author: mlgm
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Description: 手势与事件自动化工具
+Icon: https://mlgm66.github.io/icon/actra.png
+Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.mlgm.actra_1.0_iphoneos-arm64e.deb
+Size: 700172
+MD5sum: 91db8e3f6f9f8b62c1586f0670c1d2f8
+SHA1: 6526e07c9cac2e3c7c152462f182829627ff2f42
+SHA256: 6c87636ca5847e7f011731af5bf0418924db48f6ceee49da07ade6f1693f4499
