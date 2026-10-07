@@ -2352,15 +2352,15 @@ SHA1: 6526e07c9cac2e3c7c152462f182829627ff2f42
 SHA256: 6c87636ca5847e7f011731af5bf0418924db48f6ceee49da07ade6f1693f4499
 
 Package: com.charlieleung.trollopenjb
-Name: TrollOpen隐根（免授权）
+Name: TrollOpen 分屏隐根（免授权）
 Version: 1.5.2
 Architecture: iphoneos-arm64e
 Section: Tweaks
 Maintainer: 一刀
 Author: 一刀
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
-Description: 内置离线版，在16系统隐根状态测试正常，其他系统自测。
- 需验证刀铺会员 无会员请勿下载
+Description: 需验证刀铺会员 无会员请勿下载
+ 内置离线版，在16系统隐根状态测试正常，其他系统自测。
 Filename: https://tlzypjy.github.io/jb-repo/debs/com.charlieleung.trollopenjb_1.5.2_iphoneos-arm64e.deb
 Size: 24260926
 MD5sum: 8a90d3e50c0e85f74cb256de260cba3c
@@ -2368,15 +2368,15 @@ SHA1: 4d55f303813bf4feb2562ddb2e8de23f0f901163
 SHA256: b80a6fa9917def7651ff160d997752ecb4e9b5bea9d8c1af51d3f5379441d7b4
 
 Package: com.charlieleung.trollopenjb.rootless
-Name: TrollOpen 无根（免授权）
+Name: TrollOpen 分屏无根（免授权）
 Version: 1.5.2
 Architecture: iphoneos-arm64e
 Section: Tweaks
 Maintainer: 一刀
 Author: 一刀
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
-Description: 内置离线版，在16系统隐根状态测试正常，其他系统自测。
- 需验证刀铺会员 无会员请勿下载
+Description: 需验证刀铺会员 无会员请勿下载
+ 内置离线版，在16系统隐根状态测试正常，其他系统自测。
 Filename: https://tlzypjy.github.io/jb-repo/debs/com.charlieleung.trollopenjb_rootless_1.5.2_iphoneos-arm64e.deb
 Size: 24269102
 MD5sum: f6f1c0c707649897eae3ce151b4e5e65
