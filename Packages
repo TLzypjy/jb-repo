@@ -2415,3 +2415,19 @@ Size: 16954652
 MD5sum: 5cc2709cdf6a3d03e8c57a08d519fc28
 SHA1: 26c457efdfc8f6f861cfae1b519af596b849da23
 SHA256: 9ef0e15e4cccdcc7e8a1231ea510b42f0224ea365afbfbd3904194d389c7632d
+
+Package: com.liquidui.wechatglass
+Name: LiquidUI 微信液态玻璃（免授权）
+Version: 1.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: TLzypjy
+Author: TLzypjy
+Depends: mobilesubstrate, firmware (>= 15.0)
+Description: 需验证刀铺会员 无会员请勿下载
+ 微信液态玻璃效果，LiquidUI+KUI 双组件注入
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.liquidui.wechatglass_1.0_iphoneos-arm64e.deb
+Size: 24242974
+MD5sum: d58e5ef9806c412da5f36d044ecfc76f
+SHA1: 5bf56ffddbf9b494c4a09eacb19d540408be083c
+SHA256: 82adb3491ef46e82f0b58089c3781bc601a15b4c6e716ee6917bc2ab4c9e384a
