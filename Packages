@@ -2418,7 +2418,7 @@ SHA256: 9ef0e15e4cccdcc7e8a1231ea510b42f0224ea365afbfbd3904194d389c7632d
 
 Package: com.liquidui.wechatglass
 Name: LiquidUI 微信液态玻璃（免授权）
-Version: 1.0
+Version: 1.81
 Architecture: iphoneos-arm64e
 Section: Tweaks
 Maintainer: TLzypjy
