@@ -2420,7 +2420,7 @@ Package: com.liquidui.wechatglass
 Name: LiquidUI 微信液态玻璃（免授权）
 Version: 1.81
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 微信插件
 Maintainer: TLzypjy
 Author: TLzypjy
 Depends: mobilesubstrate, firmware (>= 15.0)
