@@ -2281,10 +2281,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), 
 Description: 深度优化的液态玻璃效果，智能帧率控制 + 全局数量预算，告别发烫
 Icon: https://huayuarc.github.io/icon/LiquidAss.png
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/dylv.deepliquid_0.1.93b_iphoneos-arm64e.deb
-Size: 1903304
-MD5sum: 4d00401ea28a83ab6ef2e1b0caed496c
-SHA1: fe318317b6948b7bb79775686b78b0bf13bd289e
-SHA256: 583e057aa867e4d713026016c38bbbf7a2421fde3d7c65eba6f763d9c1c36eba
+Size: 2354260
+MD5sum: 00f6ec623bfe1433eb4123a4050e1a2b
+SHA1: dbc718c7b4db67420ab8875daebb4a721fb8ff56
+SHA256: ba41968a47c62e80772cd0e8af922e408b2b2546b0d243b4df4c46008b76a13e
 
 Package: dylv.sbliquidglass
 Name: 系统液态玻璃
