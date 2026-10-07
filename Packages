@@ -2426,8 +2426,8 @@ Author: TLzypjy
 Depends: mobilesubstrate, firmware (>= 15.0)
 Description: 需验证刀铺会员 无会员请勿下载
  微信液态玻璃效果，LiquidUI+KUI 双组件注入
-Filename: https://tlzypjy.github.io/jb-repo/debs/com.liquidui.wechatglass_1.0_iphoneos-arm64e.deb
-Size: 24242974
-MD5sum: d58e5ef9806c412da5f36d044ecfc76f
-SHA1: 5bf56ffddbf9b494c4a09eacb19d540408be083c
-SHA256: 82adb3491ef46e82f0b58089c3781bc601a15b4c6e716ee6917bc2ab4c9e384a
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.liquidui.wechatglass_1.81_iphoneos-arm64e.deb
+Size: 24243202
+MD5sum: b7716b5e1e555ac0e0ba0e48e14d97c1
+SHA1: 84768c5f26f6f394ab53e9044f7e3214774fb4f6
+SHA256: 2ba1e1f8e49bf1eb09fa5f63203d63dbfd7d1b1c4235990f6d678d54deeade91
