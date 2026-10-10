@@ -2431,3 +2431,18 @@ Size: 24243202
 MD5sum: b7716b5e1e555ac0e0ba0e48e14d97c1
 SHA1: 84768c5f26f6f394ab53e9044f7e3214774fb4f6
 SHA256: 2ba1e1f8e49bf1eb09fa5f63203d63dbfd7d1b1c4235990f6d678d54deeade91
+
+Package: com.wechat.liquidglass
+Name: WCGlass（免授权）
+Version: 3.8.0
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Maintainer: WeChatLiquidGlass
+Author: Ashram
+Depends: mobilesubstrate
+Description: Bring iOS 26 Liquid Glass styling and quality-of-life tweaks to WeChat.
+Filename: https://tlzypjy.github.io/jb-repo/debs/com.wechat.liquidglass_3.8.0_iphoneos-arm64e.deb
+Size: 30425268
+MD5sum: 8e6309187af6f05d655926f1f9ea0076
+SHA1: 0a8755c75dd6c59bc5ca09614cc4be5755aa4fc0
+SHA256: 0b070930cf7b10ca6d0c07b3ffaef8f22e189a29c235829f848270a0df30b592
