@@ -1015,3 +1015,21 @@ MD5sum: cc726eded2c84cf5d0ef7809d2b9a926
 SHA1: 50a4cb6801dbd77c832c89750fa454c4d74829a7
 SHA256: 10b2e31d3ac910d763d09015d0aafce8fd08d6ce9e0bf18a0fdd5ddb98576507
 
+Package: cn.zqbb.hello.quick.panel
+Name: Hello QuickPanel（免授权）
+Description: 快捷面板~
+Maintainer: zqbb
+Author: zqbb
+Section: zqbb Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
+Architecture: iphoneos-arm64e
+Version: 1.0.0-5
+Installed-Size: 5488
+Filename: debs/cn.zqbb.hello.quick.panel_1.0.0-5_iphoneos-arm64e.deb
+Size: 1498378
+MD5sum: cc5516f764f067f89e9112e4ec73c075
+SHA1: dd1510cf7350561120519321710400d932b02e43
+SHA256: 2ea05f0bcfd5ac568b68fa84a3024ebe62b96dfe9ca739ffc9d516473f0f34bc
+
