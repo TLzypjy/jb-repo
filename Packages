@@ -634,21 +634,22 @@ Size: 3587956
 MD5sum: 557cf40277104de011fb729f45380a66
 SHA1: 8f7ed16dc8bb9472035a3f7acadeb17931c3c653
 SHA256: 174c14a2a6b42799a9bcdbe1edb7961d9071e4c649e284d52e5581900b9cfeba
-Package: com.siwenjiajia.tweak.comm
+
+Package: com.siwenjiajia.tweak
 Name: 抖音优化（免授权）
 Version: 28.54
 Architecture: iphoneos-arm64
 Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
-Conflicts: com.siwenjiajia.tweak.free
+Conflicts: com.siwenjiajia.tweak.comm, com.siwenjiajia.tweak.free
 Description: 抖音优化 交流版 28.54（免授权·完整版）。玻璃拟态、语音朗读、视频统计等，联网功能较多，仅自用。
 Author: siwenjiajia
 Maintainer: personal
 Section: 抖音插件
-Filename: debs/com.siwenjiajia.tweak.comm_28.54_iphoneos-arm64.deb
-Size: 3689020
-MD5sum: 5c298503ac4545e60f34e9c334291215
-SHA1: 10b7ec60408c21ef9368c65a92a5bafcd6485488
-SHA256: 2b2e7380ccdbd4894b03be5d9f13c205795b7b8df38bff92f9295be737ef1cf1
+Filename: debs/com.siwenjiajia.tweak_28.54_iphoneos-arm64.deb
+Size: 3689024
+MD5sum: 8d7d13e9f0e88dec56c4afb67b09084e
+SHA1: f718e599d89977e937392a4285d3ccb895d44241
+SHA256: f07b073f8ad9b3418783a0143d5803803ac1dca01bf657cbf06ba1466483aaa5
 
 
 Package: com.siwenjiajia.tweak.free
