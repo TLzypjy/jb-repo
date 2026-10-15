@@ -996,3 +996,22 @@ MD5sum: 8d3f110580e92b91d3bd726e1bb64551
 SHA1: 9e6c41fd978c0c216b807c09176c8e9ccd488c16
 SHA256: f5d5f835a5b1ee010f6c31dbfecd3a0baf38470cea225bd5c0747b7c6968475b
 
+Package: cn.zqbb.hello.keyboard.ai
+Name: Hello 键盘侠（免授权）
+Description: Quickly activate AI mode.
+Maintainer: zqbb
+Author: zqbb
+Section: zqbb Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
+Conflicts: com.zqbb.hello.keyboard.ai
+Architecture: iphoneos-arm64e
+Version: 6.6.6-3
+Installed-Size: 11100
+Filename: debs/cn.zqbb.hello.keyboard.ai_6.6.6-3_iphoneos-arm64e.deb
+Size: 2811520
+MD5sum: cc726eded2c84cf5d0ef7809d2b9a926
+SHA1: 50a4cb6801dbd77c832c89750fa454c4d74829a7
+SHA256: 10b2e31d3ac910d763d09015d0aafce8fd08d6ce9e0bf18a0fdd5ddb98576507
+
