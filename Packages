@@ -1069,3 +1069,20 @@ MD5sum: 016394ecd99a940c0f5303c2097deae0
 SHA1: e94c6f899e18bbd266a8ede68192ca065cf77c1c
 SHA256: 0fe9dde077b63f01f8d8eed5178ad8a167330e3791539edd5e2fdefae90e223e
 
+Package: cn.zqbb.hello.bundleid
+Name: Hello BundleID（免授权）
+Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
+Maintainer: zqbb
+Author: zqbb
+Section: zqbb Tweaks
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
+Architecture: iphoneos-arm64e
+Version: 1.6.1-5
+Installed-Size: 10780
+Filename: debs/cn.zqbb.hello.bundleid_1.6.1-5_iphoneos-arm64e.deb
+Size: 2961700
+MD5sum: 1f5e8449cbff8fdd0c590ab44f4b10fd
+SHA1: 9490ff94b3ac41ba64cd97d852200cb0265b0b43
+SHA256: 5820fd3fe6014fe73e814b13797c71934bab3164b73059cdb14d4953b4e41792
+
