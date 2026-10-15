@@ -423,7 +423,7 @@ Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
 Description: 微信液态玻璃（免授权）。内置 ECDSA 公钥离线授权校验，无联网端点，仅自用。
 Author: personal
 Maintainer: personal
-Section: 系统美化
+Section: 液态玻璃
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.bolilita.free_2.0.3_iphoneos-arm64.deb
 Size: 1316724
 MD5sum: e5bcd8b2cd7153c4d411830af5c6af91
@@ -490,7 +490,7 @@ Name: 88液态玻璃隐根版（免授权）
 Description: 88液态玻璃隐根版（免授权）。修复键盘模糊。液态玻璃美化，RootHide 隐根兼容。内置本地票据验证，无联网，仅自用。
 Maintainer: 一刀
 Author: 一刀
-Section: 系统美化
+Section: 液态玻璃
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64e
 Version: 1.3.7-4
@@ -507,7 +507,7 @@ Name: 88液态玻璃（免授权）
 Description: 液态玻璃
 Maintainer: 一刀
 Author: 一刀
-Section: 系统美化
+Section: 液态玻璃
 Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 1.3.7-4+dao88.1
@@ -913,7 +913,7 @@ Name: OneStepX（wkk）
 Description: 为 iPhone 操作按钮、锁屏按钮、桌面、底部与状态栏提供独立动作。
 Maintainer: wkk
 Author: wkk
-Section: 工具
+Section: 快捷手势
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 17.0)
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Architecture: iphoneos-arm64e
@@ -1133,7 +1133,7 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Description: 灵动岛背景美化插件
 Author: 冰蓝
 Maintainer: 冰蓝
-Section: 工具
+Section: 系统美化
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglan.dynamicfx_1.0.7-1_iphoneos-arm64.deb
 Size: 115730
 MD5sum: f60e610d77936683eb9acbec793853f6
@@ -1209,7 +1209,7 @@ Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Description: 将截图钉在屏幕上，此为破解版，内置透光图标。
 Author: Jonathan Winger-lang
 Maintainer: TLzypjy
-Section: Tweaks
+Section: 工具
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.axs.snapper3_1.2.1_iphoneos-arm64e.deb
 Size: 1273734
 MD5sum: 89a03ecc73f5f60700b7c9fdd7fe37d4
@@ -1220,7 +1220,7 @@ Package: byg.iosios.net.autotouch
 Name: 按键精灵连点器（免授权）
 Version: 8.0.11
 Architecture: iphoneos-arm64e
-Section: 杂七杂八
+Section: 快捷手势
 Maintainer: TLzypjy
 Author: Kent Krantz
 Depends: firmware (>= 15.0)
@@ -1237,7 +1237,7 @@ Package: xyz.cypwn.remotecompanion
 Name: 多功能快捷手势
 Version: 8.0.11
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 快捷手势
 Maintainer: TLzypjy
 Author: Saihgupr
 Replaces: com.pizzaman.remotecommand
@@ -1256,7 +1256,7 @@ Package: dylv.deepliquid
 Name: Ai 液态玻璃
 Version: 0.1.93b
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 液态玻璃
 Maintainer: TLzypjy
 Author: Ai
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
@@ -1272,7 +1272,7 @@ Package: dylv.sbliquidglass
 Name: 系统液态玻璃
 Version: 1.8
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 液态玻璃
 Maintainer: TLzypjy
 Author: MoWang
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
@@ -1287,7 +1287,7 @@ Package: com.iosdump.appdata
 Name: AppData
 Version: 2.7.5
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 工具
 Maintainer: TLzypjy
 Author: iosdump
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
@@ -1304,7 +1304,7 @@ Package: com.layii.ccrnd
 Name: 去除录屏延迟
 Version: 0.1.0
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 工具
 Maintainer: TLzypjy
 Author: LaYii
 Depends: firmware (>= 14.0), preferenceloader
@@ -1320,7 +1320,7 @@ Package: com.mlgm.actra
 Name: Actra
 Version: 1.0
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 快捷手势
 Maintainer: TLzypjy
 Author: mlgm
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
@@ -1337,7 +1337,7 @@ Package: com.charlieleung.trollopenjb
 Name: TrollOpen 分屏隐根（免授权）
 Version: 1.5.2
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 分屏插件
 Maintainer: 一刀
 Author: 一刀
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
@@ -1353,7 +1353,7 @@ Package: com.charlieleung.trollopenjb.rootless
 Name: TrollOpen 分屏无根（免授权）
 Version: 1.5.2
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 分屏插件
 Maintainer: 一刀
 Author: 一刀
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
@@ -1369,7 +1369,7 @@ Package: com.charlieleung.liquidify
 Name: 88液态玻璃隐根版（免授权）
 Version: 1.3.8
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 液态玻璃
 Maintainer: 一刀
 Author: 一刀
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1386,7 +1386,7 @@ Package: com.charlieleung.liquidify.rootless
 Name: 88液态玻璃无根版（免授权）
 Version: 1.3.8
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 液态玻璃
 Maintainer: 一刀
 Author: 一刀
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -1418,7 +1418,7 @@ Package: com.wechat.liquidglass
 Name: WCGlass（免授权）
 Version: 3.8.0
 Architecture: iphoneos-arm64e
-Section: Tweaks
+Section: 微信插件
 Maintainer: WeChatLiquidGlass
 Author: Ashram
 Depends: mobilesubstrate
@@ -1434,7 +1434,7 @@ Name: Hello 120Hz（免授权）
 Description: Unlock dynamic refresh rate from 80Hz to 120Hz.
 Maintainer: zqbb
 Author: zqbb
-Section: Tweaks
+Section: Hello系列
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
 Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
 Architecture: iphoneos-arm64e
@@ -1451,7 +1451,7 @@ Name: Hello BundleID（免授权）
 Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
 Maintainer: zqbb
 Author: zqbb
-Section: zqbb Tweaks
+Section: Hello系列
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
 Architecture: iphoneos-arm64e
@@ -1468,7 +1468,7 @@ Name: Hello 键盘侠（免授权）
 Description: Quickly activate AI mode.
 Maintainer: zqbb
 Author: zqbb
-Section: zqbb Tweaks
+Section: Hello系列
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
@@ -1488,7 +1488,7 @@ Maintainer: zqbb
 Author: zqbb
 Name: Hello Memory Status（免授权）
 Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl
-Section: zqbb Tweaks
+Section: Hello系列
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
@@ -1505,7 +1505,7 @@ Name: Hello QActions（免授权）
 Description: 通过锁屏界面的手电筒和相机快速调用指定APP快捷操作，体验一键直达。
 Maintainer: zqbb
 Author: zqbb
-Section: Tweaks
+Section: Hello系列
 Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.qactions
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.qactions
@@ -1523,7 +1523,7 @@ Name: Hello QuickPanel（免授权）
 Description: 快捷面板~
 Maintainer: zqbb
 Author: zqbb
-Section: zqbb Tweaks
+Section: Hello系列
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
