@@ -976,25 +976,20 @@ SHA256: 73e07737f7de25ff5c52407138e7e52d13a614e2b99640dd9de3108d1868a6a4
 
 Package: cn.zqbb.fix120hz
 Name: Hello 120Hz（免授权）
-Description:
- - Unlock dynamic refresh rate from 80hz to 120hz
- - .
- - 解锁动态刷新率80hz到120hz.
+Description: Unlock dynamic refresh rate from 80Hz to 120Hz.
 Maintainer: zqbb
 Author: zqbb
-Section: zqbb Tweaks
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader, com.opa334.altlist
 Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
-SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
 Architecture: iphoneos-arm64e
 Version: 3.3.3-3
-Installed-Size: 1216
+Installed-Size: 240
 Filename: debs/cn.zqbb.fix120hz_3.3.3-3_iphoneos-arm64e.deb
-Size: 413000
-MD5sum: 8d3f110580e92b91d3bd726e1bb64551
-SHA1: 9e6c41fd978c0c216b807c09176c8e9ccd488c16
-SHA256: f5d5f835a5b1ee010f6c31dbfecd3a0baf38470cea225bd5c0747b7c6968475b
+Size: 44096
+MD5sum: 5007a856a3ae908531c271c629e380ca
+SHA1: a910279f68472ef29d919aff50706dcb48c1093e
+SHA256: 9e9b0b217cd2b0942e7f51ffc87f05e0a7fbceefd792fba310d58e51b8920789
 
 Package: cn.zqbb.hello.keyboard.ai
 Name: Hello 键盘侠（免授权）
