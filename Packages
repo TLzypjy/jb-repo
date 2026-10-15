@@ -1574,3 +1574,20 @@ Size: 413006
 MD5sum: 07c4b1dcb8857c8ecb4e3eb375c40b2a
 SHA1: 8e82bf5f92d983762673e3ebc7a7bc21f7ed5d71
 SHA256: a2e1d1ec3a2e65388f49de171d6286410c5746a706d87ee0e4083b228e05223b
+
+Package: com.mlgm.actra
+Name: Actra
+Version: 1.2
+Architecture: iphoneos-arm64e
+Section: 快捷手势
+Maintainer: mlgm
+Author: mlgm
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Description: 手势与事件自动化工具
+Icon: https://mlgm66.github.io/icon/actra.png
+Filename: debs/com.mlgm.actra_1.2_iphoneos-arm64e.deb
+Size: 756080
+MD5sum: 1ea0379a8f0dd681cc61c35401e50e22
+SHA1: 14ac08e28a09f568ba4bce27642198fbbdf5dd83
+SHA256: ac3941f9d55999ef08545488d62948a348d0e73c489cd86c0bd3ee08176679a1
