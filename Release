@@ -1,5 +1,5 @@
 Origin: personal-jb-repo
-Label:                                                             TL回收站
+Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  Label:  TL回收站
 Suite: stable
 Version: 1.0
 Codename: personal-jb-repo
@@ -8,16 +8,16 @@ Components: main
 Description: 自用插件源
 
 MD5Sum:
-  c2e0a02bc563c8aa26682d4b135e1ae9 111716 Packages
-  f100187cf36c9f930ea98f59daea6aa9 22972 Packages.bz2
-  baab0b28ef3754bd8cc90e08cf7ee4e8 18840 Packages.xz
+ 52221f234265ceeccf90ab05336bc615 42922 Packages
+ 4b4602a25f825c567979460b6fdcbecb 13569 Packages.bz2
+ a8a44c1e5f6c5ece53f2a0d1db231467 13652 Packages.xz
 
 SHA1:
-  f07de7aa79763a5f19a6116558b44b4fdd41d4cc 111716 Packages
-  dc07c39ca10947562a2335ba25b7521d9731e221 22972 Packages.bz2
-  36a389362b8d543e39c6380503fddce5dbf0233c 18840 Packages.xz
+ d2d39024742f574cb3d91c4f408090e9baaf8443 42922 Packages
+ a9188ee711b8e3010c37bc23b5de0feb41c24b13 13569 Packages.bz2
+ 7e3bac547fe99e76b9e6bb4928300fb28e33ccb2 13652 Packages.xz
 
 SHA256:
-  26b0a904c37ea9a86f7e61bbc99264f05ee7855e0327387825e07445e3b3199b 111716 Packages
-  ef173911158f4b7bca45ab834e5eec1dc284359c56816b3d099f204438eddc2b 22972 Packages.bz2
-  6b2e963f010ef6f2cc5800e5771daee404eac99fae54d66911457cbbd3bea59e 18840 Packages.xz
+ 57e448db78f3222ec815e36c6af23e838b86e6403a29483d863ed5935c9e0b9d 42922 Packages
+ ceb8f8560a04e1bf200d305e19912705a18450814d072c2f6f5ceb5af0a79a50 13569 Packages.bz2
+ 47d8680c138e1b4588f642af8006ddd6eac5e4f95a7a2262363a366f658611ba 13652 Packages.xz
