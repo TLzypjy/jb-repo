@@ -377,10 +377,10 @@ Installed-Size: 772
 Description: 灵动岛背景？
 Architecture: iphoneos-arm64
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglan.dynamicfx_1.0.7_iphoneos-arm64.deb
-Size: 115776
-MD5sum: 0da67c62ffd42d0b476436f7415b419a
-SHA1: 5ebb648d4dd7e0f49e5de4139b97c74268cdd8d2
-SHA256: 61b88f7b7a80a55d778a4fda6ad72d169a9234180531d0d1bc4bc2b0b5d0adb1
+Size: 115730
+MD5sum: 20bd50233fcc6eedfe3861762c83f75e
+SHA1: 406b1e6ed8688c88b261f6e53384ccdc4ec600e9
+SHA256: 8dc215e594a51648111b6387793451e8fb3583c93222b5b266d793e936e2658c
 
 Package: com.binglan.kongzhidiy
 Name: 冰蓝控制中心2.3.6-end（免授权）
@@ -1137,9 +1137,9 @@ Maintainer: 冰蓝
 Section: 系统美化
 Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.binglan.dynamicfx_1.0.7-1_iphoneos-arm64.deb
 Size: 115730
-MD5sum: f60e610d77936683eb9acbec793853f6
-SHA1: 9cc7e4e9a01cea31464de81c02ea514df7a0f5b9
-SHA256: a4f4cddc832b9ec7e82709703614e13218a5e1ff978205e4a8ec77b41f7e82a2
+MD5sum: 20bd50233fcc6eedfe3861762c83f75e
+SHA1: 406b1e6ed8688c88b261f6e53384ccdc4ec600e9
+SHA256: 8dc215e594a51648111b6387793451e8fb3583c93222b5b266d793e936e2658c
 
 Package: com.000.themelab
 Name: 000ThemeLab（免授权）
