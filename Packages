@@ -1613,3 +1613,52 @@ MD5sum: a46a3eeb1cd5ceb851525e740fddf1bf
 SHA1: ec63c40312f2dcac43a6b3461c0ff868bbcb1a73
 SHA256: 668cdd1e686feed82c9e871fb72c4431bc0ca502a07f7e0d1f7743acb00f654f
 
+Architecture: iphoneos-arm64e
+Package: com.dao.apptools15
+Name: AppTools（免授权）
+Version: 2.9.1
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Section: 嗨-付费
+Depends: firmware (>=15.0), mobilesubstrate
+Author: aReo
+Maintainer: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+Filename: debs/com.dao.apptools15_2.9.1_iphoneos-arm64e.deb
+Size: 2386684
+MD5sum: e7873b20f9d14b74710f136e84b42a00
+SHA1: 8e1a4ec790793cbcfc5a34194d6a5177bd7344c8
+SHA256: 2b5e4201d1a3f4c414f337605d1303b9db8f3e63c64769cdb6b4d8a58b32b1d7
+
+Package: com.rain.dock
+Name: Rain 的 Dock（免授权）
+Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池条/快捷启动/手势操作/霓虹文字/矩阵雨/彩虹边框/生态缸
+Maintainer: Rain
+Author: Rain
+Section: Tweaks
+Depends: preferenceloader
+Architecture: iphoneos-arm64
+Version: 3.6.2-1
+Installed-Size: 732
+Filename: debs/com.rain.dock_3.6.2-1_iphoneos-arm64.deb
+Size: 140182
+MD5sum: a210c48270c6a8852efb1c1a174a38d8
+SHA1: cb3430d6067bd3280142ea003ad184cc42ba7db4
+SHA256: 17b35d6136e02c957788eae1f0d3746aef9da360df536d3cbd29d10159786b3b
+
+Package: com.rain.processmonitor
+Name: Rain 的应用（免授权）
+Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
+Maintainer: Rain
+Author: Rain
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64e
+Version: 1.1.1-14+unlocked
+Installed-Size: 1624
+Filename: debs/com.rain.processmonitor_1.1.1-14+unlocked_iphoneos-arm64e.deb
+Size: 364508
+MD5sum: b7be3645f60c1006a38cc7cc59d565e8
+SHA1: f069a605d2ffe3bda5ee38119d13a43cfcc66d82
+SHA256: f79e7e29f79688b811a75c5d259ca64d8d51964a51828121f58aa9a31884d99e
+
