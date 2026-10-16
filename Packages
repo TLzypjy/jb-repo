@@ -1613,7 +1613,6 @@ MD5sum: a46a3eeb1cd5ceb851525e740fddf1bf
 SHA1: ec63c40312f2dcac43a6b3461c0ff868bbcb1a73
 SHA256: 668cdd1e686feed82c9e871fb72c4431bc0ca502a07f7e0d1f7743acb00f654f
 
-Architecture: iphoneos-arm64e
 Package: com.dao.apptools15
 Name: AppTools（免授权）
 Version: 2.9.1
@@ -1624,6 +1623,7 @@ Depends: firmware (>=15.0), mobilesubstrate
 Author: aReo
 Maintainer: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+Architecture: iphoneos-arm64e
 Filename: debs/com.dao.apptools15_2.9.1_iphoneos-arm64e.deb
 Size: 2386684
 MD5sum: e7873b20f9d14b74710f136e84b42a00
@@ -1661,4 +1661,6 @@ Size: 364508
 MD5sum: b7be3645f60c1006a38cc7cc59d565e8
 SHA1: f069a605d2ffe3bda5ee38119d13a43cfcc66d82
 SHA256: f79e7e29f79688b811a75c5d259ca64d8d51964a51828121f58aa9a31884d99e
+
+
 
