@@ -1345,10 +1345,10 @@ Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, co
 Description: 需验证刀铺会员 无会员请勿下载
  内置离线版，在16系统隐根状态测试正常，其他系统自测。
 Filename: https://tlzypjy.github.io/jb-repo/debs/com.charlieleung.trollopenjb_1.5.2_iphoneos-arm64e.deb
-Size: 24260926
-MD5sum: 8a90d3e50c0e85f74cb256de260cba3c
-SHA1: 4d55f303813bf4feb2562ddb2e8de23f0f901163
-SHA256: b80a6fa9917def7651ff160d997752ecb4e9b5bea9d8c1af51d3f5379441d7b4
+Size: 24317732
+MD5sum: f088c15186cfee569f9d99a60ff2698a
+SHA1: 87620fd9a4f0b5e015a2cb557a6abf12dde71c6e
+SHA256: b4e706ec64cd30d9a3caaa82726a495cc135d0d8a774fe874035a902da5ff85a
 
 Package: com.charlieleung.trollopenjb.rootless
 Name: TrollOpen 分屏无根（免授权）
