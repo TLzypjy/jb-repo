@@ -1645,3 +1645,20 @@ Size: 140182
 MD5sum: a210c48270c6a8852efb1c1a174a38d8
 SHA1: cb3430d6067bd3280142ea003ad184cc42ba7db4
 SHA256: 17b35d6136e02c957788eae1f0d3746aef9da360df536d3cbd29d10159786b3b
+
+Package: com.rain.120hzstable
+Name: RainFlow 120Hz（免授权）
+Description: 专注核心 80Hz/120Hz 调度的精简方案；适合不需要 Pro 扩展功能、注重流畅稳定与低负担的用户。支持 iOS 15.0 及以上。
+Maintainer: Rain
+Author: Rain
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.rain.120hzpro
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Installed-Size: 484
+Filename: debs/RainFlow_120Hz_1.3.0_unlocked_iphoneos-arm64.deb
+Size: 69954
+MD5sum: 910949d1355f856f05ede306965f4f61
+SHA1: a9a765a8c0773fb009afed7fed8acee2c62881fe
+SHA256: fc09a802eebdd6974b75bee14bdba9ab3adcefdbe7daa6848264ba7d9eb8b2ba
