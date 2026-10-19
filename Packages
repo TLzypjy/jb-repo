@@ -1674,7 +1674,7 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm64
 Version: 2.4.3
 Installed-Size: 9604
-Filename: debs/WeChatX_2.4-3_全定制解锁.deb
+Filename: debs/com.wkk.wechatx_2.4.3_iphoneos-arm64.deb
 Size: 3763264
 MD5sum: 565492cc65c00486b7504e8c35961385
 SHA1: 7ed39ffd1bc7b057e78130d91d698770040f0fdb
