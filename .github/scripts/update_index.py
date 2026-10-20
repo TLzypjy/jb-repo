@@ -7,6 +7,7 @@
 - 旧版本共存：只追加新条目，不删任何已存在条目
 - 只改目标条目：已存在的条目原样保留，不重建其他条目
 - 中文/非 ASCII 文件名自动重命名为 {Package}_{Version}_{Arch}.deb
+- 删除同步：debs/ 下被删除的 deb，自动从索引移除对应条目
 - 更新 Packages.bz2 / Packages.xz / Release（保留原 Label 等头部）
 - 无任何变更时不产生 commit（避免 Actions 无限循环）
 """
@@ -205,6 +206,45 @@ def main():
             existing_keys.add('%s_%s' % (m2.group(1).strip(), m3.group(1).strip()))
 
     changed = False
+
+    # ---- 删除同步：索引中指向 debs/ 的文件已不存在 → 移除对应条目 ----
+    present = set()
+    for fname in os.listdir(DEBS_DIR):
+        if fname.endswith('.deb'):
+            present.add(fname)
+
+    if present:
+        total_debs = 0
+        missing = []
+        for e in entries:
+            mf = re.search(r'^Filename: (.+)$', e, re.M)
+            if mf:
+                fn = mf.group(1).strip()
+                base = os.path.basename(fn)
+                if '/debs/' in ('/' + fn.replace('\\', '/')):
+                    total_debs += 1
+                    if base.endswith('.deb') and base not in present:
+                        missing.append((e, base))
+        # 安全护栏：待删除条目超过总条目一半 → 疑似 checkout 异常/误删，中止
+        if total_debs and len(missing) > total_debs * 0.5:
+            print('ABORT 删除数量异常 (%d/%d)，疑似环境问题，跳过删除' % (len(missing), total_debs))
+        else:
+            removed_keys = set()
+            for e, base in missing:
+                mp = re.search(r'^Package: (.+)$', e, re.M)
+                mv = re.search(r'^Version: (.+)$', e, re.M)
+                print('REMOVE %s %s (%s)' % (
+                    mp.group(1).strip() if mp else '?',
+                    mv.group(1).strip() if mv else '?',
+                    base,
+                ))
+                removed_keys.add(base)
+                changed = True
+            entries = [e for e in entries if not (
+                re.search(r'^Filename: (.+)$', e, re.M) and
+                os.path.basename(re.search(r'^Filename: (.+)$', e, re.M).group(1).strip()) in removed_keys
+            )]
+
     for fname in sorted(os.listdir(DEBS_DIR)):
         if not fname.endswith('.deb'):
             continue
