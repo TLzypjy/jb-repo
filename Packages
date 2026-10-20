@@ -741,7 +741,6 @@ MD5sum: 7a4dfacf6651b93c3d128f3dafb7dde6
 SHA1: 73f9d055e59182b305ded260340af5ccff69cbfb
 SHA256: 01333dcf8a0f11f7eca0e653e4e75e11350342e88ef080b0a1f81e929339a4bd
 
-
 Package: com.tencent.themebox
 Name: 主题盒子（免授权）
 Version: 2.3.6
@@ -1553,7 +1552,6 @@ MD5sum: 8d7d13e9f0e88dec56c4afb67b09084e
 SHA1: f718e599d89977e937392a4285d3ccb895d44241
 SHA256: f07b073f8ad9b3418783a0143d5803803ac1dca01bf657cbf06ba1466483aaa5
 
-
 Package: cn.zqbb.fix120hz.obf
 Name: Hello 120Hz（免授权）
 Description:
@@ -1592,7 +1590,6 @@ Size: 756080
 MD5sum: 1ea0379a8f0dd681cc61c35401e50e22
 SHA1: 14ac08e28a09f568ba4bce27642198fbbdf5dd83
 SHA256: ac3941f9d55999ef08545488d62948a348d0e73c489cd86c0bd3ee08176679a1
-
 
 Package: cn.zqbb.holdcpu
 Name: Hello CPU（免授权）
@@ -1696,3 +1693,49 @@ Size: 16174
 MD5sum: 456fa46ec953f5a9a2aacdd65b8115ff
 SHA1: f95e55300f56911fdb7385d74809114c57c933e1
 SHA256: e5e8b3aaec710d343480ad74c0d196381c22f4be4f169b2065b3ef641da05f33
+
+Package: com.000.themelab
+Name: 000ThemeLab（免授权）
+Version: 1.7.4
+Architecture: iphoneos-arm64e
+Section: 微信插件
+Author: personal
+Maintainer: personal
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: 000ThemeLab 主题实验室插件
+Filename: debs/com.000.themelab_1.7.4_iphoneos-arm64e.deb
+Size: 1933200
+MD5sum: fae8399f3245df99aa6e479c3b674763
+SHA1: b194f9ab6eb35dc482454b1102732eac6f227f97
+SHA256: 0e2aabfe17334f8db26a71d83dd2ff3eac7503d348fd71b3c14dc7b08f357cf9
+
+Package: com.susudear.screencore
+Name: ScreenCore
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: SuSu
+Maintainer: SuSu
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Description: 分屏而已
+Filename: debs/com.susudear.screencore_2.0.1_iphoneos-arm64.deb
+Size: 463492
+MD5sum: 5a1601d9cb2ada3527b48f09b2da0bf6
+SHA1: 9d2635d5e4cf7643a34a35509fed9bc54f6fe97a
+SHA256: 8a78b2aaf870f494630e444b432750b5362a2ab964ba4fc4e8231e4aec373a9e
+
+Package: com.wcglass.free
+Name: WCGlass（免授权）
+Version: 3.2.1
+Architecture: iphoneos-arm64e
+Section: 微信插件
+Author: personal
+Maintainer: personal
+Depends: firmware (>= 15.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Description: WCGlass 微信液态玻璃（免授权·隐根版）。内置统一授权服务与热更新通道，仅自用。
+Filename: debs/com.wcglass.free_3.2.1_iphoneos-arm64e.deb
+Size: 19588328
+MD5sum: 8037c65543a314beb5deee65279592eb
+SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
+SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
