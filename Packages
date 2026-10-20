@@ -1677,23 +1677,6 @@ MD5sum: 565492cc65c00486b7504e8c35961385
 SHA1: 7ed39ffd1bc7b057e78130d91d698770040f0fdb
 SHA256: d218eac5027ed2b74f4c89c536e3c7017416c850942a830151b8e9ac041be21d
 
-Package: com.wkk.gif
-Name: 灵动岛GIF背景
-Version: 2.0
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: liuf
-Maintainer: liuf <kk99588077@gmail.com>
-Depends: oldabi
-Icon: https://s1.imagehub.cc/images/2025/12/27/8c9924f0272e96500b78e90787eeb6a3.png
-SileoDepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/gif.json
-Description: 此版本去除了flex3依赖，配合转插使用，默认拉起依赖，素材在/var/mobile/lddgifbg/文件夹里面，在lddgifbg文件夹里面再创建一个文件夹，名字随意，再把素材放进去。一个素材一个文件夹。添加素材不要太大，我测试时大小为30mb，选择后需要等他缓存几秒钟，再去注销，开关可以重新关闭打开一下，素材切记不要太大，容易爆内存，GIF图可以用小工具集视频转GIF制作，没有工具的可以+QQ1772773799
-Filename: debs/com.wkk.gif_2.0_iphoneos-arm64.deb
-Size: 16174
-MD5sum: 456fa46ec953f5a9a2aacdd65b8115ff
-SHA1: f95e55300f56911fdb7385d74809114c57c933e1
-SHA256: e5e8b3aaec710d343480ad74c0d196381c22f4be4f169b2065b3ef641da05f33
-
 Package: com.000.themelab
 Name: 000ThemeLab（免授权）
 Version: 1.7.4
