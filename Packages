@@ -1722,3 +1722,18 @@ Size: 19588328
 MD5sum: 8037c65543a314beb5deee65279592eb
 SHA1: 68b88e147b7d79d6cb6d5a50c308889456198176
 SHA256: d71ebe6337945d13a2f0630684e8c98947088daedf6ab4d34a467629954fd8c6
+
+Package: com.wkk.glasssuitex
+Name: GlassSuiteX（免授权）
+Version: 1.1-0-arm64e
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Author: wkk
+Maintainer: wkk
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: wkk 卖 20 的液态弹窗，只去授权，安不安全自测
+Filename: debs/com.wkk.glasssuitex_1.1-0-arm64e_iphoneos-arm64e.deb
+Size: 395776
+MD5sum: e05644b2bbf066f1de580da77a745355
+SHA1: 178a5ab3987957241cb90a614dd6a6c81c27c059
+SHA256: 8cb99cd454c1e744834e8ffb1385fac68c7d4d7cefb536ec1534d5e1e1e25dfe
