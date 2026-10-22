@@ -1797,3 +1797,18 @@ Size: 183964
 MD5sum: 9c68928e2cab4229298e2de640cf1884
 SHA1: 0e4b192db287d928a787a19fe8fb9731877dafd3
 SHA256: 936598e512411a685da8ec0d623fdbeda410c0aa68d2ace876088e4e28ddf4e5
+
+Package: com.Axs.lddgifbg
+Name: 灵动岛 GIF 背景
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Section: 灵动岛
+Author: liuf
+Maintainer: liuf
+Icon: https://axs66.github.io/repo/icon/lddgifbg.png
+Description: 灵动岛GIF背景 i!
+Filename: debs/com.axs.lddgifbg_1.0.0_iphoneos-arm64.deb
+Size: 15872
+MD5sum: b55b7dc7d98c1c4f417b144bc46dd69b
+SHA1: b1aaf16d5b1f18d405b5a040197bac338162d4c1
+SHA256: 2e293ed6d60710885557972ef9d96943cac71cb7bf6506a92c4a5a271d433761
