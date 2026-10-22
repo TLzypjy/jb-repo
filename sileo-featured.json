@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://tlzypjy.github.io/jb-repo/banner.jpg",
+      "title": "TL回收站",
+      "package": "axssb666",
+      "hideShadow": false
+    }
+  ]
+}
