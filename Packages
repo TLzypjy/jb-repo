@@ -1767,3 +1767,18 @@ Size: 31487160
 MD5sum: 37eb4b0a08462f14355c367d076a8490
 SHA1: 0f0cdaa8c615573de8cbb3378684a17cdbd257a0
 SHA256: 371feeac6693026063a8a0d24a1583718a288a363c5e976250cb20cea82cb9a2
+
+Package: com.rain.processmonitor
+Name: Rain 的应用（免授权）
+Version: 1.1.1-14+unlocked
+Architecture: iphoneos-arm64e
+Section: Tweaks
+Author: Rain
+Maintainer: Rain
+Depends: mobilesubstrate, preferenceloader
+Description: 进程监控与管理工具。功能包括：使用统计、性能统计、通知统计、运行中进程、插件管理、定时调度、插件备份、更新检测、资源监控、启动分析、后台管理、超级墓碑、双声音通知、应用冷冻、依赖关系分析、进程关系图谱、应用DNA分析、网络流量监控、A/B对比测试、Tweak热加载、剪贴板监控、发热追踪、沙盒检查、Hook探测、进程快照对比等。
+Filename: debs/com.rain.processmonitor_1.1.1-14+unlocked_iphoneos-arm64e.deb
+Size: 311952
+MD5sum: 8cff2f4ab5515c1f014d29529aea7553
+SHA1: ceec9ccdbe08320f3ce02c7e4c82ef6fc04585d2
+SHA256: c35d6c607463c03c119153578bfdb336b58693e218ce531486751a33e3181f61
