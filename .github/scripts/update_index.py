@@ -97,6 +97,25 @@ def parse_ar_deb(path):
         return None
 
 
+def normalize_section(sec, name, pkg):
+    """新插件 Section 归一化到三大类：微信插件 / 系统美化 / 实用工具（禁止新分类）"""
+    sec = (sec or '').strip()
+    name = (name or '').strip()
+    pkg = (pkg or '').strip()
+    if sec in ('微信插件', '系统美化', '实用工具'):
+        return sec
+    text = (sec + ' ' + name + ' ' + pkg).lower()
+    if any(k in text for k in (
+            '微信', 'wechat', 'weixin', 'wcglass', 'wcliquidglass',
+            'liquidui', 'wechatx', 'wkk.wechatx')):
+        return '微信插件'
+    if any(k in text for k in (
+            '美化', '液态', '灵动', '控制中心', '玻璃', 'glass', '主题',
+            'dock', '水印', '圆角', '套壳', '开关', '壁纸', '背景', '弹窗')):
+        return '系统美化'
+    return '实用工具'
+
+
 def ascii_safe_name(package, version, arch):
     """生成安全文件名：Package_Version_Arch.deb（去非法字符）"""
     def safe(s):
@@ -256,6 +275,10 @@ def main():
         package = control.get('Package', '')
         version = control.get('Version', '')
         arch = control.get('Architecture', 'iphoneos-arm64')
+        # 新插件 Section 归一化：只归入三大类，不新增分类
+        if 'Section' in control:
+            control['Section'] = normalize_section(
+                control.get('Section'), control.get('Name'), package)
         with open(fpath, 'rb') as f:
             data = f.read()
         size = len(data)
