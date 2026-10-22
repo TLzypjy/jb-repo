@@ -1782,3 +1782,18 @@ Size: 311952
 MD5sum: 8cff2f4ab5515c1f014d29529aea7553
 SHA1: ceec9ccdbe08320f3ce02c7e4c82ef6fc04585d2
 SHA256: c35d6c607463c03c119153578bfdb336b58693e218ce531486751a33e3181f61
+
+Package: com.rain.rainmhz
+Name: Rain 的 Mhz（免授权）
+Version: 6.14.1-1
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: Rain
+Maintainer: Rain
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist (>= 1.0.4)
+Description: Rain的CPU性能与稳帧控制插件
+Filename: debs/com.rain.rainmhz_6.14.1-1_iphoneos-arm64.deb
+Size: 183964
+MD5sum: 9c68928e2cab4229298e2de640cf1884
+SHA1: 0e4b192db287d928a787a19fe8fb9731877dafd3
+SHA256: 936598e512411a685da8ec0d623fdbeda410c0aa68d2ace876088e4e28ddf4e5
