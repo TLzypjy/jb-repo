@@ -1812,3 +1812,18 @@ Size: 15872
 MD5sum: b55b7dc7d98c1c4f417b144bc46dd69b
 SHA1: b1aaf16d5b1f18d405b5a040197bac338162d4c1
 SHA256: 2e293ed6d60710885557972ef9d96943cac71cb7bf6506a92c4a5a271d433761
+
+Package: com.tlzypjy.help
+Name: TL回收站使用说明（必看）
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Section: 实用工具
+Author: TL回收站
+Maintainer: TL回收站
+Depends: firmware (>= 13.0)
+Description: TL回收站 源使用说明（空包，无任何功能）
+Filename: debs/com.tlzypjy.help_1.0.0_iphoneos-arm64.deb
+Size: 738
+MD5sum: 1b7f098fc60c79e49a43b8a3c43d37b3
+SHA1: b812f6c9784fd65a3a0fe7d4f1392be510b563d6
+SHA256: 1d084159aed4149e5454d368b643ce448f2c85ede61f78df4df9420538adf525
