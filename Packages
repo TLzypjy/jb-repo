@@ -552,36 +552,6 @@ MD5sum: 32fabccf8ebb4017e835c77a38d95c64
 SHA1: 713070f2b29e4b6adc89a16694303f399b260ea2
 SHA256: fc01a6b7817af066aae2c30339933710aabc652c715e6f82013688177ef83ab6
 
-Package: com.liquidui.liquidui
-Name: LiquidUI（免授权）
-Version: 1.78
-Architecture: iphoneos-arm64e
-Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。旧版本，供降级使用。
-Maintainer: TLzypjy
-Author: TLzypjy
-Section: 微信插件
-Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.liquidui.liquidui_1.78_iphoneos-arm64e.deb
-Size: 15816600
-MD5sum: 227648cbb27f60782a8b4e61894eda67
-SHA1: f223b08864ff3cf890127d0248d9ad5d2eed8364
-SHA256: c2dd6878b49b60eb767cdeb8f17307b7a3d549665f95341fbfdaeed34320b61d
-
-Package: com.liquidui.liquidui
-Name: LiquidUI（免授权）
-Version: 1.80
-Architecture: iphoneos-arm64e
-Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。
-Maintainer: TLzypjy
-Author: TLzypjy
-Section: 微信插件
-Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
-Filename: https://cdn.jsdelivr.net/gh/TLzypjy/jb-repo@main/debs/com.liquidui.liquidui_1.80_iphoneos-arm64e.deb
-Size: 16592608
-MD5sum: c25cdb8e82604d138f7e345b69fc71dc
-SHA1: 385c397f22010d5bd70dbd8d0d4fe9cc6c6426ed
-SHA256: 1aa428f058226b9ec46fdf31fa9b6d8e5f28bd53d91d22b693546d7b76bab591
-
 Package: com.nx.stheno
 Name: Stheno奥利奥分屏
 Description: Stheno分屏正式版（关闭诊断文件日志） 下拉分屏点击全屏 只支持原生横幅通知。原插件含激活码授权验证，仅自用。
@@ -1842,3 +1812,33 @@ Size: 22444128
 MD5sum: 1b6a6eaa66600e29f4b5a061a21dff00
 SHA1: 13fe48a9108a789ecc2cf7e3402104a4a75db1f5
 SHA256: 4b31d33e15feb3b9fc792cd3343411984230f375cb5e7e2808304769e5d4ed03
+
+Package: com.liquidui.liquidui178
+Name: LiquidUI（免授权）
+Version: 1.78
+Architecture: iphoneos-arm64e
+Section: 微信插件
+Author: TLzypjy
+Maintainer: TLzypjy
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。旧版本，供降级使用。
+Filename: debs/com.liquidui.liquidui178_1.78_iphoneos-arm64e.deb
+Size: 15840596
+MD5sum: 747c2be346ceea30d65bc915691aa2d3
+SHA1: 6ac7a713236194a6e2a2e34797dbb6aa4c460633
+SHA256: 188a3bbb2b62bd0d97700b6391347532ae2920d8406d4c801e13598a55c7c1a4
+
+Package: com.liquidui.liquidui180
+Name: LiquidUI（免授权）
+Version: 1.80
+Architecture: iphoneos-arm64e
+Section: 微信插件
+Author: TLzypjy
+Maintainer: TLzypjy
+Depends: mobilesubstrate | org.coolstar.libhooker | ellekit, firmware (>= 15.0)
+Description: 微信液态玻璃美化插件，已去除授权。微信界面液态玻璃风格美化，含输入框、列表、动态岛等组件。
+Filename: debs/com.liquidui.liquidui180_1.80_iphoneos-arm64e.deb
+Size: 16616360
+MD5sum: 3be38c9b409d0361f42471c6efd91767
+SHA1: 5e28700678b96818ad3c6ca7fa64ff3b77e7e2e3
+SHA256: 5834f00b6660f106e21c065ec559b1a81c06fd72d6cb031761a894b640777245
