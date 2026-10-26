@@ -1842,3 +1842,18 @@ Size: 16616360
 MD5sum: 3be38c9b409d0361f42471c6efd91767
 SHA1: 5e28700678b96818ad3c6ca7fa64ff3b77e7e2e3
 SHA256: 5834f00b6660f106e21c065ec559b1a81c06fd72d6cb031761a894b640777245
+
+Package: com.codex.ccplayer
+Name: CC 播放器（免授权）
+Version: 1.7.226-1
+Architecture: iphoneos-arm64e
+Section: 实用工具
+Author: 夜辰
+Maintainer: 夜辰
+Depends: firmware (>= 14.0), preferenceloader
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
+Filename: debs/com.codex.ccplayer_1.7.226-1_iphoneos-arm64e.deb
+Size: 16201456
+MD5sum: 9afe7929ad8a002e9807cbf889cb837a
+SHA1: cf5ca02e6e88bbffa91e4b1fc1d7720057158355
+SHA256: 57c90c7bdfedd6e16d04cf0cf0b17d4ca407d8785f5b0ff7132687152ada18c1
