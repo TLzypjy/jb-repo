@@ -1857,3 +1857,19 @@ Size: 16201456
 MD5sum: 9afe7929ad8a002e9807cbf889cb837a
 SHA1: cf5ca02e6e88bbffa91e4b1fc1d7720057158355
 SHA256: 57c90c7bdfedd6e16d04cf0cf0b17d4ca407d8785f5b0ff7132687152ada18c1
+
+Package: com.mallin.tunnelsharevpn
+Name: VPN 共享（免授权）
+Version: 1.2.6-1
+Architecture: iphoneos-arm64
+Section: 实用工具
+Author: Mallin
+Maintainer: Mallin
+Depends: firmware (>= 15.0), mobilesubstrate | substitute | libhooker | ellekit, com.opa334.ccsupport, preferenceloader
+Icon: https://mallinrepo.pages.dev/depictions/tunnelsharevpn/icon.png
+Description: 该插件能够实现该手机的科学上网功能直接通过热点形式分享给其他设备，在“设置-控制中心”添加快捷键，即可实现一键操作，目前测试使用Shadowrocket科学上网，只用于科研与查阅外网资料！
+Filename: debs/com.mallin.tunnelsharevpn_1.2.6-1_iphoneos-arm64.deb
+Size: 170246
+MD5sum: bd219de6e1969ce91832ac5899c19efd
+SHA1: f2ac44684d42981274e4b57556c18f73793f1324
+SHA256: 9f1935e473f71e8e1c7fdd6a2df61b15718606fb935d9bdfae20151dfc6d202f
