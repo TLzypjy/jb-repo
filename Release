@@ -1,23 +1,23 @@
 Origin: personal-jb-repo
-Label:                                              TL回收站
+Label: 自用插件源
 Suite: stable
 Version: 1.0
 Codename: personal-jb-repo
-Architectures: iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 自用插件源
+Description: 自用插件源（个人自用，插件由本人维护）
 
 MD5Sum:
- 5f0b0562c93b19db58155648457f07d2 83269 Packages
- 89cc09e97d39cb05a5b5d939137cdb79 22718 Packages.bz2
- e63dc7e8257bcbd8dc6ba19c60c3a5bb 23196 Packages.xz
+ eb55498ca2bcd15f28a0f1dd4ebac677 38350 Packages
+ b19e091191e23bd7c938c528f5a2fe1d 12446 Packages.bz2
+ 7cf72e27e1c5f7b0c54c35986172d0db 12284 Packages.xz
 
 SHA1:
- 1f0e05e76c59bed6ce10528ca4384eafc3240d84 83269 Packages
- 430eb69e0d3c75a8b7dec8b09f1ccd61c76d2ba7 22718 Packages.bz2
- 97792f9c5a2a3a40833f4365a3ad6ef55b90723b 23196 Packages.xz
+ 28709db500629d96d326e1fbbcf7b524dc1f4c49 38350 Packages
+ b36b44e7d86caf9f4a29ef8699ea06f0eb223383 12446 Packages.bz2
+ 16c2cc7c1ef1586cc70f7b206962d48b37341120 12284 Packages.xz
 
 SHA256:
- a31d3a891c46cd9283c75481c54f6ca4bab2d73a2b6154e5862002128578c05b 83269 Packages
- 4221d207677faf9bb60296ba33296f5d4f3f543df49febeb431519c5cf146d7b 22718 Packages.bz2
- dfec63fca6cc018e19689ee5f5c3da052254a528542a3ba8cf3e6aa4082f9bfc 23196 Packages.xz
+ 9838273ceca2e94cd9bae5dc408f494cf6e7f1b3146ea1850b08b39c87b81363 38350 Packages
+ 0457b62e4b142aed1c099b257631806ca9d4c80cb5b41fe8c119008290a2c876 12446 Packages.bz2
+ 45c1461872b26ad363e4ab00179c12cb9e11b0b022577ab1aee537d98e2783a8 12284 Packages.xz
