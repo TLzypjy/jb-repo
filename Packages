@@ -1890,3 +1890,18 @@ Size: 926260
 MD5sum: d2f5a8834f1b8565bdeebfbe30b7c421
 SHA1: 3203df36bed5fef1c305ac5f09e5067091539992
 SHA256: 8e1e68773306628bb736ba479d1eacdfa92378103561f5b2ff619e930d879058
+
+Package: com.xiaomo.secretfriend
+Name: 微信独立密友（免授权）
+Version: 1.8
+Architecture: iphoneos-arm64
+Section: 微信插件
+Author: xiaomo
+Maintainer: xiaomo
+Depends: ellekit
+Description: 小莫助手 - 微信消息隐藏与联系人管理插件
+Filename: debs/com.xiaomo.secretfriend_1.8_iphoneos-arm64.deb
+Size: 391704
+MD5sum: b7928cb622c11ed83b1fc2f30a4b2b7d
+SHA1: 2afe016e98d619e5b443d00e61d3e9a533058aab
+SHA256: e912b17debe4fe9ab2de97f31d1b782149bebf6fe3d955ab4508738758ffbb4c
