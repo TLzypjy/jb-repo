@@ -1873,3 +1873,20 @@ Size: 170246
 MD5sum: bd219de6e1969ce91832ac5899c19efd
 SHA1: f2ac44684d42981274e4b57556c18f73793f1324
 SHA256: 9f1935e473f71e8e1c7fdd6a2df61b15718606fb935d9bdfae20151dfc6d202f
+
+Package: com.muzi.mutool
+Name: MUtool（免授权）
+Version: 2.2.83-1
+Architecture: iphoneos-arm64
+Section: 实用工具
+Author: Muzi
+Maintainer: Muzi
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Icon: https://muzikeji.github.io/sileo/icons/mutool.png
+SileoDepiction: https://muzikeji.github.io/sileo/depictions/com.muzi.mutool.json
+Description: MUtool 多功能工具集：灵动岛电池胶囊与电源菜单、桌面悬浮信息药丸（网速 / CPU / 内存 / 电池 / 天气 / 时间）、三合一状态栏、文件夹主题与大文件夹、通话自动录音与录屏增强、自动禁用 SIM 与卡槽管理、IPCC 运营商配置、WiFi 永连、充电提示音与 MagSafe 动画、温控调优、锁屏与主屏幕增强、定时任务、电池健康与深度信息。支持 rootless / roothide，iOS 15-17。
+Filename: debs/com.muzi.mutool_2.2.83-1_iphoneos-arm64.deb
+Size: 926260
+MD5sum: d2f5a8834f1b8565bdeebfbe30b7c421
+SHA1: 3203df36bed5fef1c305ac5f09e5067091539992
+SHA256: 8e1e68773306628bb736ba479d1eacdfa92378103561f5b2ff619e930d879058
